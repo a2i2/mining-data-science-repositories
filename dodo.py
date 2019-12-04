@@ -6,7 +6,7 @@ CONFIG = Config(os.path.dirname(__file__))
 DOIT_CONFIG = {'verbosity':2}
 PACKAGE_PATH = os.path.basename(CONFIG["package_path"])
 IMAGE = "%s/%s:%s" % (CONFIG["company"], CONFIG["image"], CONFIG["version"])
-
+DOCKER_VOLUME_PATH = "-v $(pwd)/input:/app/input -v $(pwd)/output:/app/output"
 PARAMS = [
     {
         'name': 'args',
@@ -53,7 +53,7 @@ def task_interactive():
 def task_prod():
     """Run the Docker container used for packaging """
     return {
-        'actions': ["docker run %s" % (IMAGE)],
+        'actions': ["docker run %s  %s" % (DOCKER_VOLUME_PATH, IMAGE)],
         'task_dep': ["build"],
         'params': PARAMS
     }

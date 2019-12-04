@@ -1,13 +1,17 @@
 FROM python:3.6.5
 
-
 WORKDIR /app
 
 COPY requirements.txt /app
 
 RUN pip3 install --trusted-host pypi.python.org -r requirements.txt
 
+RUN mkdir -p input
 
-COPY . /app
+RUN mkdir -p output
 
-CMD ["python3", "./mining_nlp_repositories/task_explore.py"]
+COPY mining_nlp_repositories/ /app/mining_nlp_repositories/
+
+WORKDIR /app/mining_nlp_repositories
+
+CMD ["python3", "task_explore.py"]
