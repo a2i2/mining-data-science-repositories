@@ -11,7 +11,3 @@ RUN mkdir -p input
 RUN mkdir -p output
 
 COPY mining_nlp_repositories/ /app/mining_nlp_repositories/
-
-WORKDIR /app/mining_nlp_repositories
-
-CMD ["python3", "task_explore.py"]

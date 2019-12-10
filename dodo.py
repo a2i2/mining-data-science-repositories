@@ -34,7 +34,7 @@ def task_remove():
 def task_explore():
     """Run the explore task for the project"""
     return {
-        'actions': ["docker run --volume \"%s/\":/app %s python3 ./%s/task_explore.py %s" % (CONFIG["volume_path"], IMAGE, PACKAGE_PATH, "%(args)s")],
+        'actions': ["docker run -w /app/%s --volume \"%s/\":/app %s python3 task_explore.py %s" % (PACKAGE_PATH, CONFIG["volume_path"], IMAGE, "%(args)s")],
         'params': PARAMS
     }
 
