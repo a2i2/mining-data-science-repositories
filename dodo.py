@@ -31,10 +31,19 @@ def task_remove():
         'params': PARAMS
     }
 
+
 def task_explore():
     """Run the explore task for the project"""
     return {
         'actions': ["docker run -w /app/%s --volume \"%s/\":/app %s python3 task_explore.py %s" % (PACKAGE_PATH, CONFIG["volume_path"], IMAGE, "%(args)s")],
+        'params': PARAMS
+    }
+
+
+def task_analyse_imports():
+    """Run the analyse imports task for the project"""
+    return {
+        'actions': ["docker run -w /app/%s --volume \"%s/\":/app %s python3 task_analyse_imports.py %s" % (PACKAGE_PATH, CONFIG["volume_path"], IMAGE, "%(args)s")],
         'params': PARAMS
     }
 
