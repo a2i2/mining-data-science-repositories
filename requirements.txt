@@ -1,3 +1,4 @@
 surround==0.0.12
 pylint==2.4.4
 findimports==1.5.2
+radon==4.0.0

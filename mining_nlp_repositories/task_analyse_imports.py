@@ -2,58 +2,107 @@ import os
 import subprocess
 import collections
 from surround import Config
+import pandas as pd
+import logging
+
+logging.basicConfig(filename='../debug.log',level=logging.DEBUG)
 
 config = Config()
 config.read_config_files(['config.yaml'])
 input_path = config['input_path']
 output_path = config['output_path']
 
+class ModuleInfo:
+    def __init__(self, repo, path, module_name, imports=[], parse_error=False):
+        self.repo = repo
+        self.path = path
+        # mapping of repo, path -> module_name
+        self.module_name = module_name
+        # mapping of repo, path -> [import]
+        self.imports = imports
+        self.parse_error = parse_error
+        self.errors = []
+    
+    def log(self, err):
+        self.errors.append(err)
 
-def analyse_imports(repo_dir, output_dir):
-    # mapping of import_name -> count
-    imports = collections.defaultdict(int)
+    @staticmethod
+    def from_findimports(repo, path, txt):
+        module_name = None
+        parse_error = False
+        imports = []
 
-    for dirname in os.listdir(path=repo_dir):
-        repo = os.path.join(repo_dir, dirname)
-        result = subprocess.run(["findimports", repo], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-
-        if len(result.stderr) > 0:
-            with open(os.path.join(output_dir, 'imports-' + dirname + '.err'), 'wb') as f:
-                f.write(result.stderr)
-
-        if len(result.stdout) > 0:
-            with open(os.path.join(output_dir, 'imports-' + dirname + '.out'), 'wb') as f:
-                f.write(result.stdout)
-
-        # strip out duplicate imports
-        module_imports = set()
-
-        result_str = result.stdout.decode('utf-8')
-        for line in result_str.split('\n'):
-            import_str = line.strip()
-            if import_str == "":
+        lines = txt.split('\n')
+        for line in lines:
+            if line == "":
                 # ignore blank lines
                 continue
-            if import_str.endswith(":"):
-                # ignore module names (only interested in imports)
-                continue
+            if line.endswith(":"):
+                # module name
+                assert not module_name # should only be set once
+                module_name = line[:-1] # drop trailing ':'
+                module_name = module_name.strip() # drop any whitespace
             else:
-                module_imports.add(import_str.split(".")[0])
+                import_str = line.strip()
+                imports.append(import_str)
 
-        if len(module_imports) > 0:
-            with open(os.path.join(output_dir, 'imports-' + dirname + '.modules'), 'w') as f:
-                for i in module_imports:
-                    f.write(str(i) + '\n')
+        logging.info(lines)
+        logging.info([repo, path, module_name, imports])
+        
+        if not module_name:
+            parse_error = True
+            module_name = ""
+            
+        return ModuleInfo(repo, path, module_name, imports, parse_error)
 
-        for import_str in module_imports:
-            imports[import_str] += 1
+    # Class variable
+    ROW_HEADERS = ["repo", "path", "module_name", "import_name", "parse_error"]
 
-    with open(os.path.join(output_dir, 'imports-tally.csv'), 'w') as f:
-        for k,v in imports.items():
-            f.write(k + ', ' + str(v) + '\n')
+    def to_rows(self):
+        result = []
+        if not self.imports:
+            result.append([self.repo, self.path, self.module_name, "", self.parse_error]) # No imports
+        for import_name in self.imports:
+            result.append([self.repo, self.path, self.module_name, import_name, self.parse_error])
+        return result
 
+def process(repo, path, filepath, py_version="python3"):
+    result = subprocess.run([py_version, "-m", "findimports", filepath], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+    result_stdout = result.stdout.decode('utf-8')
+    modinfo = ModuleInfo.from_findimports(repo, path, result_stdout)
+    result_stderr = result.stderr.decode('utf-8')
+    modinfo.log(result_stderr)
+    return modinfo
+
+def analyse_imports(repo_dir, output_dir, py_version):
+    # Information Extraction:
+    # mapping of repo, path -> ModuleInfo
+    modules = {}
+
+    # Post Analysis:
+    # mapping of repo, path -> type
+
+    for dirpath, dirnames, filenames in os.walk(repo_dir):
+        for filename in filenames:
+            if filename.endswith(".py"):
+                logging.info([dirpath, filename])
+                filepath = os.path.join(dirpath, filename)
+                path = os.path.normpath(os.path.relpath(filepath, repo_dir))
+                repo = path.split(os.path.sep)[0]
+                modinfo = process(repo, path, filepath, py_version)
+                modules[(repo, path)] = modinfo
+
+    rows = []
+    for (repo, path), module in modules.items():
+        rows += module.to_rows()
+
+    df = pd.DataFrame.from_records(rows, columns=ModuleInfo.ROW_HEADERS)
+
+    output_filename = os.path.join(output_dir, "results_imports_" + py_version + ".csv")
+    df.to_csv(output_filename, index=False)
 
 if __name__ == "__main__":
     input_directory = os.path.join("../", input_path)
     output_directory = os.path.join("../", output_path)
-    analyse_imports(input_directory, output_directory)
+    analyse_imports(input_directory, output_directory, "python3")
+    analyse_imports(input_directory, output_directory, "python2")

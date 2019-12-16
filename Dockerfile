@@ -10,4 +10,10 @@ RUN mkdir -p input
 
 RUN mkdir -p output
 
-COPY mining_nlp_repositories/ /app/mining_nlp_repositories/
+RUN apt-get update && apt-get install -y python-pip
+
+COPY requirements_py2.txt /app
+
+RUN pip2 install --trusted-host pypi.python.org -r requirements_py2.txt
+
+#COPY mining_nlp_repositories/ /app/mining_nlp_repositories/

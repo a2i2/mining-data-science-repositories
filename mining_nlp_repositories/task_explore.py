@@ -1,9 +1,14 @@
 import os
+import subprocess
 from surround import Config
-from pylint.epylint import lint
+#from pylint.epylint import lint
 import sys
 import json
 import csv
+import logging
+
+logging.basicConfig(filename='../debug.log',level=logging.DEBUG)
+
 parser = json.JSONDecoder()
 
 config = Config()
@@ -25,8 +30,14 @@ def data_reader_from_text(file_name, list_name):
             break
     return list_name
 
+def lint(filepath, out_f, py_version='python3'):
+    result = subprocess.run([py_version, '-m', 'pylint', '--output-format', 'json', filepath], stdout=out_f, stderr=subprocess.PIPE)
+    #result_stdout = result.stdout.decode('utf-8')
+    result_stderr = result.stderr.decode('utf-8')
+    logging.info(result_stderr)
+    #return result_stdout
 
-if __name__ == "__main__":
+def run_pylint(py_version):
     input_directory = os.path.join("../", input_path)
     files = []
     parsed = []
@@ -39,19 +50,23 @@ if __name__ == "__main__":
         lst = [file for file in files]
         repository_list = []
         output_directory = os.path.join("../", output_path)
-        sys.stdout = open(os.path.join(output_directory, "text_output.txt"), 'w')
-        for i in lst:
-            repository_list.append(i.split('/', 3)[2])
-            lint(i, ['--output-format', 'json'])
-        sys.stdout.close()
-        parsed = data_reader_from_text(os.path.join(output_directory, "text_output.txt"), parsed)
+        txt_out_fname = os.path.join(output_directory, "text_output_" + py_version + ".txt")
+        with open(txt_out_fname, 'w') as out_f:
+            for i in lst:
+                repository_list.append(i.split('/', 3)[2])
+                lint(i, out_f, py_version)
+        parsed = data_reader_from_text(txt_out_fname, parsed)
         key_list = []
         for key in parsed[0]:
             key_list.append(key)
-            f = csv.writer(open(os.path.join(output_directory, 'structured.csv'), "w"))
+            f = csv.writer(open(os.path.join(output_directory, "structured_" + py_version + ".csv"), "w"))
             f.writerow(key_list)
         for index, record in enumerate(parsed):
             current_record = []
             for key in key_list:
                 current_record.append(record[key])
             f.writerow(current_record)
+
+if __name__ == "__main__":
+    run_pylint("python2")
+    run_pylint("python3")

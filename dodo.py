@@ -40,10 +40,34 @@ def task_explore():
     }
 
 
+def task_analyse_pylint():
+    """Run the analyse pylint task for the project"""
+    return {
+        'actions': ["docker run -w /app/%s --volume \"%s/\":/app %s python3 task_analyse_pylint.py %s" % (PACKAGE_PATH, CONFIG["volume_path"], IMAGE, "%(args)s")],
+        'params': PARAMS
+    }
+
+
+def task_analyse_version():
+    """Run the analyse version task for the project"""
+    return {
+        'actions': ["docker run -w /app/%s --volume \"%s/\":/app %s python3 task_analyse_version.py %s" % (PACKAGE_PATH, CONFIG["volume_path"], IMAGE, "%(args)s")],
+        'params': PARAMS
+    }
+
+
 def task_analyse_imports():
     """Run the analyse imports task for the project"""
     return {
         'actions': ["docker run -w /app/%s --volume \"%s/\":/app %s python3 task_analyse_imports.py %s" % (PACKAGE_PATH, CONFIG["volume_path"], IMAGE, "%(args)s")],
+        'params': PARAMS
+    }
+
+
+def task_analyse_2to3():
+    """Run the analyse 2to3 task for the project"""
+    return {
+        'actions': ["docker run -w /app/%s --volume \"%s/\":/app %s python3 task_analyse_2to3.py %s" % (PACKAGE_PATH, CONFIG["volume_path"], IMAGE, "%(args)s")],
         'params': PARAMS
     }
 
