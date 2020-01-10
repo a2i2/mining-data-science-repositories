@@ -5,7 +5,8 @@ import ast
 # https://stackoverflow.com/questions/40886456/how-to-detect-if-code-is-python-3-compatible/40886697#40886697
 
 def test(fname):
-    with open(fname) as f:
+    # Open in binary mode (else UTF-8 BOM will cause parse error if read as text)
+    with open(fname, 'rb') as f:
         src_code = f.read()
     try:
         ast.parse(src_code)
