@@ -4,11 +4,6 @@ Utility functions to manage an import graph
 
 import pandas as pd
 import numpy as np
-import logging
-import warnings
-
-logging.basicConfig(filename='importgraph.log', level=logging.DEBUG)
-log = logging.getLogger('importgraph')
 
 
 def strip_init(mod, end=".__init__"):
@@ -63,7 +58,6 @@ def analyse_project(module2imports, module2hops_init):
             left_on="import_name",
             right_on="module_name",
             suffixes=("_m", "_h")
-            #validate="one_to_many" # TODO: Re-enable validation
         )
 
         # Update the hop distance of the module to be the minimum of its imports (+1)
@@ -155,17 +149,9 @@ def modules2paths(
     # Pre-process with sanitize_modules(...) to ensure this does not happen.
     is_unique = path2hops["module_name"][~pd.isnull(path2hops["module_name"])].is_unique
 
-    # TODO: Remove this, and just do an assertion insted
-    if not is_unique:
-        # TODO: pass the repo name in for logging purposes.
-        # As a workaround, extract it from (first) path
-        repo = path2hops["path"].iloc[0].split("/")[0]
-        # TODO: Create easy means to log this to a table
-        warnings.warn("Duplicate module name: {}".format(repo), RuntimeWarning)
-
     # Can optionally disable this, but results may be misleading,
     # as if multiple paths have the same module name, they may end up with each other's results.
-    assert is_unique
+    assert is_unique, "Duplicate module name"
     
     return path2hops.sort_values(by = "path").reset_index(drop = True)
 
