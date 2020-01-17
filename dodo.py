@@ -48,6 +48,14 @@ def task_analyse_pylint():
     }
 
 
+def task_analyse_radon_raw():
+    """Run the analyse radon raw task for the project"""
+    return {
+        'actions': ["docker run -w /app/%s --volume \"%s/\":/app %s python3 task_analyse_radon_raw.py %s" % (PACKAGE_PATH, CONFIG["volume_path"], IMAGE, "%(args)s")],
+        'params': PARAMS
+    }
+
+
 def task_analyse_version():
     """Run the analyse version task for the project"""
     return {

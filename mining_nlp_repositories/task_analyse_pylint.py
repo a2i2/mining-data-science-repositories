@@ -25,9 +25,6 @@ class ModuleInfo:
         self.pylint_results = pylint_results
         self.parse_error = parse_error
         self.internal_error = internal_error # internal errors from pylint or in parsing pylint output
-    
-    def log(self, err):
-        self.errors.append(err)
 
     # Field names that occur in pylint JSON
     PYLINT_FIELDS = ["type", "module", "obj", "line", "column", "path", "symbol", "message", "message-id"]
@@ -66,6 +63,7 @@ class ModuleInfo:
             results.append(result_dict)
 
         for err in res:
+            # TODO: Remove this check (as it also flags parse errors related to imports)
             if err["message-id"] == "E0001":
                  parse_error = True
 
