@@ -47,7 +47,11 @@ class ModuleInfo:
             internal_error = True
 
         try:
-            res = json.loads(stdout_capture)
+            if stdout_capture == "":
+                # If Pylint2 detects no errors, it will have an empty output rather than an empty list []
+                res = []
+            else:
+                res = json.loads(stdout_capture)
         except ValueError as e:
             logging.error(e)
             internal_error = True
