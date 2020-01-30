@@ -5,7 +5,7 @@ from surround import Config
 import pandas as pd
 import logging
 
-logging.basicConfig(filename='../debug.log',level=logging.DEBUG)
+logging.basicConfig(filename='../output/debug.log',level=logging.DEBUG)
 
 config = Config()
 config.read_config_files(['config.yaml'])

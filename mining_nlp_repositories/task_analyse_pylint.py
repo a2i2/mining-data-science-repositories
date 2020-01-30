@@ -6,7 +6,7 @@ import pandas as pd
 import logging
 import json
 
-logging.basicConfig(filename='../debug.log',level=logging.DEBUG)
+logging.basicConfig(filename='../output/debug.log',level=logging.DEBUG)
 
 config = Config()
 config.read_config_files(['config.yaml'])

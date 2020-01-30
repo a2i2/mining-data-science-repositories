@@ -7,7 +7,7 @@ import json
 import csv
 import logging
 
-logging.basicConfig(filename='../debug.log',level=logging.DEBUG)
+logging.basicConfig(filename='../output/debug.log',level=logging.DEBUG)
 
 parser = json.JSONDecoder()
 

@@ -6,7 +6,7 @@ import pandas as pd
 import logging
 from py2or3_wrapper import to_py_str, test_py
 
-logging.basicConfig(filename='../debug.log',level=logging.DEBUG)
+logging.basicConfig(filename='../output/debug.log',level=logging.DEBUG)
 
 config = Config()
 config.read_config_files(['config.yaml'])
