@@ -17,6 +17,14 @@ output_path = config['output_path']
 # Path to pylintrc file to prevent "No config file found, using default configuration" in stderr
 PYLINT_RC_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "pylintrc_")
 
+# Run Pylint within Python venv to ensure control over which libraries are present when Pylint does its checks.
+PY2_ENV = "/app/clean_env_py2/bin/"
+PY3_ENV = "/app/clean_env_py3/bin/"
+PY_ENV = {
+    "python2": PY2_ENV,
+    "python3": PY3_ENV
+}
+
 class ModuleInfo:
     def __init__(self, repo, path, pylint_results=[], parse_error=False, internal_error=False):
         self.repo = repo
@@ -85,11 +93,15 @@ class ModuleInfo:
             result.append([self.repo, self.path] + [pylint_result[field] for field in ModuleInfo.PYLINT_FIELDS] + [self.parse_error, self.internal_error])
         return result
 
-def process(repo, repo_subdir, path, filepath, filepath_rel, py_version="python3"):
+def process(repo, repo_subdir, path, filepath, filepath_rel, py_version="python3", py_env=""):
     logging.info(repo_subdir)
     # set working dir to root of project so that imports resolve correctly
     # (doesn't make any difference unless run for whole project at the module level)
-    result = subprocess.run([py_version, "-m", "pylint", "--output-format", "json", "--rcfile", PYLINT_RC_FILE + py_version, filepath_rel],
+    result = subprocess.run([os.path.join(py_env, py_version),
+                             "-m", "pylint",
+                             "--output-format", "json",
+                             "--rcfile", PYLINT_RC_FILE + py_version,
+                             filepath_rel],
         cwd=repo_subdir,
         stdout=subprocess.PIPE, stderr=subprocess.PIPE)
     result_stdout = result.stdout.decode('utf-8')
@@ -111,7 +123,7 @@ def analyse_pylint(repo_dir, output_dir, py_version):
                 repo = path.split(os.path.sep)[0]
                 repo_subdir = os.path.join(repo_dir, repo)
                 filepath_rel = os.path.normpath(os.path.relpath(filepath, repo_subdir))
-                modinfo = process(repo, repo_subdir, path, filepath, filepath_rel, py_version)
+                modinfo = process(repo, repo_subdir, path, filepath, filepath_rel, py_version, PY_ENV[py_version])
                 modules[(repo, path)] = modinfo
 
     rows = []

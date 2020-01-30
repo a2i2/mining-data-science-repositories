@@ -1,12 +1,17 @@
 import os
 import subprocess
 from surround import Config
+import shlex
 
 CONFIG = Config(os.path.dirname(__file__))
 DOIT_CONFIG = {'verbosity':2}
 PACKAGE_PATH = os.path.basename(CONFIG["package_path"])
 IMAGE = "%s/%s:%s" % (CONFIG["company"], CONFIG["image"], CONFIG["version"])
-DOCKER_VOLUME_PATH = "-v $(pwd)/input:/app/input -v $(pwd)/output:/app/output"
+DOCKER_VOLUME_PATH = ["--volume", "%s/input:/app/input" % CONFIG["volume_path"],
+                      "--volume", "%s/output:/app/output" % CONFIG["volume_path"],
+                      "--volume", "{0}/{1}:/app/{1}".format(CONFIG["volume_path"], PACKAGE_PATH)]
+DOCKER_VOLUME_PATH_STRING = ' '.join(shlex.quote(arg) for arg in DOCKER_VOLUME_PATH)
+
 PARAMS = [
     {
         'name': 'args',
@@ -35,7 +40,7 @@ def task_remove():
 def task_explore():
     """Run the explore task for the project"""
     return {
-        'actions': ["docker run -w /app/%s --volume \"%s/\":/app %s python3 task_explore.py %s" % (PACKAGE_PATH, CONFIG["volume_path"], IMAGE, "%(args)s")],
+        'actions': ["docker run -w /app/%s %s %s python3 task_explore.py %s" % (PACKAGE_PATH, DOCKER_VOLUME_PATH_STRING, IMAGE, "%(args)s")],
         'params': PARAMS
     }
 
@@ -43,7 +48,7 @@ def task_explore():
 def task_analyse_pylint():
     """Run the analyse pylint task for the project"""
     return {
-        'actions': ["docker run -w /app/%s --volume \"%s/\":/app %s python3 task_analyse_pylint.py %s" % (PACKAGE_PATH, CONFIG["volume_path"], IMAGE, "%(args)s")],
+        'actions': ["docker run -w /app/%s %s %s python3 task_analyse_pylint.py %s" % (PACKAGE_PATH, DOCKER_VOLUME_PATH_STRING, IMAGE, "%(args)s")],
         'params': PARAMS
     }
 
@@ -51,7 +56,7 @@ def task_analyse_pylint():
 def task_analyse_radon_raw():
     """Run the analyse radon raw task for the project"""
     return {
-        'actions': ["docker run -w /app/%s --volume \"%s/\":/app %s python3 task_analyse_radon_raw.py %s" % (PACKAGE_PATH, CONFIG["volume_path"], IMAGE, "%(args)s")],
+        'actions': ["docker run -w /app/%s %s %s python3 task_analyse_radon_raw.py %s" % (PACKAGE_PATH, DOCKER_VOLUME_PATH_STRING, IMAGE, "%(args)s")],
         'params': PARAMS
     }
 
@@ -59,7 +64,7 @@ def task_analyse_radon_raw():
 def task_analyse_version():
     """Run the analyse version task for the project"""
     return {
-        'actions': ["docker run -w /app/%s --volume \"%s/\":/app %s python3 task_analyse_version.py %s" % (PACKAGE_PATH, CONFIG["volume_path"], IMAGE, "%(args)s")],
+        'actions': ["docker run -w /app/%s %s %s python3 task_analyse_version.py %s" % (PACKAGE_PATH, DOCKER_VOLUME_PATH_STRING, IMAGE, "%(args)s")],
         'params': PARAMS
     }
 
@@ -67,7 +72,7 @@ def task_analyse_version():
 def task_analyse_imports():
     """Run the analyse imports task for the project"""
     return {
-        'actions': ["docker run -w /app/%s --volume \"%s/\":/app %s python3 task_analyse_imports.py %s" % (PACKAGE_PATH, CONFIG["volume_path"], IMAGE, "%(args)s")],
+        'actions': ["docker run -w /app/%s %s %s python3 task_analyse_imports.py %s" % (PACKAGE_PATH, DOCKER_VOLUME_PATH_STRING, IMAGE, "%(args)s")],
         'params': PARAMS
     }
 
@@ -75,7 +80,7 @@ def task_analyse_imports():
 def task_analyse_2to3():
     """Run the analyse 2to3 task for the project"""
     return {
-        'actions': ["docker run -w /app/%s --volume \"%s/\":/app %s python3 task_analyse_2to3.py %s" % (PACKAGE_PATH, CONFIG["volume_path"], IMAGE, "%(args)s")],
+        'actions': ["docker run -w /app/%s %s %s python3 task_analyse_2to3.py %s" % (PACKAGE_PATH, DOCKER_VOLUME_PATH_STRING, IMAGE, "%(args)s")],
         'params': PARAMS
     }
 
@@ -83,7 +88,7 @@ def task_analyse_2to3():
 def task_interactive():
     """Run the Docker container in interactive mode"""
     def run():
-        process = subprocess.Popen(['docker', 'run', '-it', '--rm', '-w', '/app', '--volume', '%s/:/app' % CONFIG['volume_path'], IMAGE, 'bash'], encoding='utf-8')
+        process = subprocess.Popen(['docker', 'run', '-it', '--rm', '-w', '/app'] + DOCKER_VOLUME_PATH + [IMAGE, 'bash'], encoding='utf-8')
         process.wait()
 
     return {
@@ -94,7 +99,7 @@ def task_interactive():
 def task_prod():
     """Run the Docker container used for packaging """
     return {
-        'actions': ["docker run %s  %s" % (DOCKER_VOLUME_PATH, IMAGE)],
+        'actions': ["docker run %s %s" % (DOCKER_VOLUME_PATH_STRING, IMAGE)],
         'task_dep': ["build"],
         'params': PARAMS
     }

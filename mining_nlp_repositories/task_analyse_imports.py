@@ -12,6 +12,13 @@ config.read_config_files(['config.yaml'])
 input_path = config['input_path']
 output_path = config['output_path']
 
+PY2_ENV = "/app/clean_env_py2/bin/"
+PY3_ENV = "/app/clean_env_py3/bin/"
+PY_ENV = {
+    "python2": PY2_ENV,
+    "python3": PY3_ENV
+}
+
 class ModuleInfo:
     def __init__(self, repo, path, module_name, imports=[], parse_error=False):
         self.repo = repo
@@ -66,8 +73,11 @@ class ModuleInfo:
             result.append([self.repo, self.path, self.module_name, import_name, self.parse_error])
         return result
 
-def process(repo, path, filepath, py_version="python3"):
-    result = subprocess.run([py_version, "-m", "findimports", filepath], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+def process(repo, path, filepath, py_version="python3", py_env=""):
+    result = subprocess.run([os.path.join(py_env, py_version),
+                             "-m", "findimports",
+                             filepath],
+        stdout=subprocess.PIPE, stderr=subprocess.PIPE)
     result_stdout = result.stdout.decode('utf-8')
     modinfo = ModuleInfo.from_findimports(repo, path, result_stdout)
     result_stderr = result.stderr.decode('utf-8')
@@ -89,7 +99,7 @@ def analyse_imports(repo_dir, output_dir, py_version):
                 filepath = os.path.join(dirpath, filename)
                 path = os.path.normpath(os.path.relpath(filepath, repo_dir))
                 repo = path.split(os.path.sep)[0]
-                modinfo = process(repo, path, filepath, py_version)
+                modinfo = process(repo, path, filepath, py_version, PY_ENV[py_version])
                 modules[(repo, path)] = modinfo
 
     rows = []

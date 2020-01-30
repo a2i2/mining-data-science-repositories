@@ -13,6 +13,13 @@ config.read_config_files(['config.yaml'])
 input_path = config['input_path']
 output_path = config['output_path']
 
+PY2_ENV = "/app/clean_env_py2/bin/"
+PY3_ENV = "/app/clean_env_py3/bin/"
+PY_ENV = {
+    "python2": PY2_ENV,
+    "python3": PY3_ENV
+}
+
 class ModuleInfo:
     def __init__(self, repo, path, radon_result={}, parse_error=False, internal_error=False):
         self.repo = repo
@@ -69,8 +76,10 @@ class ModuleInfo:
     def to_rows(self):
         return [self.to_row()]
 
-def process(repo, repo_subdir, path, filepath, filepath_rel, py_version="python3"):
-    result = subprocess.run([py_version, "-m", "radon", "raw", "-j", filepath_rel],
+def process(repo, repo_subdir, path, filepath, filepath_rel, py_version="python3", py_env=""):
+    result = subprocess.run([os.path.join(py_env, py_version),
+                             "-m", "radon", "raw", "-j",
+                             filepath_rel],
         cwd=repo_subdir,
         stdout=subprocess.PIPE, stderr=subprocess.PIPE)
     result_stdout = result.stdout.decode('utf-8')
@@ -95,7 +104,7 @@ def analyse_radon(repo_dir, output_dir, py_version):
                 repo = path.split(os.path.sep)[0]
                 repo_subdir = os.path.join(repo_dir, repo)
                 filepath_rel = os.path.normpath(os.path.relpath(filepath, repo_subdir))
-                modinfo = process(repo, repo_subdir, path, filepath, filepath_rel, py_version)
+                modinfo = process(repo, repo_subdir, path, filepath, filepath_rel, py_version, PY_ENV[py_version])
                 modules[(repo, path)] = modinfo
 
     rows = []
