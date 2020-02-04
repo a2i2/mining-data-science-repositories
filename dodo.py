@@ -61,6 +61,14 @@ def task_analyse_radon_raw():
     }
 
 
+def task_analyse_radon_cc():
+    """Run the analyse radon cc task for the project"""
+    return {
+        'actions': ["docker run -w /app/%s %s %s python3 task_analyse_radon_cc.py %s" % (PACKAGE_PATH, DOCKER_VOLUME_PATH_STRING, IMAGE, "%(args)s")],
+        'params': PARAMS
+    }
+
+
 def task_analyse_version():
     """Run the analyse version task for the project"""
     return {
