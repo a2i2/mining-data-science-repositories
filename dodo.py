@@ -37,14 +37,6 @@ def task_remove():
     }
 
 
-def task_explore():
-    """Run the explore task for the project"""
-    return {
-        'actions': ["docker run -w /app/%s %s %s python3 task_explore.py %s" % (PACKAGE_PATH, DOCKER_VOLUME_PATH_STRING, IMAGE, "%(args)s")],
-        'params': PARAMS
-    }
-
-
 def task_analyse_pylint():
     """Run the analyse pylint task for the project"""
     return {
