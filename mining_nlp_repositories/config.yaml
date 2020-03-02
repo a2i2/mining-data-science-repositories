@@ -1,3 +1,5 @@
 image: mining-nlp-repositories
 company: a2i2
 version: latest
+input_path: input
+output_path: output
