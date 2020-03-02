@@ -1,4 +1,22 @@
 BOA_REPOS = [
+
+# -----------------------------------------------
+#                 Repos not available:
+# -----------------------------------------------
+#
+#  'Mitemcinal/Keras_FB',
+#  'Russell91/TensorBox',
+#  'asavinov/lambdo',
+#  'glossary95/TensorFlow-Chinese-Tutorial',
+#  'imhuay/Algorithm_Interview_Notes-Chinese',
+#  'vyraun/chatbot-MemN2N-tensorflow',
+
+
+#  ---------------------------------------------
+#                 Repos available:
+# ----------------------------------------------
+
+
  '13o-bbr-bbq/machine_learning_security',
  '527515025/My-TensorFlow-tutorials',
  'A-bone1/Attention-ocr-Chinese-Version',
@@ -199,7 +217,6 @@ BOA_REPOS = [
  'MicrosoftResearch/Azimuth',
  'MikeTheWatchGuy/PySimpleGUI',
  'MillionIntegrals/vel',
- 'Mitemcinal/Keras_FB',
  'Morphl-AI/MorphL-Community-Edition',
  'MorvanZhou/Tensorflow-Computer-Vision-Tutorial',
  'MorvanZhou/Tensorflow-Tutorial',
@@ -257,7 +274,6 @@ BOA_REPOS = [
  'Rochester-NRT/RocAlphaGo',
  'RubensZimbres/Repo-2016',
  'RubensZimbres/Repo-2017',
- 'Russell91/TensorBox',
  'Samurais/insuranceqa-corpus-zh',
  'ScarletPan/Kaggle-Rental-Listing-Inquireies',
  'ScottfreeLLC/AlphaPy',
@@ -395,7 +411,6 @@ BOA_REPOS = [
  'artcg/BEGAN',
  'artpar/languagecrunch',
  'asanakoy/deeppose_tf',
- 'asavinov/lambdo',
  'aseveryn/deep-qa',
  'ashnkumar/sketch-code',
  'asmith26/wide_resnets_keras',
@@ -704,7 +719,6 @@ BOA_REPOS = [
  'giacbrd/ShallowLearn',
  'gitlimlab/Relation-Network-Tensorflow',
  'gliese581gg/DQN_tensorflow',
- 'glossary95/TensorFlow-Chinese-Tutorial',
  'golbin/TensorFlow-ML-Exercises',
  'goodfeli/theano_exercises',
  'google-research/batch-ppo',
@@ -791,7 +805,6 @@ BOA_REPOS = [
  'ilivans/tf-rnn-attention',
  'ilovin/lstm_ctc_ocr',
  'imatge-upc/skiprnn-2017-telecombcn',
- 'imhuay/Algorithm_Interview_Notes-Chinese',
  'imistyrain/caffe-oneclick',
  'indiejoseph/cnn-text-classification-tf-chinese',
  'indrajithi/genquest',
@@ -1467,7 +1480,6 @@ BOA_REPOS = [
  'vrenkens/nabu',
  'vrenkens/tfkaldi',
  'vudung45/FaceRec',
- 'vyraun/chatbot-MemN2N-tensorflow',
  'waleedka/hiddenlayer',
  'wangheda/youtube-8m',
  'warmspringwinds/tf-image-segmentation',
