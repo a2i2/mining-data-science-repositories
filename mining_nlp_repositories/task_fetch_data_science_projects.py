@@ -1,5 +1,6 @@
 import requests
 import github
+import boa_repos
 
 URL_PREFIX = 'https://api.github.com/repos/'
 
@@ -12,9 +13,9 @@ def build_url(repo_name):
     return URL_PREFIX + repo_name
 
 def main():
-    repo_name = '13o-bbr-bbq/machine_learning_security'
-    url = build_url(repo_name)
-    print(send_get_request(url))
+    for repo in boa_repos.BOA_REPOS:
+        url = build_url(repo)
+        print(send_get_request(url))
 
 if __name__ == "__main__":
     main()
