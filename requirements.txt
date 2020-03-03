@@ -1,1 +1,2 @@
+requests==2.21.0
 surround==0.0.12
