@@ -1,3 +1,9 @@
+"""
+Extracted from https://github.com/boalang/MSR19-DataShowcase/blob/master/info.txt
+
+Biswas, S., Islam, M. J., Huang, Y., & Rajan, H. (2019). Boa Meets Python: A Boa Dataset of Data Science Software in Python Language. In M.-A. D. Storey, B. Adams, & S. Haiduc (Eds.), 2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR) (pp. 577–581). https://doi.org/10.1109/MSR.2019.00086
+"""
+
 BOA_REPOS = [
 
 # -----------------------------------------------
