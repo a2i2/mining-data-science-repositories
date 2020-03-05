@@ -68,6 +68,7 @@ def generate_csv():
 
 def main():
     repos_from_big_query = read_csv(BIG_QUERY_CSV)
+    repos_from_big_query.pop(0)
     for repo in repos_from_big_query:
         url = repo[2]
         print(url)
