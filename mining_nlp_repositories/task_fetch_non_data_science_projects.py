@@ -71,7 +71,6 @@ def main():
     repos_from_big_query.pop(0)
     for repo in repos_from_big_query:
         url = repo[2]
-        print(url)
         repo_details = get_repo_details(url)
         if 'name' in repo_details:
             path = get_file_path(repo_details['id'])
