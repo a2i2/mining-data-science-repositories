@@ -1,7 +1,7 @@
 
 SELECT projects.id, projects.name, projects.url, projects.description, projects.language, COUNT(watchers.user_id) AS stars
-    FROM `ghtorrent-bq.ght_2018_04_01.projects` AS projects
-    LEFT JOIN `ghtorrent-bq.ght_2018_04_01.watchers` AS watchers
+    FROM [ghtorrent-bq.ght_2018_04_01.projects] AS projects
+    LEFT JOIN [ghtorrent-bq.ght_2018_04_01.watchers] AS watchers
     ON projects.id = watchers.repo_id
     WHERE ((forked_from IS NULL)
     AND (projects.language = 'Python')
