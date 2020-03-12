@@ -51,22 +51,17 @@ def get_file_path(file_name):
 def process_json(path_to_json):
     data = read_json_response(path_to_json)
 
-    commits_url = build_url(data['full_name']) + '/commits'
-    response = send_get_request(commits_url)
-    number_of_commits = len(response)
-
     contributors_url = build_url(data['full_name']) + '/contributors'
     response = send_get_request(contributors_url)
     number_of_contributors = len(response)
 
-
     time.sleep(20)
 
-    object_to_write = [data['id'], data['name'], data['full_name'], data['url'], data['html_url'], data['stargazers_count'], data['created_at'], data['updated_at'], data['pushed_at'], data['size'], data['language'], data['forks_count'], data['open_issues_count'], data['subscribers_count'], data['description'], number_of_commits, number_of_contributors]
+    object_to_write = [data['id'], data['name'], data['full_name'], data['url'], data['html_url'], data['stargazers_count'], data['created_at'], data['updated_at'], data['pushed_at'], data['size'], data['language'], data['forks_count'], data['open_issues_count'], data['subscribers_count'], data['description'], number_of_contributors]
     write_csv(object_to_write, PATH_TO_CSV)
 
 def generate_csv():
-    csv_header = ['id', 'name', 'full_name', 'url', 'html_url', 'stars', 'created_at', 'updated_at', 'pushed_at', 'size', 'language', 'forks_count', 'open_issues_count', 'watch', 'description', 'number_of_commits', 'number_of_contributors']
+    csv_header = ['id', 'name', 'full_name', 'url', 'html_url', 'stars', 'created_at', 'updated_at', 'pushed_at', 'size', 'language', 'forks_count', 'open_issues_count', 'watch', 'description', 'number_of_contributors']
     write_csv(csv_header, PATH_TO_CSV)
 
     # Analyse json responses
