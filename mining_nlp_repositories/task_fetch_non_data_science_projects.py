@@ -76,14 +76,14 @@ def main():
         if 'name' in repo_details:
             path = get_file_path(repo_details['id'])
             write_json_response(repo_details, path)
-        elif 'rate limit' in repo_details.message:
-            path = os.path.join('data/non-data-science/api-limit', str(repo_details['id']) + '.json')
+        elif 'rate limit' in repo_details['message']:
+            path = os.path.join('data/non-data-science/api-limit', str(repo[0]) + '.json')
             write_json_response(repo_details, path)
         else:
-            path = os.path.join('data/non-data-science/not-present', str(repo_details['id']) + '.json')
+            path = os.path.join('data/non-data-science/not-present', str(repo[0]) + '.json')
             write_json_response(repo_details, path)
 
-        time.sleep(400)
+        time.sleep(5)
 
     # Generate csv from the json responses
     generate_csv()
