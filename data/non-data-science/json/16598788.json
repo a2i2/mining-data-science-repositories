@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/jekyc/wig/releases{/id}",
     "deployments_url": "https://api.github.com/repos/jekyc/wig/deployments",
     "created_at": "2014-02-07T00:03:40Z",
-    "updated_at": "2020-03-05T12:30:56Z",
+    "updated_at": "2020-03-11T04:36:08Z",
     "pushed_at": "2018-05-29T02:29:07Z",
     "git_url": "git://github.com/jekyc/wig.git",
     "ssh_url": "git@github.com:jekyc/wig.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/jekyc/wig",
     "homepage": null,
     "size": 5426,
-    "stargazers_count": 453,
-    "watchers_count": 453,
+    "stargazers_count": 456,
+    "watchers_count": 456,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 129,
+    "forks_count": 130,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/bsd-2-clause",
         "node_id": "MDc6TGljZW5zZTQ="
     },
-    "forks": 129,
+    "forks": 130,
     "open_issues": 13,
-    "watchers": 453,
+    "watchers": 456,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 129,
+    "network_count": 130,
     "subscribers_count": 39
 }

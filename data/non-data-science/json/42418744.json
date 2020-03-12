@@ -66,7 +66,7 @@
     "deployments_url": "https://api.github.com/repos/getpatchwork/patchwork/deployments",
     "created_at": "2015-09-14T00:46:39Z",
     "updated_at": "2020-03-02T17:14:19Z",
-    "pushed_at": "2020-03-04T13:25:16Z",
+    "pushed_at": "2020-03-11T02:21:58Z",
     "git_url": "git://github.com/getpatchwork/patchwork.git",
     "ssh_url": "git@github.com:getpatchwork/patchwork.git",
     "clone_url": "https://github.com/getpatchwork/patchwork.git",
@@ -81,11 +81,11 @@
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 47,
+    "forks_count": 48,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 58,
+    "open_issues_count": 59,
     "license": {
         "key": "gpl-2.0",
         "name": "GNU General Public License v2.0",
@@ -93,8 +93,8 @@
         "url": "https://api.github.com/licenses/gpl-2.0",
         "node_id": "MDc6TGljZW5zZTg="
     },
-    "forks": 47,
-    "open_issues": 58,
+    "forks": 48,
+    "open_issues": 59,
     "watchers": 152,
     "default_branch": "master",
     "permissions": {
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 47,
+    "network_count": 48,
     "subscribers_count": 18
 }

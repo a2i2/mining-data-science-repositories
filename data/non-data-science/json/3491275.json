@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/WoLpH/python-progressbar/releases{/id}",
     "deployments_url": "https://api.github.com/repos/WoLpH/python-progressbar/deployments",
     "created_at": "2012-02-20T06:19:21Z",
-    "updated_at": "2020-03-05T14:59:06Z",
+    "updated_at": "2020-03-09T07:54:13Z",
     "pushed_at": "2020-03-03T00:23:34Z",
     "git_url": "git://github.com/WoLpH/python-progressbar.git",
     "ssh_url": "git@github.com:WoLpH/python-progressbar.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/WoLpH/python-progressbar",
     "homepage": "http://progressbar-2.readthedocs.org/en/latest/",
     "size": 931,
-    "stargazers_count": 586,
-    "watchers_count": 586,
+    "stargazers_count": 588,
+    "watchers_count": 588,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 85,
+    "forks_count": 87,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/bsd-3-clause",
         "node_id": "MDc6TGljZW5zZTU="
     },
-    "forks": 85,
+    "forks": 87,
     "open_issues": 5,
-    "watchers": 586,
+    "watchers": 588,
     "default_branch": "develop",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 85,
+    "network_count": 87,
     "subscribers_count": 18
 }

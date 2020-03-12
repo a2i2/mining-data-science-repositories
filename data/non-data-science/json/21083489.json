@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/taxigps/xbmc-addons-chinese/releases{/id}",
     "deployments_url": "https://api.github.com/repos/taxigps/xbmc-addons-chinese/deployments",
     "created_at": "2014-06-22T02:14:27Z",
-    "updated_at": "2020-03-05T11:33:55Z",
+    "updated_at": "2020-03-11T06:18:09Z",
     "pushed_at": "2020-02-22T06:39:34Z",
     "git_url": "git://github.com/taxigps/xbmc-addons-chinese.git",
     "ssh_url": "git@github.com:taxigps/xbmc-addons-chinese.git",
@@ -73,19 +73,19 @@
     "svn_url": "https://github.com/taxigps/xbmc-addons-chinese",
     "homepage": null,
     "size": 63204,
-    "stargazers_count": 2345,
-    "watchers_count": 2345,
+    "stargazers_count": 2354,
+    "watchers_count": 2354,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 495,
+    "forks_count": 498,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 31,
+    "open_issues_count": 32,
     "license": {
         "key": "gpl-2.0",
         "name": "GNU General Public License v2.0",
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/gpl-2.0",
         "node_id": "MDc6TGljZW5zZTg="
     },
-    "forks": 495,
-    "open_issues": 31,
-    "watchers": 2345,
+    "forks": 498,
+    "open_issues": 32,
+    "watchers": 2354,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 495,
+    "network_count": 498,
     "subscribers_count": 216
 }

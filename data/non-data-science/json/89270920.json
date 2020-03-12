@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/D-X-Y/NAS-Bench-201/releases{/id}",
     "deployments_url": "https://api.github.com/repos/D-X-Y/NAS-Bench-201/deployments",
     "created_at": "2017-04-24T17:58:32Z",
-    "updated_at": "2020-03-03T17:17:33Z",
+    "updated_at": "2020-03-09T16:57:39Z",
     "pushed_at": "2020-01-22T01:15:38Z",
     "git_url": "git://github.com/D-X-Y/NAS-Bench-201.git",
     "ssh_url": "git@github.com:D-X-Y/NAS-Bench-201.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/D-X-Y/NAS-Bench-201",
     "homepage": "",
     "size": 24,
-    "stargazers_count": 428,
-    "watchers_count": 428,
+    "stargazers_count": 429,
+    "watchers_count": 429,
     "language": "Python",
     "has_issues": false,
     "has_projects": false,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 88,
+    "forks_count": 89,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 88,
+    "forks": 89,
     "open_issues": 0,
-    "watchers": 428,
+    "watchers": 429,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 88,
+    "network_count": 89,
     "subscribers_count": 13
 }

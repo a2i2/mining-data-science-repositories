@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/google/nucleus/releases{/id}",
     "deployments_url": "https://api.github.com/repos/google/nucleus/deployments",
     "created_at": "2018-03-26T17:58:07Z",
-    "updated_at": "2020-02-25T00:22:32Z",
+    "updated_at": "2020-03-09T05:43:49Z",
     "pushed_at": "2020-02-03T22:18:05Z",
     "git_url": "git://github.com/google/nucleus.git",
     "ssh_url": "git@github.com:google/nucleus.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/google/nucleus",
     "homepage": "",
     "size": 5886,
-    "stargazers_count": 560,
-    "watchers_count": 560,
+    "stargazers_count": 563,
+    "watchers_count": 563,
     "language": "C++",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 82,
+    "forks_count": 83,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/apache-2.0",
         "node_id": "MDc6TGljZW5zZTI="
     },
-    "forks": 82,
+    "forks": 83,
     "open_issues": 2,
-    "watchers": 560,
+    "watchers": 563,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 82,
+    "network_count": 83,
     "subscribers_count": 50
 }

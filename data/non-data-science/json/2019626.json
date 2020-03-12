@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/seatgeek/fuzzywuzzy/releases{/id}",
     "deployments_url": "https://api.github.com/repos/seatgeek/fuzzywuzzy/deployments",
     "created_at": "2011-07-08T19:32:34Z",
-    "updated_at": "2020-03-06T00:25:55Z",
+    "updated_at": "2020-03-10T16:53:08Z",
     "pushed_at": "2020-03-04T07:01:02Z",
     "git_url": "git://github.com/seatgeek/fuzzywuzzy.git",
     "ssh_url": "git@github.com:seatgeek/fuzzywuzzy.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/seatgeek/fuzzywuzzy",
     "homepage": "http://chairnerd.seatgeek.com/fuzzywuzzy-fuzzy-string-matching-in-python/",
     "size": 337,
-    "stargazers_count": 6615,
-    "watchers_count": 6615,
+    "stargazers_count": 6645,
+    "watchers_count": 6645,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 707,
+    "forks_count": 710,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/gpl-2.0",
         "node_id": "MDc6TGljZW5zZTg="
     },
-    "forks": 707,
+    "forks": 710,
     "open_issues": 70,
-    "watchers": 6615,
+    "watchers": 6645,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 707,
+    "network_count": 710,
     "subscribers_count": 230
 }

@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/Mebus/cupp/releases{/id}",
     "deployments_url": "https://api.github.com/repos/Mebus/cupp/deployments",
     "created_at": "2012-05-06T15:24:41Z",
-    "updated_at": "2020-03-05T22:08:56Z",
+    "updated_at": "2020-03-10T21:02:22Z",
     "pushed_at": "2019-07-22T11:30:15Z",
     "git_url": "git://github.com/Mebus/cupp.git",
     "ssh_url": "git@github.com:Mebus/cupp.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/Mebus/cupp",
     "homepage": null,
     "size": 101,
-    "stargazers_count": 1277,
-    "watchers_count": 1277,
+    "stargazers_count": 1284,
+    "watchers_count": 1284,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 544,
+    "forks_count": 547,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/gpl-3.0",
         "node_id": "MDc6TGljZW5zZTk="
     },
-    "forks": 544,
+    "forks": 547,
     "open_issues": 20,
-    "watchers": 1277,
+    "watchers": 1284,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 544,
-    "subscribers_count": 115
+    "network_count": 547,
+    "subscribers_count": 116
 }

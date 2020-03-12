@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/erocarrera/pefile/releases{/id}",
     "deployments_url": "https://api.github.com/repos/erocarrera/pefile/deployments",
     "created_at": "2015-04-13T13:45:19Z",
-    "updated_at": "2020-02-28T10:55:15Z",
+    "updated_at": "2020-03-10T18:51:56Z",
     "pushed_at": "2020-02-07T20:02:14Z",
     "git_url": "git://github.com/erocarrera/pefile.git",
     "ssh_url": "git@github.com:erocarrera/pefile.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/erocarrera/pefile",
     "homepage": "",
     "size": 794245,
-    "stargazers_count": 919,
-    "watchers_count": 919,
+    "stargazers_count": 923,
+    "watchers_count": 923,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": false,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 341,
+    "forks_count": 342,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 341,
+    "forks": 342,
     "open_issues": 56,
-    "watchers": 919,
+    "watchers": 923,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 341,
+    "network_count": 342,
     "subscribers_count": 77
 }

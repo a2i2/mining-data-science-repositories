@@ -66,13 +66,13 @@
     "deployments_url": "https://api.github.com/repos/Yelp/fullerite/deployments",
     "created_at": "2015-07-20T07:01:49Z",
     "updated_at": "2020-03-04T15:55:52Z",
-    "pushed_at": "2020-03-05T21:55:04Z",
+    "pushed_at": "2020-03-10T18:30:18Z",
     "git_url": "git://github.com/Yelp/fullerite.git",
     "ssh_url": "git@github.com:Yelp/fullerite.git",
     "clone_url": "https://github.com/Yelp/fullerite.git",
     "svn_url": "https://github.com/Yelp/fullerite",
     "homepage": "",
-    "size": 8352,
+    "size": 8356,
     "stargazers_count": 164,
     "watchers_count": 164,
     "language": "Python",
@@ -85,7 +85,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 35,
+    "open_issues_count": 39,
     "license": {
         "key": "apache-2.0",
         "name": "Apache License 2.0",
@@ -94,7 +94,7 @@
         "node_id": "MDc6TGljZW5zZTI="
     },
     "forks": 63,
-    "open_issues": 35,
+    "open_issues": 39,
     "watchers": 164,
     "default_branch": "master",
     "permissions": {

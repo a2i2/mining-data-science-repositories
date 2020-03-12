@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/deepmind/pysc2/releases{/id}",
     "deployments_url": "https://api.github.com/repos/deepmind/pysc2/deployments",
     "created_at": "2017-07-25T18:16:57Z",
-    "updated_at": "2020-03-05T23:54:53Z",
+    "updated_at": "2020-03-11T05:50:26Z",
     "pushed_at": "2019-12-23T18:42:19Z",
     "git_url": "git://github.com/deepmind/pysc2.git",
     "ssh_url": "git@github.com:deepmind/pysc2.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/deepmind/pysc2",
     "homepage": "",
     "size": 1271,
-    "stargazers_count": 6736,
-    "watchers_count": 6736,
+    "stargazers_count": 6744,
+    "watchers_count": 6744,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 1005,
+    "forks_count": 1009,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/apache-2.0",
         "node_id": "MDc6TGljZW5zZTI="
     },
-    "forks": 1005,
+    "forks": 1009,
     "open_issues": 29,
-    "watchers": 6736,
+    "watchers": 6744,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 1005,
+    "network_count": 1009,
     "subscribers_count": 390
 }

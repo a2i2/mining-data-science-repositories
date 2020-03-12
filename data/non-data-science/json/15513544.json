@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/NightNord/ljd/releases{/id}",
     "deployments_url": "https://api.github.com/repos/NightNord/ljd/deployments",
     "created_at": "2013-12-29T19:14:38Z",
-    "updated_at": "2020-02-21T11:39:41Z",
+    "updated_at": "2020-03-06T17:13:41Z",
     "pushed_at": "2017-04-01T06:59:31Z",
     "git_url": "git://github.com/NightNord/ljd.git",
     "ssh_url": "git@github.com:NightNord/ljd.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/NightNord/ljd",
     "homepage": null,
     "size": 596,
-    "stargazers_count": 141,
-    "watchers_count": 141,
+    "stargazers_count": 142,
+    "watchers_count": 142,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 166,
+    "forks_count": 165,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 166,
+    "forks": 165,
     "open_issues": 8,
-    "watchers": 141,
+    "watchers": 142,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 166,
+    "network_count": 165,
     "subscribers_count": 17
 }

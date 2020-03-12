@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/EliotBerriot/django-dynamic-preferences/releases{/id}",
     "deployments_url": "https://api.github.com/repos/EliotBerriot/django-dynamic-preferences/deployments",
     "created_at": "2015-06-19T15:47:31Z",
-    "updated_at": "2020-03-05T12:59:23Z",
+    "updated_at": "2020-03-11T07:35:48Z",
     "pushed_at": "2020-01-11T12:06:18Z",
     "git_url": "git://github.com/EliotBerriot/django-dynamic-preferences.git",
     "ssh_url": "git@github.com:EliotBerriot/django-dynamic-preferences.git",

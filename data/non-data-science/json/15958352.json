@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/jpadilla/django-rest-framework-jwt/releases{/id}",
     "deployments_url": "https://api.github.com/repos/jpadilla/django-rest-framework-jwt/deployments",
     "created_at": "2014-01-16T04:54:06Z",
-    "updated_at": "2020-03-05T13:23:50Z",
+    "updated_at": "2020-03-10T19:40:44Z",
     "pushed_at": "2019-08-13T02:11:06Z",
     "git_url": "git://github.com/jpadilla/django-rest-framework-jwt.git",
     "ssh_url": "git@github.com:jpadilla/django-rest-framework-jwt.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/jpadilla/django-rest-framework-jwt",
     "homepage": "http://jpadilla.github.io/django-rest-framework-jwt/",
     "size": 783,
-    "stargazers_count": 2891,
-    "watchers_count": 2891,
+    "stargazers_count": 2897,
+    "watchers_count": 2897,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": true,
-    "forks_count": 521,
+    "forks_count": 524,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 521,
+    "forks": 524,
     "open_issues": 167,
-    "watchers": 2891,
+    "watchers": 2897,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 521,
+    "network_count": 524,
     "subscribers_count": 80
 }

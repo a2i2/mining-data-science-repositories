@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/mininet/mininet/releases{/id}",
     "deployments_url": "https://api.github.com/repos/mininet/mininet/deployments",
     "created_at": "2011-04-21T17:46:06Z",
-    "updated_at": "2020-03-05T18:57:24Z",
+    "updated_at": "2020-03-11T07:00:40Z",
     "pushed_at": "2020-02-15T18:14:44Z",
     "git_url": "git://github.com/mininet/mininet.git",
     "ssh_url": "git@github.com:mininet/mininet.git",
@@ -73,19 +73,19 @@
     "svn_url": "https://github.com/mininet/mininet",
     "homepage": "mininet.org",
     "size": 3075,
-    "stargazers_count": 3269,
-    "watchers_count": 3269,
+    "stargazers_count": 3271,
+    "watchers_count": 3271,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 1338,
+    "forks_count": 1343,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 278,
+    "open_issues_count": 279,
     "license": {
         "key": "other",
         "name": "Other",
@@ -93,9 +93,9 @@
         "url": null,
         "node_id": "MDc6TGljZW5zZTA="
     },
-    "forks": 1338,
-    "open_issues": 278,
-    "watchers": 3269,
+    "forks": 1343,
+    "open_issues": 279,
+    "watchers": 3271,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 1338,
+    "network_count": 1343,
     "subscribers_count": 305
 }

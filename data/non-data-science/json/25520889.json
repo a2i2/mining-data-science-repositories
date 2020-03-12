@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/yangyangwithgnu/goagent_out_of_box_yang/releases{/id}",
     "deployments_url": "https://api.github.com/repos/yangyangwithgnu/goagent_out_of_box_yang/deployments",
     "created_at": "2014-10-21T12:26:55Z",
-    "updated_at": "2020-03-03T13:24:08Z",
+    "updated_at": "2020-03-11T07:58:31Z",
     "pushed_at": "2016-02-15T12:56:51Z",
     "git_url": "git://github.com/yangyangwithgnu/goagent_out_of_box_yang.git",
     "ssh_url": "git@github.com:yangyangwithgnu/goagent_out_of_box_yang.git",

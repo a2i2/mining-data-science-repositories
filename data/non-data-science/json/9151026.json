@@ -65,16 +65,16 @@
     "releases_url": "https://api.github.com/repos/florianfesti/boxes/releases{/id}",
     "deployments_url": "https://api.github.com/repos/florianfesti/boxes/deployments",
     "created_at": "2013-04-01T16:36:53Z",
-    "updated_at": "2020-03-05T22:09:11Z",
-    "pushed_at": "2020-03-05T22:10:26Z",
+    "updated_at": "2020-03-11T03:16:22Z",
+    "pushed_at": "2020-03-08T19:16:37Z",
     "git_url": "git://github.com/florianfesti/boxes.git",
     "ssh_url": "git@github.com:florianfesti/boxes.git",
     "clone_url": "https://github.com/florianfesti/boxes.git",
     "svn_url": "https://github.com/florianfesti/boxes",
     "homepage": "",
-    "size": 36244,
-    "stargazers_count": 267,
-    "watchers_count": 267,
+    "size": 36245,
+    "stargazers_count": 269,
+    "watchers_count": 269,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 106,
     "open_issues": 32,
-    "watchers": 267,
+    "watchers": 269,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -104,5 +104,5 @@
     },
     "temp_clone_token": "",
     "network_count": 106,
-    "subscribers_count": 39
+    "subscribers_count": 38
 }

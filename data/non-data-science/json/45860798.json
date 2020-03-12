@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/pirate/crypto-trader/releases{/id}",
     "deployments_url": "https://api.github.com/repos/pirate/crypto-trader/deployments",
     "created_at": "2015-11-09T19:17:19Z",
-    "updated_at": "2020-03-01T01:13:02Z",
+    "updated_at": "2020-03-10T02:30:38Z",
     "pushed_at": "2019-04-03T07:23:40Z",
     "git_url": "git://github.com/pirate/crypto-trader.git",
     "ssh_url": "git@github.com:pirate/crypto-trader.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/pirate/crypto-trader",
     "homepage": "",
     "size": 52,
-    "stargazers_count": 532,
-    "watchers_count": 532,
+    "stargazers_count": 533,
+    "watchers_count": 533,
     "language": "Python",
     "has_issues": true,
     "has_projects": false,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 136,
+    "forks_count": 135,
     "mirror_url": null,
     "archived": true,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 136,
+    "forks": 135,
     "open_issues": 2,
-    "watchers": 532,
+    "watchers": 533,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 136,
+    "network_count": 135,
     "subscribers_count": 59
 }

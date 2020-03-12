@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/constverum/ProxyBroker/releases{/id}",
     "deployments_url": "https://api.github.com/repos/constverum/ProxyBroker/deployments",
     "created_at": "2015-10-11T15:13:37Z",
-    "updated_at": "2020-03-05T15:49:25Z",
+    "updated_at": "2020-03-10T06:30:09Z",
     "pushed_at": "2019-11-28T17:56:40Z",
     "git_url": "git://github.com/constverum/ProxyBroker.git",
     "ssh_url": "git@github.com:constverum/ProxyBroker.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/constverum/ProxyBroker",
     "homepage": "http://proxybroker.readthedocs.io",
     "size": 7608,
-    "stargazers_count": 1865,
-    "watchers_count": 1865,
+    "stargazers_count": 1873,
+    "watchers_count": 1873,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 455,
+    "forks_count": 456,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/apache-2.0",
         "node_id": "MDc6TGljZW5zZTI="
     },
-    "forks": 455,
+    "forks": 456,
     "open_issues": 65,
-    "watchers": 1865,
+    "watchers": 1873,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 455,
+    "network_count": 456,
     "subscribers_count": 134
 }

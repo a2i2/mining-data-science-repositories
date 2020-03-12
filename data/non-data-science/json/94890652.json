@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/jldbc/pybaseball/releases{/id}",
     "deployments_url": "https://api.github.com/repos/jldbc/pybaseball/deployments",
     "created_at": "2017-06-20T12:50:19Z",
-    "updated_at": "2020-03-05T23:38:57Z",
+    "updated_at": "2020-03-07T00:00:33Z",
     "pushed_at": "2019-08-30T18:47:53Z",
     "git_url": "git://github.com/jldbc/pybaseball.git",
     "ssh_url": "git@github.com:jldbc/pybaseball.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/jldbc/pybaseball",
     "homepage": "",
     "size": 1126,
-    "stargazers_count": 378,
-    "watchers_count": 378,
+    "stargazers_count": 379,
+    "watchers_count": 379,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 105,
+    "forks_count": 108,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 105,
+    "forks": 108,
     "open_issues": 20,
-    "watchers": 378,
+    "watchers": 379,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 105,
+    "network_count": 108,
     "subscribers_count": 49
 }

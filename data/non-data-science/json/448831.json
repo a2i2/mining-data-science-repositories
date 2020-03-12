@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/knipknap/SpiffWorkflow/releases{/id}",
     "deployments_url": "https://api.github.com/repos/knipknap/SpiffWorkflow/deployments",
     "created_at": "2009-12-25T09:11:22Z",
-    "updated_at": "2020-03-05T14:19:25Z",
+    "updated_at": "2020-03-06T02:03:19Z",
     "pushed_at": "2020-02-29T02:18:10Z",
     "git_url": "git://github.com/knipknap/SpiffWorkflow.git",
     "ssh_url": "git@github.com:knipknap/SpiffWorkflow.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/knipknap/SpiffWorkflow",
     "homepage": "",
     "size": 10729,
-    "stargazers_count": 852,
-    "watchers_count": 852,
+    "stargazers_count": 853,
+    "watchers_count": 853,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 196,
     "open_issues": 26,
-    "watchers": 852,
+    "watchers": 853,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -104,5 +104,5 @@
     },
     "temp_clone_token": "",
     "network_count": 196,
-    "subscribers_count": 76
+    "subscribers_count": 77
 }

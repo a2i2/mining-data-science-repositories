@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/eskerda/pybikes/releases{/id}",
     "deployments_url": "https://api.github.com/repos/eskerda/pybikes/deployments",
     "created_at": "2010-07-16T10:07:59Z",
-    "updated_at": "2020-02-27T15:55:03Z",
+    "updated_at": "2020-03-07T05:57:06Z",
     "pushed_at": "2020-02-27T15:55:00Z",
     "git_url": "git://github.com/eskerda/pybikes.git",
     "ssh_url": "git@github.com:eskerda/pybikes.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/eskerda/pybikes",
     "homepage": "https://citybik.es",
     "size": 1405,
-    "stargazers_count": 413,
-    "watchers_count": 413,
+    "stargazers_count": 412,
+    "watchers_count": 412,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 135,
+    "forks_count": 134,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/lgpl-3.0",
         "node_id": "MDc6TGljZW5zZTEy"
     },
-    "forks": 135,
+    "forks": 134,
     "open_issues": 54,
-    "watchers": 413,
+    "watchers": 412,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 135,
+    "network_count": 134,
     "subscribers_count": 34
 }

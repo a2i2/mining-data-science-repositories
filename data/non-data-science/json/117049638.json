@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/jwyang/fpn.pytorch/releases{/id}",
     "deployments_url": "https://api.github.com/repos/jwyang/fpn.pytorch/deployments",
     "created_at": "2018-01-11T04:22:53Z",
-    "updated_at": "2020-03-05T15:17:56Z",
+    "updated_at": "2020-03-09T12:38:11Z",
     "pushed_at": "2019-01-11T08:39:07Z",
     "git_url": "git://github.com/jwyang/fpn.pytorch.git",
     "ssh_url": "git@github.com:jwyang/fpn.pytorch.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/jwyang/fpn.pytorch",
     "homepage": null,
     "size": 223,
-    "stargazers_count": 644,
-    "watchers_count": 644,
+    "stargazers_count": 647,
+    "watchers_count": 647,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 158,
+    "forks_count": 159,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 158,
+    "forks": 159,
     "open_issues": 45,
-    "watchers": 644,
+    "watchers": 647,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 158,
+    "network_count": 159,
     "subscribers_count": 18
 }

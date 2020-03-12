@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/blockcypher/explorer/releases{/id}",
     "deployments_url": "https://api.github.com/repos/blockcypher/explorer/deployments",
     "created_at": "2014-11-06T20:28:27Z",
-    "updated_at": "2020-02-27T07:20:18Z",
+    "updated_at": "2020-03-08T10:03:16Z",
     "pushed_at": "2020-02-28T09:54:04Z",
     "git_url": "git://github.com/blockcypher/explorer.git",
     "ssh_url": "git@github.com:blockcypher/explorer.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/blockcypher/explorer",
     "homepage": "https://live.blockcypher.com",
     "size": 1004,
-    "stargazers_count": 531,
-    "watchers_count": 531,
+    "stargazers_count": 530,
+    "watchers_count": 530,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 484,
+    "forks_count": 485,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/apache-2.0",
         "node_id": "MDc6TGljZW5zZTI="
     },
-    "forks": 484,
+    "forks": 485,
     "open_issues": 51,
-    "watchers": 531,
+    "watchers": 530,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 484,
+    "network_count": 485,
     "subscribers_count": 96
 }

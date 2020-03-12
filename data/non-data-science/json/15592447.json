@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/securestate/king-phisher/releases{/id}",
     "deployments_url": "https://api.github.com/repos/securestate/king-phisher/deployments",
     "created_at": "2014-01-02T20:00:55Z",
-    "updated_at": "2020-03-04T03:18:41Z",
+    "updated_at": "2020-03-10T14:53:46Z",
     "pushed_at": "2020-02-28T16:56:58Z",
     "git_url": "git://github.com/securestate/king-phisher.git",
     "ssh_url": "git@github.com:securestate/king-phisher.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/securestate/king-phisher",
     "homepage": "",
     "size": 7092,
-    "stargazers_count": 1063,
-    "watchers_count": 1063,
+    "stargazers_count": 1066,
+    "watchers_count": 1066,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 326,
+    "forks_count": 327,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/bsd-3-clause",
         "node_id": "MDc6TGljZW5zZTU="
     },
-    "forks": 326,
+    "forks": 327,
     "open_issues": 2,
-    "watchers": 1063,
+    "watchers": 1066,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 326,
+    "network_count": 327,
     "subscribers_count": 100
 }

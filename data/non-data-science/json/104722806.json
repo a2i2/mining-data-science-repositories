@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/huyingxi/Synonyms/releases{/id}",
     "deployments_url": "https://api.github.com/repos/huyingxi/Synonyms/deployments",
     "created_at": "2017-09-25T08:23:35Z",
-    "updated_at": "2020-03-05T18:38:48Z",
+    "updated_at": "2020-03-10T10:57:58Z",
     "pushed_at": "2019-06-11T06:54:14Z",
     "git_url": "git://github.com/huyingxi/Synonyms.git",
     "ssh_url": "git@github.com:huyingxi/Synonyms.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/huyingxi/Synonyms",
     "homepage": "",
     "size": 143191,
-    "stargazers_count": 2755,
-    "watchers_count": 2755,
+    "stargazers_count": 2770,
+    "watchers_count": 2770,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 592,
+    "forks_count": 594,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 592,
+    "forks": 594,
     "open_issues": 27,
-    "watchers": 2755,
+    "watchers": 2770,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 592,
+    "network_count": 594,
     "subscribers_count": 154
 }

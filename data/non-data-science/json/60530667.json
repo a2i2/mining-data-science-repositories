@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/MIT-LCP/wfdb-python/releases{/id}",
     "deployments_url": "https://api.github.com/repos/MIT-LCP/wfdb-python/deployments",
     "created_at": "2016-06-06T13:36:38Z",
-    "updated_at": "2020-02-24T16:59:09Z",
+    "updated_at": "2020-03-11T08:46:12Z",
     "pushed_at": "2019-12-05T22:14:45Z",
     "git_url": "git://github.com/MIT-LCP/wfdb-python.git",
     "ssh_url": "git@github.com:MIT-LCP/wfdb-python.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/MIT-LCP/wfdb-python",
     "homepage": "",
     "size": 52822,
-    "stargazers_count": 353,
-    "watchers_count": 353,
+    "stargazers_count": 357,
+    "watchers_count": 357,
     "language": "Jupyter Notebook",
     "has_issues": true,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 175,
     "open_issues": 49,
-    "watchers": 353,
+    "watchers": 357,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -124,5 +124,5 @@
         "site_admin": false
     },
     "network_count": 175,
-    "subscribers_count": 43
+    "subscribers_count": 44
 }

@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/philipn/django-rest-framework-filters/releases{/id}",
     "deployments_url": "https://api.github.com/repos/philipn/django-rest-framework-filters/deployments",
     "created_at": "2013-12-12T03:59:33Z",
-    "updated_at": "2020-02-28T12:16:42Z",
+    "updated_at": "2020-03-09T09:36:47Z",
     "pushed_at": "2019-12-19T23:13:02Z",
     "git_url": "git://github.com/philipn/django-rest-framework-filters.git",
     "ssh_url": "git@github.com:philipn/django-rest-framework-filters.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/philipn/django-rest-framework-filters",
     "homepage": "",
     "size": 422,
-    "stargazers_count": 609,
-    "watchers_count": 609,
+    "stargazers_count": 610,
+    "watchers_count": 610,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -89,7 +89,7 @@
     "license": null,
     "forks": 93,
     "open_issues": 17,
-    "watchers": 609,
+    "watchers": 610,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -98,5 +98,5 @@
     },
     "temp_clone_token": "",
     "network_count": 93,
-    "subscribers_count": 23
+    "subscribers_count": 24
 }

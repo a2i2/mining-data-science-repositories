@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/joerick/pyinstrument/releases{/id}",
     "deployments_url": "https://api.github.com/repos/joerick/pyinstrument/deployments",
     "created_at": "2014-03-13T17:53:13Z",
-    "updated_at": "2020-03-05T14:37:15Z",
+    "updated_at": "2020-03-10T19:46:18Z",
     "pushed_at": "2020-03-02T18:47:49Z",
     "git_url": "git://github.com/joerick/pyinstrument.git",
     "ssh_url": "git@github.com:joerick/pyinstrument.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/joerick/pyinstrument",
     "homepage": "",
     "size": 2175,
-    "stargazers_count": 1490,
-    "watchers_count": 1490,
+    "stargazers_count": 1493,
+    "watchers_count": 1493,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 79,
+    "forks_count": 80,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/bsd-3-clause",
         "node_id": "MDc6TGljZW5zZTU="
     },
-    "forks": 79,
+    "forks": 80,
     "open_issues": 12,
-    "watchers": 1490,
+    "watchers": 1493,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 79,
+    "network_count": 80,
     "subscribers_count": 38
 }

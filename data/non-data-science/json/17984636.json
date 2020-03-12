@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/lebinh/ngxtop/releases{/id}",
     "deployments_url": "https://api.github.com/repos/lebinh/ngxtop/deployments",
     "created_at": "2014-03-21T15:39:52Z",
-    "updated_at": "2020-03-04T10:40:30Z",
+    "updated_at": "2020-03-11T00:50:44Z",
     "pushed_at": "2020-01-14T04:08:32Z",
     "git_url": "git://github.com/lebinh/ngxtop.git",
     "ssh_url": "git@github.com:lebinh/ngxtop.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/lebinh/ngxtop",
     "homepage": null,
     "size": 392,
-    "stargazers_count": 5713,
-    "watchers_count": 5713,
+    "stargazers_count": 5715,
+    "watchers_count": 5715,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 430,
     "open_issues": 61,
-    "watchers": 5713,
+    "watchers": 5715,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -104,5 +104,5 @@
     },
     "temp_clone_token": "",
     "network_count": 430,
-    "subscribers_count": 223
+    "subscribers_count": 222
 }

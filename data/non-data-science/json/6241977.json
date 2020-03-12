@@ -65,16 +65,16 @@
     "releases_url": "https://api.github.com/repos/deschler/django-modeltranslation/releases{/id}",
     "deployments_url": "https://api.github.com/repos/deschler/django-modeltranslation/deployments",
     "created_at": "2012-10-16T09:33:56Z",
-    "updated_at": "2020-03-04T11:25:55Z",
-    "pushed_at": "2020-03-04T11:24:19Z",
+    "updated_at": "2020-03-10T11:58:45Z",
+    "pushed_at": "2020-03-10T11:58:43Z",
     "git_url": "git://github.com/deschler/django-modeltranslation.git",
     "ssh_url": "git@github.com:deschler/django-modeltranslation.git",
     "clone_url": "https://github.com/deschler/django-modeltranslation.git",
     "svn_url": "https://github.com/deschler/django-modeltranslation",
     "homepage": null,
-    "size": 1427,
-    "stargazers_count": 851,
-    "watchers_count": 851,
+    "size": 1434,
+    "stargazers_count": 852,
+    "watchers_count": 852,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -85,7 +85,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 132,
+    "open_issues_count": 131,
     "license": {
         "key": "bsd-3-clause",
         "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -94,8 +94,8 @@
         "node_id": "MDc6TGljZW5zZTU="
     },
     "forks": 193,
-    "open_issues": 132,
-    "watchers": 851,
+    "open_issues": 131,
+    "watchers": 852,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -104,5 +104,5 @@
     },
     "temp_clone_token": "",
     "network_count": 193,
-    "subscribers_count": 40
+    "subscribers_count": 41
 }

@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/roam-qgis/Roam/releases{/id}",
     "deployments_url": "https://api.github.com/repos/roam-qgis/Roam/deployments",
     "created_at": "2013-11-27T07:16:18Z",
-    "updated_at": "2020-02-19T08:17:12Z",
+    "updated_at": "2020-03-09T13:16:20Z",
     "pushed_at": "2020-02-18T02:40:47Z",
     "git_url": "git://github.com/roam-qgis/Roam.git",
     "ssh_url": "git@github.com:roam-qgis/Roam.git",
@@ -73,19 +73,19 @@
     "svn_url": "https://github.com/roam-qgis/Roam",
     "homepage": "http://roam-docs.readthedocs.org/en/latest/",
     "size": 18015,
-    "stargazers_count": 109,
-    "watchers_count": 109,
+    "stargazers_count": 110,
+    "watchers_count": 110,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": true,
-    "forks_count": 48,
+    "forks_count": 47,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 123,
+    "open_issues_count": 124,
     "license": {
         "key": "gpl-2.0",
         "name": "GNU General Public License v2.0",
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/gpl-2.0",
         "node_id": "MDc6TGljZW5zZTg="
     },
-    "forks": 48,
-    "open_issues": 123,
-    "watchers": 109,
+    "forks": 47,
+    "open_issues": 124,
+    "watchers": 110,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 48,
+    "network_count": 47,
     "subscribers_count": 51
 }

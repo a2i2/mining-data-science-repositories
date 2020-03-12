@@ -81,7 +81,7 @@
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 133,
+    "forks_count": 132,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,7 +93,7 @@
         "url": "https://api.github.com/licenses/bsd-2-clause",
         "node_id": "MDc6TGljZW5zZTQ="
     },
-    "forks": 133,
+    "forks": 132,
     "open_issues": 49,
     "watchers": 582,
     "default_branch": "master",
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 133,
+    "network_count": 132,
     "subscribers_count": 17
 }

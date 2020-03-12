@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/facebookresearch/FaderNetworks/releases{/id}",
     "deployments_url": "https://api.github.com/repos/facebookresearch/FaderNetworks/deployments",
     "created_at": "2017-07-11T20:40:19Z",
-    "updated_at": "2020-03-05T20:51:20Z",
+    "updated_at": "2020-03-08T19:30:41Z",
     "pushed_at": "2019-03-22T18:14:43Z",
     "git_url": "git://github.com/facebookresearch/FaderNetworks.git",
     "ssh_url": "git@github.com:facebookresearch/FaderNetworks.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/facebookresearch/FaderNetworks",
     "homepage": "",
     "size": 7357,
-    "stargazers_count": 706,
-    "watchers_count": 706,
+    "stargazers_count": 709,
+    "watchers_count": 709,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 102,
+    "forks_count": 103,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": null,
         "node_id": "MDc6TGljZW5zZTA="
     },
-    "forks": 102,
+    "forks": 103,
     "open_issues": 8,
-    "watchers": 706,
+    "watchers": 709,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 102,
+    "network_count": 103,
     "subscribers_count": 27
 }

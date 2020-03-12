@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/lixxu/flask-paginate/releases{/id}",
     "deployments_url": "https://api.github.com/repos/lixxu/flask-paginate/deployments",
     "created_at": "2012-10-07T12:21:45Z",
-    "updated_at": "2020-02-19T10:02:02Z",
+    "updated_at": "2020-03-10T14:40:56Z",
     "pushed_at": "2019-11-06T02:29:48Z",
     "git_url": "git://github.com/lixxu/flask-paginate.git",
     "ssh_url": "git@github.com:lixxu/flask-paginate.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/lixxu/flask-paginate",
     "homepage": null,
     "size": 246,
-    "stargazers_count": 189,
-    "watchers_count": 189,
+    "stargazers_count": 191,
+    "watchers_count": 191,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 57,
+    "forks_count": 58,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": null,
         "node_id": "MDc6TGljZW5zZTA="
     },
-    "forks": 57,
+    "forks": 58,
     "open_issues": 2,
-    "watchers": 189,
+    "watchers": 191,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 57,
+    "network_count": 58,
     "subscribers_count": 7
 }

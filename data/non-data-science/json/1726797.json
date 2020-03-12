@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/kliment/Printrun/releases{/id}",
     "deployments_url": "https://api.github.com/repos/kliment/Printrun/deployments",
     "created_at": "2011-05-10T07:41:19Z",
-    "updated_at": "2020-03-05T20:13:39Z",
+    "updated_at": "2020-03-09T14:38:32Z",
     "pushed_at": "2020-02-12T07:40:03Z",
     "git_url": "git://github.com/kliment/Printrun.git",
     "ssh_url": "git@github.com:kliment/Printrun.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/kliment/Printrun",
     "homepage": "",
     "size": 9544,
-    "stargazers_count": 1408,
-    "watchers_count": 1408,
+    "stargazers_count": 1412,
+    "watchers_count": 1412,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 738,
     "open_issues": 157,
-    "watchers": 1408,
+    "watchers": 1412,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -104,5 +104,5 @@
     },
     "temp_clone_token": "",
     "network_count": 738,
-    "subscribers_count": 167
+    "subscribers_count": 168
 }

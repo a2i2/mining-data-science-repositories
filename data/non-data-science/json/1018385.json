@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/cdr-stats/cdr-stats/releases{/id}",
     "deployments_url": "https://api.github.com/repos/cdr-stats/cdr-stats/deployments",
     "created_at": "2010-10-23T21:04:34Z",
-    "updated_at": "2020-03-03T12:43:46Z",
+    "updated_at": "2020-03-10T23:04:30Z",
     "pushed_at": "2016-08-19T13:44:35Z",
     "git_url": "git://github.com/cdr-stats/cdr-stats.git",
     "ssh_url": "git@github.com:cdr-stats/cdr-stats.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/cdr-stats/cdr-stats",
     "homepage": "http://www.cdr-stats.org",
     "size": 20920,
-    "stargazers_count": 233,
-    "watchers_count": 233,
+    "stargazers_count": 235,
+    "watchers_count": 235,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 127,
+    "forks_count": 128,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mpl-2.0",
         "node_id": "MDc6TGljZW5zZTE0"
     },
-    "forks": 127,
+    "forks": 128,
     "open_issues": 8,
-    "watchers": 233,
+    "watchers": 235,
     "default_branch": "develop",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 127,
+    "network_count": 128,
     "subscribers_count": 44
 }

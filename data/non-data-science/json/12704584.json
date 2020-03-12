@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/pymssql/pymssql/releases{/id}",
     "deployments_url": "https://api.github.com/repos/pymssql/pymssql/deployments",
     "created_at": "2013-09-09T15:10:18Z",
-    "updated_at": "2020-02-29T10:13:23Z",
+    "updated_at": "2020-03-09T12:07:58Z",
     "pushed_at": "2019-11-15T20:49:28Z",
     "git_url": "git://github.com/pymssql/pymssql.git",
     "ssh_url": "git@github.com:pymssql/pymssql.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/pymssql/pymssql",
     "homepage": "https://pymssql.readthedocs.io/en/latest/",
     "size": 10742,
-    "stargazers_count": 482,
-    "watchers_count": 482,
+    "stargazers_count": 484,
+    "watchers_count": 484,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 218,
+    "forks_count": 221,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/lgpl-2.1",
         "node_id": "MDc6TGljZW5zZTEx"
     },
-    "forks": 218,
+    "forks": 221,
     "open_issues": 136,
-    "watchers": 482,
+    "watchers": 484,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 218,
+    "network_count": 221,
     "subscribers_count": 50
 }

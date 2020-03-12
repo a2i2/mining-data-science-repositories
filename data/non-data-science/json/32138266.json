@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/jrfonseca/gprof2dot/releases{/id}",
     "deployments_url": "https://api.github.com/repos/jrfonseca/gprof2dot/deployments",
     "created_at": "2015-03-13T07:19:30Z",
-    "updated_at": "2020-03-05T14:53:10Z",
+    "updated_at": "2020-03-10T13:00:32Z",
     "pushed_at": "2020-01-16T01:28:43Z",
     "git_url": "git://github.com/jrfonseca/gprof2dot.git",
     "ssh_url": "git@github.com:jrfonseca/gprof2dot.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/jrfonseca/gprof2dot",
     "homepage": null,
     "size": 3988,
-    "stargazers_count": 1622,
-    "watchers_count": 1622,
+    "stargazers_count": 1626,
+    "watchers_count": 1626,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 227,
+    "forks_count": 228,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/lgpl-3.0",
         "node_id": "MDc6TGljZW5zZTEy"
     },
-    "forks": 227,
+    "forks": 228,
     "open_issues": 7,
-    "watchers": 1622,
+    "watchers": 1626,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 227,
+    "network_count": 228,
     "subscribers_count": 69
 }

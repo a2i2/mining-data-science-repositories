@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/RomelTorres/alpha_vantage/releases{/id}",
     "deployments_url": "https://api.github.com/repos/RomelTorres/alpha_vantage/deployments",
     "created_at": "2017-04-29T17:23:00Z",
-    "updated_at": "2020-03-05T21:23:00Z",
+    "updated_at": "2020-03-11T00:52:41Z",
     "pushed_at": "2020-02-19T05:10:43Z",
     "git_url": "git://github.com/RomelTorres/alpha_vantage.git",
     "ssh_url": "git@github.com:RomelTorres/alpha_vantage.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/RomelTorres/alpha_vantage",
     "homepage": "",
     "size": 950,
-    "stargazers_count": 2012,
-    "watchers_count": 2012,
+    "stargazers_count": 2020,
+    "watchers_count": 2020,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 351,
+    "forks_count": 354,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 351,
+    "forks": 354,
     "open_issues": 5,
-    "watchers": 2012,
+    "watchers": 2020,
     "default_branch": "develop",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 351,
-    "subscribers_count": 138
+    "network_count": 354,
+    "subscribers_count": 139
 }

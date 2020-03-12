@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/sockeye44/instavpn/releases{/id}",
     "deployments_url": "https://api.github.com/repos/sockeye44/instavpn/deployments",
     "created_at": "2014-11-15T15:13:52Z",
-    "updated_at": "2020-02-24T20:05:07Z",
+    "updated_at": "2020-03-09T08:26:48Z",
     "pushed_at": "2019-07-30T19:03:52Z",
     "git_url": "git://github.com/sockeye44/instavpn.git",
     "ssh_url": "git@github.com:sockeye44/instavpn.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/sockeye44/instavpn",
     "homepage": "",
     "size": 195,
-    "stargazers_count": 854,
-    "watchers_count": 854,
+    "stargazers_count": 852,
+    "watchers_count": 852,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 131,
+    "forks_count": 130,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/apache-2.0",
         "node_id": "MDc6TGljZW5zZTI="
     },
-    "forks": 131,
+    "forks": 130,
     "open_issues": 0,
-    "watchers": 854,
+    "watchers": 852,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 131,
+    "network_count": 130,
     "subscribers_count": 40
 }

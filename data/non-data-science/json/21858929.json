@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/lennylxx/ipv6-hosts/releases{/id}",
     "deployments_url": "https://api.github.com/repos/lennylxx/ipv6-hosts/deployments",
     "created_at": "2014-07-15T12:36:53Z",
-    "updated_at": "2020-03-05T10:26:45Z",
+    "updated_at": "2020-03-09T00:39:25Z",
     "pushed_at": "2019-04-23T13:45:13Z",
     "git_url": "git://github.com/lennylxx/ipv6-hosts.git",
     "ssh_url": "git@github.com:lennylxx/ipv6-hosts.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/lennylxx/ipv6-hosts",
     "homepage": "",
     "size": 7650,
-    "stargazers_count": 4380,
-    "watchers_count": 4380,
+    "stargazers_count": 4383,
+    "watchers_count": 4383,
     "language": "Python",
     "has_issues": true,
     "has_projects": false,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 1123,
+    "forks_count": 1121,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 1123,
+    "forks": 1121,
     "open_issues": 11,
-    "watchers": 4380,
+    "watchers": 4383,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 1123,
+    "network_count": 1121,
     "subscribers_count": 372
 }

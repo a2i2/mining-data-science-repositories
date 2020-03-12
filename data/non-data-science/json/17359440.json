@@ -65,16 +65,16 @@
     "releases_url": "https://api.github.com/repos/weechat/scripts/releases{/id}",
     "deployments_url": "https://api.github.com/repos/weechat/scripts/deployments",
     "created_at": "2014-03-03T08:18:39Z",
-    "updated_at": "2020-03-01T20:14:15Z",
-    "pushed_at": "2020-03-04T22:33:52Z",
+    "updated_at": "2020-03-08T16:28:46Z",
+    "pushed_at": "2020-03-11T10:54:39Z",
     "git_url": "git://github.com/weechat/scripts.git",
     "ssh_url": "git@github.com:weechat/scripts.git",
     "clone_url": "https://github.com/weechat/scripts.git",
     "svn_url": "https://github.com/weechat/scripts",
     "homepage": "https://weechat.org/scripts/",
-    "size": 2994,
-    "stargazers_count": 148,
-    "watchers_count": 148,
+    "size": 3018,
+    "stargazers_count": 149,
+    "watchers_count": 149,
     "language": "Python",
     "has_issues": true,
     "has_projects": false,
@@ -85,11 +85,11 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 97,
+    "open_issues_count": 96,
     "license": null,
     "forks": 164,
-    "open_issues": 97,
-    "watchers": 148,
+    "open_issues": 96,
+    "watchers": 149,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -118,5 +118,5 @@
         "site_admin": false
     },
     "network_count": 164,
-    "subscribers_count": 30
+    "subscribers_count": 29
 }

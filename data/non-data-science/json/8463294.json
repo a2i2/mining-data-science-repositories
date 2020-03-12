@@ -65,14 +65,14 @@
     "releases_url": "https://api.github.com/repos/mozilla/treeherder/releases{/id}",
     "deployments_url": "https://api.github.com/repos/mozilla/treeherder/deployments",
     "created_at": "2013-02-27T19:17:37Z",
-    "updated_at": "2020-03-05T19:37:07Z",
-    "pushed_at": "2020-03-05T20:21:13Z",
+    "updated_at": "2020-03-11T09:42:45Z",
+    "pushed_at": "2020-03-11T10:31:34Z",
     "git_url": "git://github.com/mozilla/treeherder.git",
     "ssh_url": "git@github.com:mozilla/treeherder.git",
     "clone_url": "https://github.com/mozilla/treeherder.git",
     "svn_url": "https://github.com/mozilla/treeherder",
     "homepage": "https://treeherder.mozilla.org",
-    "size": 97935,
+    "size": 97963,
     "stargazers_count": 187,
     "watchers_count": 187,
     "language": "Python",
@@ -81,11 +81,11 @@
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 298,
+    "forks_count": 299,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 82,
+    "open_issues_count": 74,
     "license": {
         "key": "mpl-2.0",
         "name": "Mozilla Public License 2.0",
@@ -93,8 +93,8 @@
         "url": "https://api.github.com/licenses/mpl-2.0",
         "node_id": "MDc6TGljZW5zZTE0"
     },
-    "forks": 298,
-    "open_issues": 82,
+    "forks": 299,
+    "open_issues": 74,
     "watchers": 187,
     "default_branch": "master",
     "permissions": {
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 298,
+    "network_count": 299,
     "subscribers_count": 30
 }

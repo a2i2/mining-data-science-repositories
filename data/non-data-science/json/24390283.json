@@ -65,14 +65,14 @@
     "releases_url": "https://api.github.com/repos/jupyterhub/oauthenticator/releases{/id}",
     "deployments_url": "https://api.github.com/repos/jupyterhub/oauthenticator/deployments",
     "created_at": "2014-09-23T21:37:06Z",
-    "updated_at": "2020-03-03T20:35:37Z",
-    "pushed_at": "2020-03-05T15:20:14Z",
+    "updated_at": "2020-03-10T06:33:29Z",
+    "pushed_at": "2020-03-10T21:12:20Z",
     "git_url": "git://github.com/jupyterhub/oauthenticator.git",
     "ssh_url": "git@github.com:jupyterhub/oauthenticator.git",
     "clone_url": "https://github.com/jupyterhub/oauthenticator.git",
     "svn_url": "https://github.com/jupyterhub/oauthenticator",
     "homepage": "",
-    "size": 524,
+    "size": 526,
     "stargazers_count": 259,
     "watchers_count": 259,
     "language": "Python",
@@ -81,11 +81,11 @@
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 247,
+    "forks_count": 248,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 72,
+    "open_issues_count": 75,
     "license": {
         "key": "bsd-3-clause",
         "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -93,8 +93,8 @@
         "url": "https://api.github.com/licenses/bsd-3-clause",
         "node_id": "MDc6TGljZW5zZTU="
     },
-    "forks": 247,
-    "open_issues": 72,
+    "forks": 248,
+    "open_issues": 75,
     "watchers": 259,
     "default_branch": "master",
     "permissions": {
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 247,
+    "network_count": 248,
     "subscribers_count": 26
 }

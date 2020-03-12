@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/firecat53/networkmanager-dmenu/releases{/id}",
     "deployments_url": "https://api.github.com/repos/firecat53/networkmanager-dmenu/deployments",
     "created_at": "2014-05-16T16:57:20Z",
-    "updated_at": "2020-03-05T14:21:14Z",
+    "updated_at": "2020-03-10T15:22:31Z",
     "pushed_at": "2020-02-01T18:32:48Z",
     "git_url": "git://github.com/firecat53/networkmanager-dmenu.git",
     "ssh_url": "git@github.com:firecat53/networkmanager-dmenu.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/firecat53/networkmanager-dmenu",
     "homepage": null,
     "size": 102,
-    "stargazers_count": 267,
-    "watchers_count": 267,
+    "stargazers_count": 271,
+    "watchers_count": 271,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 36,
+    "forks_count": 37,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 36,
+    "forks": 37,
     "open_issues": 8,
-    "watchers": 267,
+    "watchers": 271,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 36,
+    "network_count": 37,
     "subscribers_count": 10
 }

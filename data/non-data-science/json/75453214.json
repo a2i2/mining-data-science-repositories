@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/danfengcao/binlog2sql/releases{/id}",
     "deployments_url": "https://api.github.com/repos/danfengcao/binlog2sql/deployments",
     "created_at": "2016-12-03T05:13:44Z",
-    "updated_at": "2020-03-02T07:32:49Z",
+    "updated_at": "2020-03-11T02:38:07Z",
     "pushed_at": "2019-12-11T09:45:31Z",
     "git_url": "git://github.com/danfengcao/binlog2sql.git",
     "ssh_url": "git@github.com:danfengcao/binlog2sql.git",
@@ -73,19 +73,19 @@
     "svn_url": "https://github.com/danfengcao/binlog2sql",
     "homepage": "",
     "size": 147,
-    "stargazers_count": 1624,
-    "watchers_count": 1624,
+    "stargazers_count": 1633,
+    "watchers_count": 1633,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 644,
+    "forks_count": 645,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 39,
+    "open_issues_count": 40,
     "license": {
         "key": "gpl-3.0",
         "name": "GNU General Public License v3.0",
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/gpl-3.0",
         "node_id": "MDc6TGljZW5zZTk="
     },
-    "forks": 644,
-    "open_issues": 39,
-    "watchers": 1624,
+    "forks": 645,
+    "open_issues": 40,
+    "watchers": 1633,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 644,
+    "network_count": 645,
     "subscribers_count": 125
 }

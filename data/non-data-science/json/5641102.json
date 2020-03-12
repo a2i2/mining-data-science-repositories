@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/web2py/web2py-book/releases{/id}",
     "deployments_url": "https://api.github.com/repos/web2py/web2py-book/deployments",
     "created_at": "2012-09-01T16:33:04Z",
-    "updated_at": "2020-01-29T16:11:38Z",
+    "updated_at": "2020-03-09T16:11:37Z",
     "pushed_at": "2019-08-31T22:33:03Z",
     "git_url": "git://github.com/web2py/web2py-book.git",
     "ssh_url": "git@github.com:web2py/web2py-book.git",

@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/liftoff/pyminifier/releases{/id}",
     "deployments_url": "https://api.github.com/repos/liftoff/pyminifier/deployments",
     "created_at": "2014-05-24T23:19:33Z",
-    "updated_at": "2020-03-04T14:28:52Z",
+    "updated_at": "2020-03-11T11:51:17Z",
     "pushed_at": "2019-07-25T17:47:14Z",
     "git_url": "git://github.com/liftoff/pyminifier.git",
     "ssh_url": "git@github.com:liftoff/pyminifier.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/liftoff/pyminifier",
     "homepage": null,
     "size": 431,
-    "stargazers_count": 922,
-    "watchers_count": 922,
+    "stargazers_count": 924,
+    "watchers_count": 924,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 157,
+    "forks_count": 158,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/gpl-3.0",
         "node_id": "MDc6TGljZW5zZTk="
     },
-    "forks": 157,
+    "forks": 158,
     "open_issues": 100,
-    "watchers": 922,
+    "watchers": 924,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 157,
+    "network_count": 158,
     "subscribers_count": 48
 }

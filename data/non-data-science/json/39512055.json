@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/sidecars/python-quickbooks/releases{/id}",
     "deployments_url": "https://api.github.com/repos/sidecars/python-quickbooks/deployments",
     "created_at": "2015-07-22T14:50:48Z",
-    "updated_at": "2020-03-05T23:08:57Z",
+    "updated_at": "2020-03-06T12:54:59Z",
     "pushed_at": "2020-03-03T18:57:19Z",
     "git_url": "git://github.com/sidecars/python-quickbooks.git",
     "ssh_url": "git@github.com:sidecars/python-quickbooks.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/sidecars/python-quickbooks",
     "homepage": "",
     "size": 706,
-    "stargazers_count": 214,
-    "watchers_count": 214,
+    "stargazers_count": 215,
+    "watchers_count": 215,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 114,
+    "forks_count": 115,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 114,
+    "forks": 115,
     "open_issues": 11,
-    "watchers": 214,
+    "watchers": 215,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 114,
+    "network_count": 115,
     "subscribers_count": 30
 }

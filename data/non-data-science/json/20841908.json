@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/jasonstrimpel/volatility-trading/releases{/id}",
     "deployments_url": "https://api.github.com/repos/jasonstrimpel/volatility-trading/deployments",
     "created_at": "2014-06-14T21:04:23Z",
-    "updated_at": "2020-02-29T04:07:19Z",
+    "updated_at": "2020-03-10T05:59:45Z",
     "pushed_at": "2019-04-16T06:39:21Z",
     "git_url": "git://github.com/jasonstrimpel/volatility-trading.git",
     "ssh_url": "git@github.com:jasonstrimpel/volatility-trading.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/jasonstrimpel/volatility-trading",
     "homepage": "",
     "size": 8131,
-    "stargazers_count": 345,
-    "watchers_count": 345,
+    "stargazers_count": 346,
+    "watchers_count": 346,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -89,7 +89,7 @@
     "license": null,
     "forks": 117,
     "open_issues": 2,
-    "watchers": 345,
+    "watchers": 346,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -98,5 +98,5 @@
     },
     "temp_clone_token": "",
     "network_count": 117,
-    "subscribers_count": 42
+    "subscribers_count": 43
 }

@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/jrfonseca/xdot.py/releases{/id}",
     "deployments_url": "https://api.github.com/repos/jrfonseca/xdot.py/deployments",
     "created_at": "2013-05-12T09:59:58Z",
-    "updated_at": "2020-03-04T21:13:43Z",
+    "updated_at": "2020-03-07T03:07:44Z",
     "pushed_at": "2020-01-09T17:12:05Z",
     "git_url": "git://github.com/jrfonseca/xdot.py.git",
     "ssh_url": "git@github.com:jrfonseca/xdot.py.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/jrfonseca/xdot.py",
     "homepage": null,
     "size": 333,
-    "stargazers_count": 527,
-    "watchers_count": 527,
+    "stargazers_count": 528,
+    "watchers_count": 528,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 103,
+    "forks_count": 104,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/lgpl-3.0",
         "node_id": "MDc6TGljZW5zZTEy"
     },
-    "forks": 103,
+    "forks": 104,
     "open_issues": 13,
-    "watchers": 527,
+    "watchers": 528,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 103,
+    "network_count": 104,
     "subscribers_count": 35
 }

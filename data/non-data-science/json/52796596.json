@@ -65,16 +65,16 @@
     "releases_url": "https://api.github.com/repos/netbox-community/netbox/releases{/id}",
     "deployments_url": "https://api.github.com/repos/netbox-community/netbox/deployments",
     "created_at": "2016-02-29T14:15:46Z",
-    "updated_at": "2020-03-05T18:43:34Z",
-    "pushed_at": "2020-03-05T22:31:18Z",
+    "updated_at": "2020-03-11T00:35:02Z",
+    "pushed_at": "2020-03-10T23:17:09Z",
     "git_url": "git://github.com/netbox-community/netbox.git",
     "ssh_url": "git@github.com:netbox-community/netbox.git",
     "clone_url": "https://github.com/netbox-community/netbox.git",
     "svn_url": "https://github.com/netbox-community/netbox",
     "homepage": "",
-    "size": 18042,
-    "stargazers_count": 6250,
-    "watchers_count": 6250,
+    "size": 18789,
+    "stargazers_count": 6263,
+    "watchers_count": 6263,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -85,7 +85,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 122,
+    "open_issues_count": 121,
     "license": {
         "key": "apache-2.0",
         "name": "Apache License 2.0",
@@ -94,8 +94,8 @@
         "node_id": "MDc6TGljZW5zZTI="
     },
     "forks": 1217,
-    "open_issues": 122,
-    "watchers": 6250,
+    "open_issues": 121,
+    "watchers": 6263,
     "default_branch": "develop",
     "permissions": {
         "admin": false,
@@ -124,5 +124,5 @@
         "site_admin": false
     },
     "network_count": 1217,
-    "subscribers_count": 393
+    "subscribers_count": 391
 }

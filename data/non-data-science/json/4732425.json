@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/Syncplay/syncplay/releases{/id}",
     "deployments_url": "https://api.github.com/repos/Syncplay/syncplay/deployments",
     "created_at": "2012-06-20T22:49:36Z",
-    "updated_at": "2020-03-04T02:37:49Z",
+    "updated_at": "2020-03-07T05:17:00Z",
     "pushed_at": "2019-12-30T12:56:28Z",
     "git_url": "git://github.com/Syncplay/syncplay.git",
     "ssh_url": "git@github.com:Syncplay/syncplay.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/Syncplay/syncplay",
     "homepage": "http://syncplay.pl/",
     "size": 16286,
-    "stargazers_count": 566,
-    "watchers_count": 566,
+    "stargazers_count": 567,
+    "watchers_count": 567,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 84,
+    "forks_count": 83,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/apache-2.0",
         "node_id": "MDc6TGljZW5zZTI="
     },
-    "forks": 84,
+    "forks": 83,
     "open_issues": 21,
-    "watchers": 566,
+    "watchers": 567,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 84,
+    "network_count": 83,
     "subscribers_count": 29
 }

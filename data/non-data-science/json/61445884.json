@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/ajdavis/twitter-gender-distribution/releases{/id}",
     "deployments_url": "https://api.github.com/repos/ajdavis/twitter-gender-distribution/deployments",
     "created_at": "2016-06-18T17:53:49Z",
-    "updated_at": "2020-03-04T19:03:27Z",
+    "updated_at": "2020-03-08T23:01:13Z",
     "pushed_at": "2020-02-12T02:18:30Z",
     "git_url": "git://github.com/ajdavis/twitter-gender-distribution.git",
     "ssh_url": "git@github.com:ajdavis/twitter-gender-distribution.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/ajdavis/twitter-gender-distribution",
     "homepage": "https://www.proporti.onl",
     "size": 1113,
-    "stargazers_count": 189,
-    "watchers_count": 189,
+    "stargazers_count": 192,
+    "watchers_count": 192,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 22,
     "open_issues": 3,
-    "watchers": 189,
+    "watchers": 192,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -104,5 +104,5 @@
     },
     "temp_clone_token": "",
     "network_count": 22,
-    "subscribers_count": 11
+    "subscribers_count": 12
 }

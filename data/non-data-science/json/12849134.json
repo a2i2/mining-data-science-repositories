@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/gmusicproxy/gmusicproxy/releases{/id}",
     "deployments_url": "https://api.github.com/repos/gmusicproxy/gmusicproxy/deployments",
     "created_at": "2013-09-15T17:16:31Z",
-    "updated_at": "2020-01-24T04:44:22Z",
+    "updated_at": "2020-03-06T12:49:19Z",
     "pushed_at": "2019-12-21T22:53:55Z",
     "git_url": "git://github.com/gmusicproxy/gmusicproxy.git",
     "ssh_url": "git@github.com:gmusicproxy/gmusicproxy.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/gmusicproxy/gmusicproxy",
     "homepage": "https://gmusicproxy.github.io",
     "size": 419,
-    "stargazers_count": 308,
-    "watchers_count": 308,
+    "stargazers_count": 309,
+    "watchers_count": 309,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 62,
+    "forks_count": 61,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/gpl-3.0",
         "node_id": "MDc6TGljZW5zZTk="
     },
-    "forks": 62,
+    "forks": 61,
     "open_issues": 19,
-    "watchers": 308,
+    "watchers": 309,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 62,
+    "network_count": 61,
     "subscribers_count": 37
 }

@@ -85,7 +85,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 71,
+    "open_issues_count": 72,
     "license": {
         "key": "lgpl-3.0",
         "name": "GNU Lesser General Public License v3.0",
@@ -94,7 +94,7 @@
         "node_id": "MDc6TGljZW5zZTEy"
     },
     "forks": 82,
-    "open_issues": 71,
+    "open_issues": 72,
     "watchers": 195,
     "default_branch": "master",
     "permissions": {

@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/pyexcel-webwares/django-excel/releases{/id}",
     "deployments_url": "https://api.github.com/repos/pyexcel-webwares/django-excel/deployments",
     "created_at": "2015-01-26T21:22:51Z",
-    "updated_at": "2020-03-05T01:09:13Z",
+    "updated_at": "2020-03-06T07:01:22Z",
     "pushed_at": "2019-11-10T21:43:40Z",
     "git_url": "git://github.com/pyexcel-webwares/django-excel.git",
     "ssh_url": "git@github.com:pyexcel-webwares/django-excel.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/pyexcel-webwares/django-excel",
     "homepage": "http://django.pyexcel.org",
     "size": 790,
-    "stargazers_count": 260,
-    "watchers_count": 260,
+    "stargazers_count": 261,
+    "watchers_count": 261,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 67,
+    "forks_count": 68,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": null,
         "node_id": "MDc6TGljZW5zZTA="
     },
-    "forks": 67,
+    "forks": 68,
     "open_issues": 4,
-    "watchers": 260,
+    "watchers": 261,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 67,
+    "network_count": 68,
     "subscribers_count": 31
 }

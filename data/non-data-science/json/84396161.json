@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/AshishBora/csgm/releases{/id}",
     "deployments_url": "https://api.github.com/repos/AshishBora/csgm/deployments",
     "created_at": "2017-03-09T03:56:43Z",
-    "updated_at": "2020-02-20T08:54:29Z",
+    "updated_at": "2020-03-06T09:01:57Z",
     "pushed_at": "2019-03-26T05:18:16Z",
     "git_url": "git://github.com/AshishBora/csgm.git",
     "ssh_url": "git@github.com:AshishBora/csgm.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/AshishBora/csgm",
     "homepage": "",
     "size": 53856,
-    "stargazers_count": 161,
-    "watchers_count": 161,
+    "stargazers_count": 160,
+    "watchers_count": 160,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 57,
+    "forks_count": 58,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 57,
+    "forks": 58,
     "open_issues": 3,
-    "watchers": 161,
+    "watchers": 160,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 57,
+    "network_count": 58,
     "subscribers_count": 15
 }

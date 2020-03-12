@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/Shawn1993/cnn-text-classification-pytorch/releases{/id}",
     "deployments_url": "https://api.github.com/repos/Shawn1993/cnn-text-classification-pytorch/deployments",
     "created_at": "2017-02-10T16:49:39Z",
-    "updated_at": "2020-02-28T18:11:39Z",
+    "updated_at": "2020-03-10T16:59:38Z",
     "pushed_at": "2018-12-28T07:21:16Z",
     "git_url": "git://github.com/Shawn1993/cnn-text-classification-pytorch.git",
     "ssh_url": "git@github.com:Shawn1993/cnn-text-classification-pytorch.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/Shawn1993/cnn-text-classification-pytorch",
     "homepage": null,
     "size": 13344,
-    "stargazers_count": 712,
-    "watchers_count": 712,
+    "stargazers_count": 715,
+    "watchers_count": 715,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 219,
     "open_issues": 6,
-    "watchers": 712,
+    "watchers": 715,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -104,5 +104,5 @@
     },
     "temp_clone_token": "",
     "network_count": 219,
-    "subscribers_count": 11
+    "subscribers_count": 12
 }

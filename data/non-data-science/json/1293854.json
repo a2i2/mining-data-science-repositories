@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/rabbitinaction/sourcecode/releases{/id}",
     "deployments_url": "https://api.github.com/repos/rabbitinaction/sourcecode/deployments",
     "created_at": "2011-01-26T02:04:43Z",
-    "updated_at": "2020-02-15T07:45:33Z",
+    "updated_at": "2020-03-10T11:39:17Z",
     "pushed_at": "2017-12-13T04:14:03Z",
     "git_url": "git://github.com/rabbitinaction/sourcecode.git",
     "ssh_url": "git@github.com:rabbitinaction/sourcecode.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/rabbitinaction/sourcecode",
     "homepage": "http://rabbitmqinaction.com",
     "size": 598,
-    "stargazers_count": 318,
-    "watchers_count": 318,
+    "stargazers_count": 319,
+    "watchers_count": 319,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 174,
+    "forks_count": 175,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": null,
         "node_id": "MDc6TGljZW5zZTA="
     },
-    "forks": 174,
+    "forks": 175,
     "open_issues": 8,
-    "watchers": 318,
+    "watchers": 319,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 174,
+    "network_count": 175,
     "subscribers_count": 47
 }

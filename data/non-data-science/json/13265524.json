@@ -65,16 +65,16 @@
     "releases_url": "https://api.github.com/repos/balloob/pychromecast/releases{/id}",
     "deployments_url": "https://api.github.com/repos/balloob/pychromecast/deployments",
     "created_at": "2013-10-02T07:58:34Z",
-    "updated_at": "2020-03-05T20:00:55Z",
-    "pushed_at": "2020-02-13T11:16:59Z",
+    "updated_at": "2020-03-10T22:49:44Z",
+    "pushed_at": "2020-03-10T18:33:05Z",
     "git_url": "git://github.com/balloob/pychromecast.git",
     "ssh_url": "git@github.com:balloob/pychromecast.git",
     "clone_url": "https://github.com/balloob/pychromecast.git",
     "svn_url": "https://github.com/balloob/pychromecast",
     "homepage": "",
-    "size": 419,
-    "stargazers_count": 1894,
-    "watchers_count": 1894,
+    "size": 422,
+    "stargazers_count": 1896,
+    "watchers_count": 1896,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 271,
     "open_issues": 82,
-    "watchers": 1894,
+    "watchers": 1896,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -104,5 +104,5 @@
     },
     "temp_clone_token": "",
     "network_count": 271,
-    "subscribers_count": 95
+    "subscribers_count": 96
 }

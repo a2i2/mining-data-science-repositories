@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/epinna/weevely3/releases{/id}",
     "deployments_url": "https://api.github.com/repos/epinna/weevely3/deployments",
     "created_at": "2014-09-20T10:16:49Z",
-    "updated_at": "2020-03-05T14:22:08Z",
+    "updated_at": "2020-03-08T11:05:23Z",
     "pushed_at": "2020-01-06T10:05:32Z",
     "git_url": "git://github.com/epinna/weevely3.git",
     "ssh_url": "git@github.com:epinna/weevely3.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/epinna/weevely3",
     "homepage": "",
     "size": 1595,
-    "stargazers_count": 1839,
-    "watchers_count": 1839,
+    "stargazers_count": 1845,
+    "watchers_count": 1845,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": true,
-    "forks_count": 432,
+    "forks_count": 434,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/gpl-3.0",
         "node_id": "MDc6TGljZW5zZTk="
     },
-    "forks": 432,
+    "forks": 434,
     "open_issues": 6,
-    "watchers": 1839,
+    "watchers": 1845,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 432,
+    "network_count": 434,
     "subscribers_count": 126
 }

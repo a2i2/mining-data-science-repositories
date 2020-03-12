@@ -81,7 +81,7 @@
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": true,
-    "forks_count": 167,
+    "forks_count": 166,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,7 +93,7 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 167,
+    "forks": 166,
     "open_issues": 50,
     "watchers": 392,
     "default_branch": "master",
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 167,
+    "network_count": 166,
     "subscribers_count": 15
 }

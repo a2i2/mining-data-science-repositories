@@ -65,14 +65,14 @@
     "releases_url": "https://api.github.com/repos/witten/borgmatic/releases{/id}",
     "deployments_url": "https://api.github.com/repos/witten/borgmatic/deployments",
     "created_at": "2014-11-19T02:24:38Z",
-    "updated_at": "2020-03-05T23:19:29Z",
-    "pushed_at": "2020-02-13T21:39:50Z",
+    "updated_at": "2020-03-11T04:12:15Z",
+    "pushed_at": "2020-03-11T04:12:13Z",
     "git_url": "git://github.com/witten/borgmatic.git",
     "ssh_url": "git@github.com:witten/borgmatic.git",
     "clone_url": "https://github.com/witten/borgmatic.git",
     "svn_url": "https://github.com/witten/borgmatic",
     "homepage": "https://torsion.org/borgmatic/",
-    "size": 1204,
+    "size": 1209,
     "stargazers_count": 667,
     "watchers_count": 667,
     "language": "Python",
@@ -104,5 +104,5 @@
     },
     "temp_clone_token": "",
     "network_count": 51,
-    "subscribers_count": 29
+    "subscribers_count": 30
 }

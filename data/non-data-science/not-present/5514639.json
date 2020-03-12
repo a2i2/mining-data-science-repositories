@@ -1,0 +1,8 @@
+{
+    "message": "Repository access blocked",
+    "block": {
+        "reason": "dmca",
+        "created_at": "2015-08-16T22:05:15Z",
+        "html_url": "https://github.com/github/dmca/blob/master/2015/2015-08-12-Udemy.md"
+    }
+}

@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/kaonashi-tyc/zi2zi/releases{/id}",
     "deployments_url": "https://api.github.com/repos/kaonashi-tyc/zi2zi/deployments",
     "created_at": "2017-02-17T23:18:04Z",
-    "updated_at": "2020-03-03T12:52:36Z",
+    "updated_at": "2020-03-11T08:04:06Z",
     "pushed_at": "2019-08-09T04:02:31Z",
     "git_url": "git://github.com/kaonashi-tyc/zi2zi.git",
     "ssh_url": "git@github.com:kaonashi-tyc/zi2zi.git",
@@ -73,19 +73,19 @@
     "svn_url": "https://github.com/kaonashi-tyc/zi2zi",
     "homepage": "https://kaonashi-tyc.github.io/2017/04/06/zi2zi.html",
     "size": 46887,
-    "stargazers_count": 1597,
-    "watchers_count": 1597,
+    "stargazers_count": 1601,
+    "watchers_count": 1601,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 358,
+    "forks_count": 359,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 42,
+    "open_issues_count": 43,
     "license": {
         "key": "apache-2.0",
         "name": "Apache License 2.0",
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/apache-2.0",
         "node_id": "MDc6TGljZW5zZTI="
     },
-    "forks": 358,
-    "open_issues": 42,
-    "watchers": 1597,
+    "forks": 359,
+    "open_issues": 43,
+    "watchers": 1601,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 358,
+    "network_count": 359,
     "subscribers_count": 68
 }

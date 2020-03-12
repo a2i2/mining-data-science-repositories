@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/echen/restricted-boltzmann-machines/releases{/id}",
     "deployments_url": "https://api.github.com/repos/echen/restricted-boltzmann-machines/deployments",
     "created_at": "2011-07-12T19:58:41Z",
-    "updated_at": "2020-03-03T07:47:16Z",
+    "updated_at": "2020-03-11T09:04:55Z",
     "pushed_at": "2019-12-18T22:11:46Z",
     "git_url": "git://github.com/echen/restricted-boltzmann-machines.git",
     "ssh_url": "git@github.com:echen/restricted-boltzmann-machines.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/echen/restricted-boltzmann-machines",
     "homepage": "http://blog.echen.me/2011/07/18/introduction-to-restricted-boltzmann-machines/",
     "size": 26,
-    "stargazers_count": 826,
-    "watchers_count": 826,
+    "stargazers_count": 827,
+    "watchers_count": 827,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 356,
     "open_issues": 4,
-    "watchers": 826,
+    "watchers": 827,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -104,5 +104,5 @@
     },
     "temp_clone_token": "",
     "network_count": 356,
-    "subscribers_count": 62
+    "subscribers_count": 63
 }

@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/Yipit/parsible/releases{/id}",
     "deployments_url": "https://api.github.com/repos/Yipit/parsible/deployments",
     "created_at": "2012-06-11T18:24:13Z",
-    "updated_at": "2019-11-11T15:20:08Z",
+    "updated_at": "2020-03-10T06:09:09Z",
     "pushed_at": "2015-10-26T18:07:08Z",
     "git_url": "git://github.com/Yipit/parsible.git",
     "ssh_url": "git@github.com:Yipit/parsible.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/Yipit/parsible",
     "homepage": null,
     "size": 277,
-    "stargazers_count": 89,
-    "watchers_count": 89,
+    "stargazers_count": 90,
+    "watchers_count": 90,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 41,
     "open_issues": 6,
-    "watchers": 89,
+    "watchers": 90,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -124,5 +124,5 @@
         "site_admin": false
     },
     "network_count": 41,
-    "subscribers_count": 66
+    "subscribers_count": 67
 }

@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/roots/trellis/releases{/id}",
     "deployments_url": "https://api.github.com/repos/roots/trellis/deployments",
     "created_at": "2014-04-16T19:08:33Z",
-    "updated_at": "2020-03-04T03:39:46Z",
+    "updated_at": "2020-03-07T13:40:59Z",
     "pushed_at": "2020-03-03T14:07:43Z",
     "git_url": "git://github.com/roots/trellis.git",
     "ssh_url": "git@github.com:roots/trellis.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/roots/trellis",
     "homepage": "https://roots.io/trellis/",
     "size": 1527,
-    "stargazers_count": 2049,
-    "watchers_count": 2049,
+    "stargazers_count": 2052,
+    "watchers_count": 2052,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 544,
+    "forks_count": 546,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 544,
+    "forks": 546,
     "open_issues": 56,
-    "watchers": 2049,
+    "watchers": 2052,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 544,
+    "network_count": 546,
     "subscribers_count": 140
 }

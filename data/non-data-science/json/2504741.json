@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/cms-dev/cms/releases{/id}",
     "deployments_url": "https://api.github.com/repos/cms-dev/cms/deployments",
     "created_at": "2011-10-03T13:37:02Z",
-    "updated_at": "2020-03-03T17:49:13Z",
+    "updated_at": "2020-03-10T10:46:01Z",
     "pushed_at": "2020-03-03T23:28:03Z",
     "git_url": "git://github.com/cms-dev/cms.git",
     "ssh_url": "git@github.com:cms-dev/cms.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/cms-dev/cms",
     "homepage": "http://cms-dev.github.io/",
     "size": 19204,
-    "stargazers_count": 574,
-    "watchers_count": 574,
+    "stargazers_count": 577,
+    "watchers_count": 577,
     "language": "Python",
     "has_issues": true,
     "has_projects": false,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 265,
+    "forks_count": 264,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/agpl-3.0",
         "node_id": "MDc6TGljZW5zZTE="
     },
-    "forks": 265,
+    "forks": 264,
     "open_issues": 179,
-    "watchers": 574,
+    "watchers": 577,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 265,
+    "network_count": 264,
     "subscribers_count": 37
 }

@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/googlesamples/assistant-sdk-python/releases{/id}",
     "deployments_url": "https://api.github.com/repos/googlesamples/assistant-sdk-python/deployments",
     "created_at": "2017-04-25T22:06:02Z",
-    "updated_at": "2020-03-04T17:22:02Z",
+    "updated_at": "2020-03-10T09:09:43Z",
     "pushed_at": "2020-03-04T08:08:38Z",
     "git_url": "git://github.com/googlesamples/assistant-sdk-python.git",
     "ssh_url": "git@github.com:googlesamples/assistant-sdk-python.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/googlesamples/assistant-sdk-python",
     "homepage": "http://developer.google.com/assistant/sdk",
     "size": 676,
-    "stargazers_count": 779,
-    "watchers_count": 779,
+    "stargazers_count": 782,
+    "watchers_count": 782,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": false,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 289,
+    "forks_count": 286,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/apache-2.0",
         "node_id": "MDc6TGljZW5zZTI="
     },
-    "forks": 289,
+    "forks": 286,
     "open_issues": 108,
-    "watchers": 779,
+    "watchers": 782,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 289,
-    "subscribers_count": 98
+    "network_count": 286,
+    "subscribers_count": 99
 }

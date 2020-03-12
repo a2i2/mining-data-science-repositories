@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/tartley/colorama/releases{/id}",
     "deployments_url": "https://api.github.com/repos/tartley/colorama/deployments",
     "created_at": "2014-04-17T20:18:25Z",
-    "updated_at": "2020-03-05T15:30:48Z",
+    "updated_at": "2020-03-10T15:53:23Z",
     "pushed_at": "2020-03-03T12:54:30Z",
     "git_url": "git://github.com/tartley/colorama.git",
     "ssh_url": "git@github.com:tartley/colorama.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/tartley/colorama",
     "homepage": null,
     "size": 395,
-    "stargazers_count": 1974,
-    "watchers_count": 1974,
+    "stargazers_count": 1983,
+    "watchers_count": 1983,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 144,
     "open_issues": 96,
-    "watchers": 1974,
+    "watchers": 1983,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -104,5 +104,5 @@
     },
     "temp_clone_token": "",
     "network_count": 144,
-    "subscribers_count": 39
+    "subscribers_count": 40
 }

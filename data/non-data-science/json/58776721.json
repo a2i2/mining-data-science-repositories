@@ -66,7 +66,7 @@
     "deployments_url": "https://api.github.com/repos/googledatalab/pydatalab/deployments",
     "created_at": "2016-05-13T22:42:57Z",
     "updated_at": "2020-03-04T19:27:53Z",
-    "pushed_at": "2020-01-28T21:33:39Z",
+    "pushed_at": "2020-03-11T06:07:22Z",
     "git_url": "git://github.com/googledatalab/pydatalab.git",
     "ssh_url": "git@github.com:googledatalab/pydatalab.git",
     "clone_url": "https://github.com/googledatalab/pydatalab.git",
@@ -81,11 +81,11 @@
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": true,
-    "forks_count": 75,
+    "forks_count": 76,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 96,
+    "open_issues_count": 97,
     "license": {
         "key": "apache-2.0",
         "name": "Apache License 2.0",
@@ -93,8 +93,8 @@
         "url": "https://api.github.com/licenses/apache-2.0",
         "node_id": "MDc6TGljZW5zZTI="
     },
-    "forks": 75,
-    "open_issues": 96,
+    "forks": 76,
+    "open_issues": 97,
     "watchers": 173,
     "default_branch": "master",
     "permissions": {
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 75,
+    "network_count": 76,
     "subscribers_count": 19
 }

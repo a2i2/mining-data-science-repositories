@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/scientifichackers/ampy/releases{/id}",
     "deployments_url": "https://api.github.com/repos/scientifichackers/ampy/deployments",
     "created_at": "2016-08-05T05:17:49Z",
-    "updated_at": "2020-03-04T22:38:30Z",
+    "updated_at": "2020-03-07T11:37:58Z",
     "pushed_at": "2020-01-23T21:59:50Z",
     "git_url": "git://github.com/scientifichackers/ampy.git",
     "ssh_url": "git@github.com:scientifichackers/ampy.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/scientifichackers/ampy",
     "homepage": null,
     "size": 179,
-    "stargazers_count": 400,
-    "watchers_count": 400,
+    "stargazers_count": 402,
+    "watchers_count": 402,
     "language": "Python",
     "has_issues": true,
     "has_projects": false,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 90,
+    "forks_count": 91,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 90,
+    "forks": 91,
     "open_issues": 22,
-    "watchers": 400,
+    "watchers": 402,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 90,
+    "network_count": 91,
     "subscribers_count": 39
 }

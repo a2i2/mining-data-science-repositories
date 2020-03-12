@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/firmadyne/firmadyne/releases{/id}",
     "deployments_url": "https://api.github.com/repos/firmadyne/firmadyne/deployments",
     "created_at": "2016-02-15T19:56:48Z",
-    "updated_at": "2020-03-05T14:50:17Z",
+    "updated_at": "2020-03-10T13:59:22Z",
     "pushed_at": "2020-03-01T17:15:22Z",
     "git_url": "git://github.com/firmadyne/firmadyne.git",
     "ssh_url": "git@github.com:firmadyne/firmadyne.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/firmadyne/firmadyne",
     "homepage": "",
     "size": 370,
-    "stargazers_count": 892,
-    "watchers_count": 892,
+    "stargazers_count": 897,
+    "watchers_count": 897,
     "language": "Shell",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 205,
+    "forks_count": 207,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 205,
+    "forks": 207,
     "open_issues": 64,
-    "watchers": 892,
+    "watchers": 897,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 205,
+    "network_count": 207,
     "subscribers_count": 72
 }

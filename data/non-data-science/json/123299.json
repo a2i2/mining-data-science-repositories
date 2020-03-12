@@ -65,14 +65,14 @@
     "releases_url": "https://api.github.com/repos/fedora-infra/bodhi/releases{/id}",
     "deployments_url": "https://api.github.com/repos/fedora-infra/bodhi/deployments",
     "created_at": "2009-02-06T19:38:10Z",
-    "updated_at": "2020-03-05T19:35:50Z",
-    "pushed_at": "2020-03-05T19:46:04Z",
+    "updated_at": "2020-03-10T10:03:42Z",
+    "pushed_at": "2020-03-10T18:20:10Z",
     "git_url": "git://github.com/fedora-infra/bodhi.git",
     "ssh_url": "git@github.com:fedora-infra/bodhi.git",
     "clone_url": "https://github.com/fedora-infra/bodhi.git",
     "svn_url": "https://github.com/fedora-infra/bodhi",
     "homepage": "https://bodhi.fedoraproject.org",
-    "size": 46350,
+    "size": 46372,
     "stargazers_count": 99,
     "watchers_count": 99,
     "language": "Python",
@@ -81,11 +81,11 @@
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 157,
+    "forks_count": 159,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 287,
+    "open_issues_count": 289,
     "license": {
         "key": "gpl-2.0",
         "name": "GNU General Public License v2.0",
@@ -93,8 +93,8 @@
         "url": "https://api.github.com/licenses/gpl-2.0",
         "node_id": "MDc6TGljZW5zZTg="
     },
-    "forks": 157,
-    "open_issues": 287,
+    "forks": 159,
+    "open_issues": 289,
     "watchers": 99,
     "default_branch": "develop",
     "permissions": {
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 157,
+    "network_count": 159,
     "subscribers_count": 27
 }

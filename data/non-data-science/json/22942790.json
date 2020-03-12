@@ -65,16 +65,16 @@
     "releases_url": "https://api.github.com/repos/commonmark/commonmark-spec/releases{/id}",
     "deployments_url": "https://api.github.com/repos/commonmark/commonmark-spec/deployments",
     "created_at": "2014-08-14T05:53:20Z",
-    "updated_at": "2020-03-05T07:48:52Z",
-    "pushed_at": "2020-02-17T19:46:51Z",
+    "updated_at": "2020-03-11T04:20:23Z",
+    "pushed_at": "2020-03-10T17:28:47Z",
     "git_url": "git://github.com/commonmark/commonmark-spec.git",
     "ssh_url": "git@github.com:commonmark/commonmark-spec.git",
     "clone_url": "https://github.com/commonmark/commonmark-spec.git",
     "svn_url": "https://github.com/commonmark/commonmark-spec",
     "homepage": "http://commonmark.org",
-    "size": 2842,
-    "stargazers_count": 4087,
-    "watchers_count": 4087,
+    "size": 2843,
+    "stargazers_count": 4089,
+    "watchers_count": 4089,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 256,
     "open_issues": 62,
-    "watchers": 4087,
+    "watchers": 4089,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -124,5 +124,5 @@
         "site_admin": false
     },
     "network_count": 256,
-    "subscribers_count": 152
+    "subscribers_count": 151
 }

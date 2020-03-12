@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/bruth/django-tracking2/releases{/id}",
     "deployments_url": "https://api.github.com/repos/bruth/django-tracking2/deployments",
     "created_at": "2012-01-17T23:34:12Z",
-    "updated_at": "2020-02-03T16:53:34Z",
+    "updated_at": "2020-03-10T23:17:06Z",
     "pushed_at": "2020-02-04T00:12:15Z",
     "git_url": "git://github.com/bruth/django-tracking2.git",
     "ssh_url": "git@github.com:bruth/django-tracking2.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/bruth/django-tracking2",
     "homepage": "",
     "size": 175,
-    "stargazers_count": 165,
-    "watchers_count": 165,
+    "stargazers_count": 167,
+    "watchers_count": 167,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 65,
+    "forks_count": 64,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/bsd-2-clause",
         "node_id": "MDc6TGljZW5zZTQ="
     },
-    "forks": 65,
+    "forks": 64,
     "open_issues": 14,
-    "watchers": 165,
+    "watchers": 167,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 65,
+    "network_count": 64,
     "subscribers_count": 12
 }

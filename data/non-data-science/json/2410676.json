@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/urllib3/urllib3/releases{/id}",
     "deployments_url": "https://api.github.com/repos/urllib3/urllib3/deployments",
     "created_at": "2011-09-18T18:08:28Z",
-    "updated_at": "2020-03-05T08:41:02Z",
+    "updated_at": "2020-03-11T02:35:39Z",
     "pushed_at": "2020-02-29T00:01:20Z",
     "git_url": "git://github.com/urllib3/urllib3.git",
     "ssh_url": "git@github.com:urllib3/urllib3.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/urllib3/urllib3",
     "homepage": "https://urllib3.readthedocs.io",
     "size": 4840,
-    "stargazers_count": 2253,
-    "watchers_count": 2253,
+    "stargazers_count": 2257,
+    "watchers_count": 2257,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 730,
+    "forks_count": 731,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 730,
+    "forks": 731,
     "open_issues": 130,
-    "watchers": 2253,
+    "watchers": 2257,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 730,
+    "network_count": 731,
     "subscribers_count": 91
 }

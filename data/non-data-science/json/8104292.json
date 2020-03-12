@@ -66,7 +66,7 @@
     "deployments_url": "https://api.github.com/repos/glinscott/fishtest/deployments",
     "created_at": "2013-02-09T00:52:46Z",
     "updated_at": "2020-02-28T15:08:24Z",
-    "pushed_at": "2020-02-28T15:08:21Z",
+    "pushed_at": "2020-03-09T19:38:16Z",
     "git_url": "git://github.com/glinscott/fishtest.git",
     "ssh_url": "git@github.com:glinscott/fishtest.git",
     "clone_url": "https://github.com/glinscott/fishtest.git",
@@ -81,14 +81,14 @@
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 62,
+    "forks_count": 63,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 49,
+    "open_issues_count": 51,
     "license": null,
-    "forks": 62,
-    "open_issues": 49,
+    "forks": 63,
+    "open_issues": 51,
     "watchers": 111,
     "default_branch": "master",
     "permissions": {
@@ -97,6 +97,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 62,
+    "network_count": 63,
     "subscribers_count": 30
 }

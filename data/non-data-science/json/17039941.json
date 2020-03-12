@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/rfunix/Pompem/releases{/id}",
     "deployments_url": "https://api.github.com/repos/rfunix/Pompem/deployments",
     "created_at": "2014-02-20T23:58:07Z",
-    "updated_at": "2020-03-05T14:48:06Z",
+    "updated_at": "2020-03-10T10:30:40Z",
     "pushed_at": "2018-10-03T02:05:58Z",
     "git_url": "git://github.com/rfunix/Pompem.git",
     "ssh_url": "git@github.com:rfunix/Pompem.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/rfunix/Pompem",
     "homepage": null,
     "size": 379,
-    "stargazers_count": 745,
-    "watchers_count": 745,
+    "stargazers_count": 750,
+    "watchers_count": 750,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 251,
+    "forks_count": 253,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/gpl-3.0",
         "node_id": "MDc6TGljZW5zZTk="
     },
-    "forks": 251,
+    "forks": 253,
     "open_issues": 5,
-    "watchers": 745,
+    "watchers": 750,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 251,
+    "network_count": 253,
     "subscribers_count": 67
 }

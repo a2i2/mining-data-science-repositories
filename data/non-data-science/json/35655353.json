@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/michaelliao/learn-python3/releases{/id}",
     "deployments_url": "https://api.github.com/repos/michaelliao/learn-python3/deployments",
     "created_at": "2015-05-15T05:29:05Z",
-    "updated_at": "2020-03-06T01:14:06Z",
+    "updated_at": "2020-03-10T18:03:42Z",
     "pushed_at": "2020-02-16T14:35:29Z",
     "git_url": "git://github.com/michaelliao/learn-python3.git",
     "ssh_url": "git@github.com:michaelliao/learn-python3.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/michaelliao/learn-python3",
     "homepage": null,
     "size": 108,
-    "stargazers_count": 4359,
-    "watchers_count": 4359,
+    "stargazers_count": 4380,
+    "watchers_count": 4380,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 4128,
+    "forks_count": 4134,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/gpl-2.0",
         "node_id": "MDc6TGljZW5zZTg="
     },
-    "forks": 4128,
+    "forks": 4134,
     "open_issues": 23,
-    "watchers": 4359,
+    "watchers": 4380,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 4128,
+    "network_count": 4134,
     "subscribers_count": 496
 }

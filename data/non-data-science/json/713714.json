@@ -66,7 +66,7 @@
     "deployments_url": "https://api.github.com/repos/mzupan/nagios-plugin-mongodb/deployments",
     "created_at": "2010-06-10T15:05:39Z",
     "updated_at": "2020-02-28T08:59:40Z",
-    "pushed_at": "2019-10-15T01:34:07Z",
+    "pushed_at": "2020-03-06T14:59:01Z",
     "git_url": "git://github.com/mzupan/nagios-plugin-mongodb.git",
     "ssh_url": "git@github.com:mzupan/nagios-plugin-mongodb.git",
     "clone_url": "https://github.com/mzupan/nagios-plugin-mongodb.git",
@@ -81,11 +81,11 @@
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 255,
+    "forks_count": 256,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 83,
+    "open_issues_count": 84,
     "license": {
         "key": "bsd-2-clause",
         "name": "BSD 2-Clause \"Simplified\" License",
@@ -93,8 +93,8 @@
         "url": "https://api.github.com/licenses/bsd-2-clause",
         "node_id": "MDc6TGljZW5zZTQ="
     },
-    "forks": 255,
-    "open_issues": 83,
+    "forks": 256,
+    "open_issues": 84,
     "watchers": 343,
     "default_branch": "master",
     "permissions": {
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 255,
+    "network_count": 256,
     "subscribers_count": 32
 }

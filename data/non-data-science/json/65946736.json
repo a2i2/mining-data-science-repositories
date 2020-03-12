@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/genotrance/px/releases{/id}",
     "deployments_url": "https://api.github.com/repos/genotrance/px/deployments",
     "created_at": "2016-08-17T22:33:40Z",
-    "updated_at": "2020-03-04T08:34:24Z",
+    "updated_at": "2020-03-10T20:42:44Z",
     "pushed_at": "2019-11-26T08:17:15Z",
     "git_url": "git://github.com/genotrance/px.git",
     "ssh_url": "git@github.com:genotrance/px.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/genotrance/px",
     "homepage": "",
     "size": 203,
-    "stargazers_count": 454,
-    "watchers_count": 454,
+    "stargazers_count": 458,
+    "watchers_count": 458,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 46,
+    "forks_count": 47,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 46,
+    "forks": 47,
     "open_issues": 18,
-    "watchers": 454,
+    "watchers": 458,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 46,
+    "network_count": 47,
     "subscribers_count": 31
 }

@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/googleapis/google-cloud-python/releases{/id}",
     "deployments_url": "https://api.github.com/repos/googleapis/google-cloud-python/deployments",
     "created_at": "2014-01-28T15:51:47Z",
-    "updated_at": "2020-03-03T11:21:35Z",
+    "updated_at": "2020-03-10T11:34:31Z",
     "pushed_at": "2020-02-21T16:20:47Z",
     "git_url": "git://github.com/googleapis/google-cloud-python.git",
     "ssh_url": "git@github.com:googleapis/google-cloud-python.git",
@@ -73,19 +73,19 @@
     "svn_url": "https://github.com/googleapis/google-cloud-python",
     "homepage": "https://googleapis.github.io/google-cloud-python/",
     "size": 1782013,
-    "stargazers_count": 3115,
-    "watchers_count": 3115,
+    "stargazers_count": 3128,
+    "watchers_count": 3128,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": true,
-    "forks_count": 1284,
+    "forks_count": 1286,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 39,
+    "open_issues_count": 42,
     "license": {
         "key": "apache-2.0",
         "name": "Apache License 2.0",
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/apache-2.0",
         "node_id": "MDc6TGljZW5zZTI="
     },
-    "forks": 1284,
-    "open_issues": 39,
-    "watchers": 3115,
+    "forks": 1286,
+    "open_issues": 42,
+    "watchers": 3128,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 1284,
-    "subscribers_count": 289
+    "network_count": 1286,
+    "subscribers_count": 291
 }

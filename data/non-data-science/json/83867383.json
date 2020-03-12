@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/transedward/pytorch-dqn/releases{/id}",
     "deployments_url": "https://api.github.com/repos/transedward/pytorch-dqn/deployments",
     "created_at": "2017-03-04T05:24:15Z",
-    "updated_at": "2020-03-03T09:26:59Z",
+    "updated_at": "2020-03-09T15:31:21Z",
     "pushed_at": "2017-11-01T02:46:24Z",
     "git_url": "git://github.com/transedward/pytorch-dqn.git",
     "ssh_url": "git@github.com:transedward/pytorch-dqn.git",
@@ -73,19 +73,19 @@
     "svn_url": "https://github.com/transedward/pytorch-dqn",
     "homepage": "",
     "size": 1330,
-    "stargazers_count": 218,
-    "watchers_count": 218,
+    "stargazers_count": 220,
+    "watchers_count": 220,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 65,
+    "forks_count": 64,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 9,
+    "open_issues_count": 10,
     "license": {
         "key": "mit",
         "name": "MIT License",
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 65,
-    "open_issues": 9,
-    "watchers": 218,
+    "forks": 64,
+    "open_issues": 10,
+    "watchers": 220,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 65,
+    "network_count": 64,
     "subscribers_count": 8
 }

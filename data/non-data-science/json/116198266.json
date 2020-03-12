@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/uber-research/deep-neuroevolution/releases{/id}",
     "deployments_url": "https://api.github.com/repos/uber-research/deep-neuroevolution/deployments",
     "created_at": "2018-01-04T01:12:25Z",
-    "updated_at": "2020-03-05T16:07:55Z",
+    "updated_at": "2020-03-11T01:33:00Z",
     "pushed_at": "2020-01-28T22:00:48Z",
     "git_url": "git://github.com/uber-research/deep-neuroevolution.git",
     "ssh_url": "git@github.com:uber-research/deep-neuroevolution.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/uber-research/deep-neuroevolution",
     "homepage": null,
     "size": 3801,
-    "stargazers_count": 1357,
-    "watchers_count": 1357,
+    "stargazers_count": 1361,
+    "watchers_count": 1361,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 259,
+    "forks_count": 260,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": null,
         "node_id": "MDc6TGljZW5zZTA="
     },
-    "forks": 259,
+    "forks": 260,
     "open_issues": 14,
-    "watchers": 1357,
+    "watchers": 1361,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 259,
+    "network_count": 260,
     "subscribers_count": 82
 }

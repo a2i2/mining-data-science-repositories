@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/jdevoo/twecoll/releases{/id}",
     "deployments_url": "https://api.github.com/repos/jdevoo/twecoll/deployments",
     "created_at": "2012-10-03T19:17:51Z",
-    "updated_at": "2020-02-17T12:31:27Z",
+    "updated_at": "2020-03-10T15:45:25Z",
     "pushed_at": "2019-03-06T10:15:22Z",
     "git_url": "git://github.com/jdevoo/twecoll.git",
     "ssh_url": "git@github.com:jdevoo/twecoll.git",
@@ -81,13 +81,13 @@
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 55,
+    "forks_count": 56,
     "mirror_url": null,
     "archived": true,
     "disabled": false,
     "open_issues_count": 1,
     "license": null,
-    "forks": 55,
+    "forks": 56,
     "open_issues": 1,
     "watchers": 174,
     "default_branch": "master",
@@ -97,6 +97,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 55,
+    "network_count": 56,
     "subscribers_count": 20
 }

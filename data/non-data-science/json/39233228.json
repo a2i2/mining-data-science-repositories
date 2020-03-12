@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/hugapi/hug/releases{/id}",
     "deployments_url": "https://api.github.com/repos/hugapi/hug/deployments",
     "created_at": "2015-07-17T03:33:50Z",
-    "updated_at": "2020-03-04T17:49:01Z",
+    "updated_at": "2020-03-11T03:00:16Z",
     "pushed_at": "2020-02-18T17:17:49Z",
     "git_url": "git://github.com/hugapi/hug.git",
     "ssh_url": "git@github.com:hugapi/hug.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/hugapi/hug",
     "homepage": "",
     "size": 97888,
-    "stargazers_count": 6143,
-    "watchers_count": 6143,
+    "stargazers_count": 6152,
+    "watchers_count": 6152,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": true,
-    "forks_count": 358,
+    "forks_count": 359,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 358,
+    "forks": 359,
     "open_issues": 128,
-    "watchers": 6143,
+    "watchers": 6152,
     "default_branch": "develop",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 358,
-    "subscribers_count": 182
+    "network_count": 359,
+    "subscribers_count": 183
 }

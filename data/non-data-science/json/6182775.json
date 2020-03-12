@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/flask-restful/flask-restful/releases{/id}",
     "deployments_url": "https://api.github.com/repos/flask-restful/flask-restful/deployments",
     "created_at": "2012-10-12T00:08:51Z",
-    "updated_at": "2020-03-05T23:39:19Z",
+    "updated_at": "2020-03-11T08:38:18Z",
     "pushed_at": "2020-03-04T15:54:28Z",
     "git_url": "git://github.com/flask-restful/flask-restful.git",
     "ssh_url": "git@github.com:flask-restful/flask-restful.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/flask-restful/flask-restful",
     "homepage": "http://flask-restful.readthedocs.io",
     "size": 1079,
-    "stargazers_count": 5426,
-    "watchers_count": 5426,
+    "stargazers_count": 5437,
+    "watchers_count": 5437,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 863,
+    "forks_count": 862,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/bsd-3-clause",
         "node_id": "MDc6TGljZW5zZTU="
     },
-    "forks": 863,
+    "forks": 862,
     "open_issues": 105,
-    "watchers": 5426,
+    "watchers": 5437,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 863,
-    "subscribers_count": 191
+    "network_count": 862,
+    "subscribers_count": 193
 }

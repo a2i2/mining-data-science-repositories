@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/requests/requests-kerberos/releases{/id}",
     "deployments_url": "https://api.github.com/repos/requests/requests-kerberos/deployments",
     "created_at": "2012-11-15T19:22:30Z",
-    "updated_at": "2020-03-04T20:51:42Z",
+    "updated_at": "2020-03-10T05:54:07Z",
     "pushed_at": "2020-02-26T17:21:11Z",
     "git_url": "git://github.com/requests/requests-kerberos.git",
     "ssh_url": "git@github.com:requests/requests-kerberos.git",
@@ -73,19 +73,19 @@
     "svn_url": "https://github.com/requests/requests-kerberos",
     "homepage": null,
     "size": 149,
-    "stargazers_count": 193,
-    "watchers_count": 193,
+    "stargazers_count": 194,
+    "watchers_count": 194,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 81,
+    "forks_count": 82,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 36,
+    "open_issues_count": 37,
     "license": {
         "key": "isc",
         "name": "ISC License",
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/isc",
         "node_id": "MDc6TGljZW5zZTEw"
     },
-    "forks": 81,
-    "open_issues": 36,
-    "watchers": 193,
+    "forks": 82,
+    "open_issues": 37,
+    "watchers": 194,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 81,
+    "network_count": 82,
     "subscribers_count": 26
 }

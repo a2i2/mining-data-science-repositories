@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/scikit-learn-contrib/metric-learn/releases{/id}",
     "deployments_url": "https://api.github.com/repos/scikit-learn-contrib/metric-learn/deployments",
     "created_at": "2013-11-02T08:29:47Z",
-    "updated_at": "2020-03-04T16:18:35Z",
+    "updated_at": "2020-03-10T08:00:33Z",
     "pushed_at": "2020-03-05T16:35:39Z",
     "git_url": "git://github.com/scikit-learn-contrib/metric-learn.git",
     "ssh_url": "git@github.com:scikit-learn-contrib/metric-learn.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/scikit-learn-contrib/metric-learn",
     "homepage": "http://contrib.scikit-learn.org/metric-learn/",
     "size": 10105,
-    "stargazers_count": 951,
-    "watchers_count": 951,
+    "stargazers_count": 953,
+    "watchers_count": 953,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": true,
-    "forks_count": 196,
+    "forks_count": 197,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 196,
+    "forks": 197,
     "open_issues": 51,
-    "watchers": 951,
+    "watchers": 953,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 196,
+    "network_count": 197,
     "subscribers_count": 49
 }

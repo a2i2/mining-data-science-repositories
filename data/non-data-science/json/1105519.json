@@ -66,7 +66,7 @@
     "deployments_url": "https://api.github.com/repos/naparuba/shinken/deployments",
     "created_at": "2010-11-23T11:02:56Z",
     "updated_at": "2020-03-02T08:05:31Z",
-    "pushed_at": "2020-01-25T13:04:05Z",
+    "pushed_at": "2020-03-10T10:33:37Z",
     "git_url": "git://github.com/naparuba/shinken.git",
     "ssh_url": "git@github.com:naparuba/shinken.git",
     "clone_url": "https://github.com/naparuba/shinken.git",
@@ -81,11 +81,11 @@
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 353,
+    "forks_count": 354,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 230,
+    "open_issues_count": 231,
     "license": {
         "key": "agpl-3.0",
         "name": "GNU Affero General Public License v3.0",
@@ -93,8 +93,8 @@
         "url": "https://api.github.com/licenses/agpl-3.0",
         "node_id": "MDc6TGljZW5zZTE="
     },
-    "forks": 353,
-    "open_issues": 230,
+    "forks": 354,
+    "open_issues": 231,
     "watchers": 1097,
     "default_branch": "master",
     "permissions": {
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 353,
-    "subscribers_count": 101
+    "network_count": 354,
+    "subscribers_count": 100
 }

@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/aitjcize/cppman/releases{/id}",
     "deployments_url": "https://api.github.com/repos/aitjcize/cppman/deployments",
     "created_at": "2010-07-03T15:58:20Z",
-    "updated_at": "2020-03-05T02:34:18Z",
+    "updated_at": "2020-03-11T00:27:46Z",
     "pushed_at": "2020-02-04T06:09:47Z",
     "git_url": "git://github.com/aitjcize/cppman.git",
     "ssh_url": "git@github.com:aitjcize/cppman.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/aitjcize/cppman",
     "homepage": "",
     "size": 6545,
-    "stargazers_count": 767,
-    "watchers_count": 767,
+    "stargazers_count": 768,
+    "watchers_count": 768,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 53,
     "open_issues": 3,
-    "watchers": 767,
+    "watchers": 768,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -104,5 +104,5 @@
     },
     "temp_clone_token": "",
     "network_count": 53,
-    "subscribers_count": 24
+    "subscribers_count": 25
 }

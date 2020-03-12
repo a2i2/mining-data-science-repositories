@@ -66,7 +66,7 @@
     "deployments_url": "https://api.github.com/repos/django-salesforce/django-salesforce/deployments",
     "created_at": "2012-05-05T17:41:41Z",
     "updated_at": "2020-03-05T16:21:42Z",
-    "pushed_at": "2020-01-05T17:40:44Z",
+    "pushed_at": "2020-03-06T17:42:44Z",
     "git_url": "git://github.com/django-salesforce/django-salesforce.git",
     "ssh_url": "git@github.com:django-salesforce/django-salesforce.git",
     "clone_url": "https://github.com/django-salesforce/django-salesforce.git",
@@ -81,7 +81,7 @@
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 63,
+    "forks_count": 64,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,7 +93,7 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 63,
+    "forks": 64,
     "open_issues": 7,
     "watchers": 204,
     "default_branch": "master",
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 63,
+    "network_count": 64,
     "subscribers_count": 11
 }

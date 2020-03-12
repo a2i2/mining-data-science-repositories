@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/ev3dev/ev3dev-lang-python/releases{/id}",
     "deployments_url": "https://api.github.com/repos/ev3dev/ev3dev-lang-python/deployments",
     "created_at": "2015-10-03T15:32:20Z",
-    "updated_at": "2020-02-28T07:54:13Z",
+    "updated_at": "2020-03-09T08:06:59Z",
     "pushed_at": "2020-02-22T06:58:21Z",
     "git_url": "git://github.com/ev3dev/ev3dev-lang-python.git",
     "ssh_url": "git@github.com:ev3dev/ev3dev-lang-python.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/ev3dev/ev3dev-lang-python",
     "homepage": null,
     "size": 9972,
-    "stargazers_count": 316,
-    "watchers_count": 316,
+    "stargazers_count": 319,
+    "watchers_count": 319,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 125,
+    "forks_count": 126,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 125,
+    "forks": 126,
     "open_issues": 31,
-    "watchers": 316,
+    "watchers": 319,
     "default_branch": "ev3dev-stretch",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 125,
+    "network_count": 126,
     "subscribers_count": 37
 }

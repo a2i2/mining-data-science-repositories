@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/longld/peda/releases{/id}",
     "deployments_url": "https://api.github.com/repos/longld/peda/deployments",
     "created_at": "2012-08-03T06:26:41Z",
-    "updated_at": "2020-03-05T16:29:44Z",
+    "updated_at": "2020-03-11T04:10:33Z",
     "pushed_at": "2020-02-20T14:38:34Z",
     "git_url": "git://github.com/longld/peda.git",
     "ssh_url": "git@github.com:longld/peda.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/longld/peda",
     "homepage": null,
     "size": 289,
-    "stargazers_count": 3913,
-    "watchers_count": 3913,
+    "stargazers_count": 3922,
+    "watchers_count": 3922,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 661,
     "open_issues": 53,
-    "watchers": 3913,
+    "watchers": 3922,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -104,5 +104,5 @@
     },
     "temp_clone_token": "",
     "network_count": 661,
-    "subscribers_count": 201
+    "subscribers_count": 200
 }

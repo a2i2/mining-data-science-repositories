@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/stitchfix/pyxley/releases{/id}",
     "deployments_url": "https://api.github.com/repos/stitchfix/pyxley/deployments",
     "created_at": "2015-06-22T22:23:26Z",
-    "updated_at": "2020-03-04T15:42:17Z",
+    "updated_at": "2020-03-11T09:05:42Z",
     "pushed_at": "2018-03-06T21:13:30Z",
     "git_url": "git://github.com/stitchfix/pyxley.git",
     "ssh_url": "git@github.com:stitchfix/pyxley.git",
@@ -81,7 +81,7 @@
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 265,
+    "forks_count": 264,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,7 +93,7 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 265,
+    "forks": 264,
     "open_issues": 25,
     "watchers": 2225,
     "default_branch": "master",
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 265,
+    "network_count": 264,
     "subscribers_count": 256
 }

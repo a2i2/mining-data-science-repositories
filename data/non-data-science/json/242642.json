@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/sebleier/django-redis-cache/releases{/id}",
     "deployments_url": "https://api.github.com/repos/sebleier/django-redis-cache/deployments",
     "created_at": "2009-07-03T17:51:56Z",
-    "updated_at": "2020-03-05T17:34:52Z",
+    "updated_at": "2020-03-06T13:50:01Z",
     "pushed_at": "2020-03-05T17:34:50Z",
     "git_url": "git://github.com/sebleier/django-redis-cache.git",
     "ssh_url": "git@github.com:sebleier/django-redis-cache.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/sebleier/django-redis-cache",
     "homepage": "http://django-redis-cache.readthedocs.org/en/latest/",
     "size": 328,
-    "stargazers_count": 942,
-    "watchers_count": 942,
+    "stargazers_count": 943,
+    "watchers_count": 943,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 184,
     "open_issues": 55,
-    "watchers": 942,
+    "watchers": 943,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -104,5 +104,5 @@
     },
     "temp_clone_token": "",
     "network_count": 184,
-    "subscribers_count": 39
+    "subscribers_count": 40
 }

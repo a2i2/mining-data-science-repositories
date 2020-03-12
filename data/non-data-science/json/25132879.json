@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/wolverdude/GenSON/releases{/id}",
     "deployments_url": "https://api.github.com/repos/wolverdude/GenSON/deployments",
     "created_at": "2014-10-12T21:39:18Z",
-    "updated_at": "2020-02-14T21:53:47Z",
+    "updated_at": "2020-03-06T22:26:24Z",
     "pushed_at": "2020-01-28T06:38:15Z",
     "git_url": "git://github.com/wolverdude/GenSON.git",
     "ssh_url": "git@github.com:wolverdude/GenSON.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/wolverdude/GenSON",
     "homepage": "",
     "size": 183,
-    "stargazers_count": 187,
-    "watchers_count": 187,
+    "stargazers_count": 188,
+    "watchers_count": 188,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 31,
+    "forks_count": 30,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 31,
+    "forks": 30,
     "open_issues": 15,
-    "watchers": 187,
+    "watchers": 188,
     "default_branch": "develop",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 31,
+    "network_count": 30,
     "subscribers_count": 6
 }

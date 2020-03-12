@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/Cartucho/OpenLabeling/releases{/id}",
     "deployments_url": "https://api.github.com/repos/Cartucho/OpenLabeling/deployments",
     "created_at": "2018-01-19T14:30:09Z",
-    "updated_at": "2020-03-04T15:26:28Z",
+    "updated_at": "2020-03-07T08:43:14Z",
     "pushed_at": "2020-01-16T21:16:54Z",
     "git_url": "git://github.com/Cartucho/OpenLabeling.git",
     "ssh_url": "git@github.com:Cartucho/OpenLabeling.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/Cartucho/OpenLabeling",
     "homepage": "",
     "size": 89906,
-    "stargazers_count": 545,
-    "watchers_count": 545,
+    "stargazers_count": 546,
+    "watchers_count": 546,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 151,
+    "forks_count": 152,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/apache-2.0",
         "node_id": "MDc6TGljZW5zZTI="
     },
-    "forks": 151,
+    "forks": 152,
     "open_issues": 9,
-    "watchers": 545,
+    "watchers": 546,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 151,
+    "network_count": 152,
     "subscribers_count": 23
 }

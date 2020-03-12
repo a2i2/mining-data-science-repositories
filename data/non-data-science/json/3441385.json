@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/fogleman/FeedNotifier/releases{/id}",
     "deployments_url": "https://api.github.com/repos/fogleman/FeedNotifier/deployments",
     "created_at": "2012-02-14T16:12:10Z",
-    "updated_at": "2020-01-30T21:49:06Z",
+    "updated_at": "2020-03-11T08:27:36Z",
     "pushed_at": "2015-07-16T22:08:01Z",
     "git_url": "git://github.com/fogleman/FeedNotifier.git",
     "ssh_url": "git@github.com:fogleman/FeedNotifier.git",

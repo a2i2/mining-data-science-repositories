@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/nccgroup/demiguise/releases{/id}",
     "deployments_url": "https://api.github.com/repos/nccgroup/demiguise/deployments",
     "created_at": "2017-07-26T08:56:15Z",
-    "updated_at": "2020-03-05T20:26:31Z",
+    "updated_at": "2020-03-10T16:13:49Z",
     "pushed_at": "2019-10-31T01:46:26Z",
     "git_url": "git://github.com/nccgroup/demiguise.git",
     "ssh_url": "git@github.com:nccgroup/demiguise.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/nccgroup/demiguise",
     "homepage": "https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2017/august/smuggling-hta-files-in-internet-exploreredge/",
     "size": 141,
-    "stargazers_count": 880,
-    "watchers_count": 880,
+    "stargazers_count": 882,
+    "watchers_count": 882,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 177,
+    "forks_count": 178,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/agpl-3.0",
         "node_id": "MDc6TGljZW5zZTE="
     },
-    "forks": 177,
+    "forks": 178,
     "open_issues": 9,
-    "watchers": 880,
+    "watchers": 882,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 177,
+    "network_count": 178,
     "subscribers_count": 52
 }

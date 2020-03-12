@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/prody/ProDy/releases{/id}",
     "deployments_url": "https://api.github.com/repos/prody/ProDy/deployments",
     "created_at": "2010-10-31T15:57:43Z",
-    "updated_at": "2020-03-05T07:35:23Z",
+    "updated_at": "2020-03-11T01:11:28Z",
     "pushed_at": "2020-02-21T06:56:48Z",
     "git_url": "git://github.com/prody/ProDy.git",
     "ssh_url": "git@github.com:prody/ProDy.git",
@@ -73,19 +73,19 @@
     "svn_url": "https://github.com/prody/ProDy",
     "homepage": "http://prody.csb.pitt.edu",
     "size": 47748,
-    "stargazers_count": 139,
-    "watchers_count": 139,
+    "stargazers_count": 140,
+    "watchers_count": 140,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 82,
+    "forks_count": 83,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 52,
+    "open_issues_count": 51,
     "license": {
         "key": "other",
         "name": "Other",
@@ -93,9 +93,9 @@
         "url": null,
         "node_id": "MDc6TGljZW5zZTA="
     },
-    "forks": 82,
-    "open_issues": 52,
-    "watchers": 139,
+    "forks": 83,
+    "open_issues": 51,
+    "watchers": 140,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 82,
+    "network_count": 83,
     "subscribers_count": 16
 }

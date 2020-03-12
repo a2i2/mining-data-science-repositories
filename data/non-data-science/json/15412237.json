@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/miguelgrinberg/flasky/releases{/id}",
     "deployments_url": "https://api.github.com/repos/miguelgrinberg/flasky/deployments",
     "created_at": "2013-12-24T05:38:12Z",
-    "updated_at": "2020-03-05T16:47:10Z",
+    "updated_at": "2020-03-11T05:59:59Z",
     "pushed_at": "2020-03-04T10:38:26Z",
     "git_url": "git://github.com/miguelgrinberg/flasky.git",
     "ssh_url": "git@github.com:miguelgrinberg/flasky.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/miguelgrinberg/flasky",
     "homepage": "http://flaskbook.com",
     "size": 227,
-    "stargazers_count": 6321,
-    "watchers_count": 6321,
+    "stargazers_count": 6331,
+    "watchers_count": 6331,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 3431,
+    "forks_count": 3433,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 3431,
+    "forks": 3433,
     "open_issues": 9,
-    "watchers": 6321,
+    "watchers": 6331,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 3431,
+    "network_count": 3433,
     "subscribers_count": 401
 }

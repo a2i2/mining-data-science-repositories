@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/rq/rq-scheduler/releases{/id}",
     "deployments_url": "https://api.github.com/repos/rq/rq-scheduler/deployments",
     "created_at": "2012-06-15T10:45:48Z",
-    "updated_at": "2020-03-05T14:47:13Z",
+    "updated_at": "2020-03-08T00:17:13Z",
     "pushed_at": "2020-02-18T08:01:53Z",
     "git_url": "git://github.com/rq/rq-scheduler.git",
     "ssh_url": "git@github.com:rq/rq-scheduler.git",

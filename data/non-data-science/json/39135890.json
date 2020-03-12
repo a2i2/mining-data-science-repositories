@@ -81,7 +81,7 @@
     "has_downloads": false,
     "has_wiki": false,
     "has_pages": true,
-    "forks_count": 57,
+    "forks_count": 56,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,7 +93,7 @@
         "url": "https://api.github.com/licenses/apache-2.0",
         "node_id": "MDc6TGljZW5zZTI="
     },
-    "forks": 57,
+    "forks": 56,
     "open_issues": 57,
     "watchers": 172,
     "default_branch": "master",
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 57,
+    "network_count": 56,
     "subscribers_count": 4
 }

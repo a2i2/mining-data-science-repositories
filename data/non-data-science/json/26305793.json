@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/nagadomi/lbpcascade_animeface/releases{/id}",
     "deployments_url": "https://api.github.com/repos/nagadomi/lbpcascade_animeface/deployments",
     "created_at": "2014-11-07T05:46:49Z",
-    "updated_at": "2020-03-03T15:05:25Z",
+    "updated_at": "2020-03-10T15:44:54Z",
     "pushed_at": "2018-11-23T05:53:31Z",
     "git_url": "git://github.com/nagadomi/lbpcascade_animeface.git",
     "ssh_url": "git@github.com:nagadomi/lbpcascade_animeface.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/nagadomi/lbpcascade_animeface",
     "homepage": "",
     "size": 782,
-    "stargazers_count": 1162,
-    "watchers_count": 1162,
+    "stargazers_count": 1172,
+    "watchers_count": 1172,
     "language": null,
     "has_issues": true,
     "has_projects": true,
@@ -89,7 +89,7 @@
     "license": null,
     "forks": 216,
     "open_issues": 4,
-    "watchers": 1162,
+    "watchers": 1172,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -98,5 +98,5 @@
     },
     "temp_clone_token": "",
     "network_count": 216,
-    "subscribers_count": 45
+    "subscribers_count": 46
 }

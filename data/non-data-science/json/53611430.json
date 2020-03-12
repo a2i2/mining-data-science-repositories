@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/awslabs/aws-security-automation/releases{/id}",
     "deployments_url": "https://api.github.com/repos/awslabs/aws-security-automation/deployments",
     "created_at": "2016-03-10T19:33:28Z",
-    "updated_at": "2020-03-03T21:03:48Z",
+    "updated_at": "2020-03-11T02:41:51Z",
     "pushed_at": "2019-01-30T20:12:32Z",
     "git_url": "git://github.com/awslabs/aws-security-automation.git",
     "ssh_url": "git@github.com:awslabs/aws-security-automation.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/awslabs/aws-security-automation",
     "homepage": null,
     "size": 827,
-    "stargazers_count": 385,
-    "watchers_count": 385,
+    "stargazers_count": 387,
+    "watchers_count": 387,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 136,
+    "forks_count": 137,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/apache-2.0",
         "node_id": "MDc6TGljZW5zZTI="
     },
-    "forks": 136,
+    "forks": 137,
     "open_issues": 4,
-    "watchers": 385,
+    "watchers": 387,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 136,
+    "network_count": 137,
     "subscribers_count": 114
 }

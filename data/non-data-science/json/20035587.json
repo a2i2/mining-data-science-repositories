@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/DEAP/deap/releases{/id}",
     "deployments_url": "https://api.github.com/repos/DEAP/deap/deployments",
     "created_at": "2014-05-21T20:07:39Z",
-    "updated_at": "2020-03-05T02:54:13Z",
+    "updated_at": "2020-03-11T04:29:22Z",
     "pushed_at": "2020-03-03T23:58:56Z",
     "git_url": "git://github.com/DEAP/deap.git",
     "ssh_url": "git@github.com:DEAP/deap.git",
@@ -73,19 +73,19 @@
     "svn_url": "https://github.com/DEAP/deap",
     "homepage": "http://deap.readthedocs.org/",
     "size": 10624,
-    "stargazers_count": 3445,
-    "watchers_count": 3445,
+    "stargazers_count": 3453,
+    "watchers_count": 3453,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 745,
+    "forks_count": 749,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 142,
+    "open_issues_count": 144,
     "license": {
         "key": "lgpl-3.0",
         "name": "GNU Lesser General Public License v3.0",
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/lgpl-3.0",
         "node_id": "MDc6TGljZW5zZTEy"
     },
-    "forks": 745,
-    "open_issues": 142,
-    "watchers": 3445,
+    "forks": 749,
+    "open_issues": 144,
+    "watchers": 3453,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 745,
+    "network_count": 749,
     "subscribers_count": 190
 }

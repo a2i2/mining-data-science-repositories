@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/saschpe/godaddy-dyndns/releases{/id}",
     "deployments_url": "https://api.github.com/repos/saschpe/godaddy-dyndns/deployments",
     "created_at": "2015-03-23T20:05:12Z",
-    "updated_at": "2020-02-05T14:27:49Z",
+    "updated_at": "2020-03-07T08:57:26Z",
     "pushed_at": "2019-01-21T16:56:24Z",
     "git_url": "git://github.com/saschpe/godaddy-dyndns.git",
     "ssh_url": "git@github.com:saschpe/godaddy-dyndns.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/saschpe/godaddy-dyndns",
     "homepage": "https://saschpe.wordpress.com/2013/11/12/godaddy-dyndns-for-the-poor/",
     "size": 140,
-    "stargazers_count": 79,
-    "watchers_count": 79,
+    "stargazers_count": 80,
+    "watchers_count": 80,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 31,
+    "forks_count": 32,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/apache-2.0",
         "node_id": "MDc6TGljZW5zZTI="
     },
-    "forks": 31,
+    "forks": 32,
     "open_issues": 7,
-    "watchers": 79,
+    "watchers": 80,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 31,
+    "network_count": 32,
     "subscribers_count": 14
 }

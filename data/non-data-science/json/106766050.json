@@ -66,13 +66,13 @@
     "deployments_url": "https://api.github.com/repos/dbcli/mssql-cli/deployments",
     "created_at": "2017-10-13T02:03:44Z",
     "updated_at": "2020-03-05T06:44:09Z",
-    "pushed_at": "2020-03-06T00:39:51Z",
+    "pushed_at": "2020-03-09T05:17:47Z",
     "git_url": "git://github.com/dbcli/mssql-cli.git",
     "ssh_url": "git@github.com:dbcli/mssql-cli.git",
     "clone_url": "https://github.com/dbcli/mssql-cli.git",
     "svn_url": "https://github.com/dbcli/mssql-cli",
     "homepage": "",
-    "size": 570406,
+    "size": 570443,
     "stargazers_count": 872,
     "watchers_count": 872,
     "language": "Python",
@@ -81,7 +81,7 @@
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 93,
+    "forks_count": 95,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,7 +93,7 @@
         "url": "https://api.github.com/licenses/bsd-3-clause",
         "node_id": "MDc6TGljZW5zZTU="
     },
-    "forks": 93,
+    "forks": 95,
     "open_issues": 93,
     "watchers": 872,
     "default_branch": "master",
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 93,
+    "network_count": 95,
     "subscribers_count": 45
 }

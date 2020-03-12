@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/kootenpv/yagmail/releases{/id}",
     "deployments_url": "https://api.github.com/repos/kootenpv/yagmail/deployments",
     "created_at": "2015-04-17T21:39:24Z",
-    "updated_at": "2020-03-05T20:43:50Z",
+    "updated_at": "2020-03-10T01:51:54Z",
     "pushed_at": "2019-12-20T00:39:51Z",
     "git_url": "git://github.com/kootenpv/yagmail.git",
     "ssh_url": "git@github.com:kootenpv/yagmail.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/kootenpv/yagmail",
     "homepage": "",
     "size": 249,
-    "stargazers_count": 1677,
-    "watchers_count": 1677,
+    "stargazers_count": 1686,
+    "watchers_count": 1686,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 184,
+    "forks_count": 185,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 184,
+    "forks": 185,
     "open_issues": 56,
-    "watchers": 1677,
+    "watchers": 1686,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 184,
+    "network_count": 185,
     "subscribers_count": 45
 }

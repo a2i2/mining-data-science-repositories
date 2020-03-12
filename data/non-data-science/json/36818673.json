@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/django/channels/releases{/id}",
     "deployments_url": "https://api.github.com/repos/django/channels/deployments",
     "created_at": "2015-06-03T17:16:20Z",
-    "updated_at": "2020-03-05T20:13:00Z",
+    "updated_at": "2020-03-11T06:02:11Z",
     "pushed_at": "2020-03-03T17:54:37Z",
     "git_url": "git://github.com/django/channels.git",
     "ssh_url": "git@github.com:django/channels.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/django/channels",
     "homepage": "https://channels.readthedocs.io",
     "size": 1766,
-    "stargazers_count": 4250,
-    "watchers_count": 4250,
+    "stargazers_count": 4258,
+    "watchers_count": 4258,
     "language": "Python",
     "has_issues": true,
     "has_projects": false,
@@ -95,7 +95,7 @@
     },
     "forks": 585,
     "open_issues": 87,
-    "watchers": 4250,
+    "watchers": 4258,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -124,5 +124,5 @@
         "site_admin": false
     },
     "network_count": 585,
-    "subscribers_count": 183
+    "subscribers_count": 182
 }

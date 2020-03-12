@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/Pure-L0G1C/Instagram/releases{/id}",
     "deployments_url": "https://api.github.com/repos/Pure-L0G1C/Instagram/deployments",
     "created_at": "2017-01-29T12:34:06Z",
-    "updated_at": "2020-03-05T23:39:41Z",
+    "updated_at": "2020-03-10T04:00:35Z",
     "pushed_at": "2020-02-09T01:07:10Z",
     "git_url": "git://github.com/Pure-L0G1C/Instagram.git",
     "ssh_url": "git@github.com:Pure-L0G1C/Instagram.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/Pure-L0G1C/Instagram",
     "homepage": "",
     "size": 33704,
-    "stargazers_count": 653,
-    "watchers_count": 653,
+    "stargazers_count": 658,
+    "watchers_count": 658,
     "language": "Python",
     "has_issues": false,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 519,
+    "forks_count": 525,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 519,
+    "forks": 525,
     "open_issues": 40,
-    "watchers": 653,
+    "watchers": 658,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 519,
-    "subscribers_count": 114
+    "network_count": 525,
+    "subscribers_count": 115
 }

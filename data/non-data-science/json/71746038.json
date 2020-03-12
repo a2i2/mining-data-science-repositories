@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/attify/firmware-analysis-toolkit/releases{/id}",
     "deployments_url": "https://api.github.com/repos/attify/firmware-analysis-toolkit/deployments",
     "created_at": "2016-10-24T02:50:15Z",
-    "updated_at": "2020-03-05T14:50:29Z",
+    "updated_at": "2020-03-10T13:59:12Z",
     "pushed_at": "2020-02-28T09:26:30Z",
     "git_url": "git://github.com/attify/firmware-analysis-toolkit.git",
     "ssh_url": "git@github.com:attify/firmware-analysis-toolkit.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/attify/firmware-analysis-toolkit",
     "homepage": null,
     "size": 45,
-    "stargazers_count": 520,
-    "watchers_count": 520,
+    "stargazers_count": 521,
+    "watchers_count": 521,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 117,
     "open_issues": 20,
-    "watchers": 520,
+    "watchers": 521,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -124,5 +124,5 @@
         "site_admin": false
     },
     "network_count": 117,
-    "subscribers_count": 45
+    "subscribers_count": 44
 }

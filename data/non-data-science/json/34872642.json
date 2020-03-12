@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/BishopFox/spoofcheck/releases{/id}",
     "deployments_url": "https://api.github.com/repos/BishopFox/spoofcheck/deployments",
     "created_at": "2015-04-30T19:31:08Z",
-    "updated_at": "2020-03-02T22:33:41Z",
+    "updated_at": "2020-03-10T10:13:57Z",
     "pushed_at": "2019-11-01T18:26:09Z",
     "git_url": "git://github.com/BishopFox/spoofcheck.git",
     "ssh_url": "git@github.com:BishopFox/spoofcheck.git",
@@ -73,19 +73,19 @@
     "svn_url": "https://github.com/BishopFox/spoofcheck",
     "homepage": null,
     "size": 10,
-    "stargazers_count": 338,
-    "watchers_count": 338,
+    "stargazers_count": 340,
+    "watchers_count": 340,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 77,
+    "forks_count": 78,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 8,
+    "open_issues_count": 9,
     "license": {
         "key": "mit",
         "name": "MIT License",
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 77,
-    "open_issues": 8,
-    "watchers": 338,
+    "forks": 78,
+    "open_issues": 9,
+    "watchers": 340,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 77,
+    "network_count": 78,
     "subscribers_count": 58
 }

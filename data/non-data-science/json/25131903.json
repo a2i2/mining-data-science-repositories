@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/pytransitions/transitions/releases{/id}",
     "deployments_url": "https://api.github.com/repos/pytransitions/transitions/deployments",
     "created_at": "2014-10-12T20:59:09Z",
-    "updated_at": "2020-03-06T01:36:41Z",
+    "updated_at": "2020-03-10T15:31:53Z",
     "pushed_at": "2020-03-05T13:52:35Z",
     "git_url": "git://github.com/pytransitions/transitions.git",
     "ssh_url": "git@github.com:pytransitions/transitions.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/pytransitions/transitions",
     "homepage": null,
     "size": 9069,
-    "stargazers_count": 2824,
-    "watchers_count": 2824,
+    "stargazers_count": 2830,
+    "watchers_count": 2830,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 360,
+    "forks_count": 363,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 360,
+    "forks": 363,
     "open_issues": 12,
-    "watchers": 2824,
+    "watchers": 2830,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 360,
+    "network_count": 363,
     "subscribers_count": 103
 }

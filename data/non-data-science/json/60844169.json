@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/NewFuture/DDNS/releases{/id}",
     "deployments_url": "https://api.github.com/repos/NewFuture/DDNS/deployments",
     "created_at": "2016-06-10T11:51:51Z",
-    "updated_at": "2020-03-05T16:04:30Z",
+    "updated_at": "2020-03-10T04:33:00Z",
     "pushed_at": "2020-03-03T09:37:31Z",
     "git_url": "git://github.com/NewFuture/DDNS.git",
     "ssh_url": "git@github.com:NewFuture/DDNS.git",
@@ -73,19 +73,19 @@
     "svn_url": "https://github.com/NewFuture/DDNS",
     "homepage": "https://ddns.newfuture.cc/",
     "size": 210,
-    "stargazers_count": 941,
-    "watchers_count": 941,
+    "stargazers_count": 960,
+    "watchers_count": 960,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": true,
-    "forks_count": 194,
+    "forks_count": 196,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 24,
+    "open_issues_count": 28,
     "license": {
         "key": "mit",
         "name": "MIT License",
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 194,
-    "open_issues": 24,
-    "watchers": 941,
+    "forks": 196,
+    "open_issues": 28,
+    "watchers": 960,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 194,
-    "subscribers_count": 30
+    "network_count": 196,
+    "subscribers_count": 28
 }

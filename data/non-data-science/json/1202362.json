@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/websocket-client/websocket-client/releases{/id}",
     "deployments_url": "https://api.github.com/repos/websocket-client/websocket-client/deployments",
     "created_at": "2010-12-28T06:35:25Z",
-    "updated_at": "2020-03-05T13:23:41Z",
+    "updated_at": "2020-03-11T02:29:08Z",
     "pushed_at": "2020-02-19T09:31:11Z",
     "git_url": "git://github.com/websocket-client/websocket-client.git",
     "ssh_url": "git@github.com:websocket-client/websocket-client.git",
@@ -73,19 +73,19 @@
     "svn_url": "https://github.com/websocket-client/websocket-client",
     "homepage": "https://github.com/websocket-client/websocket-client",
     "size": 1128,
-    "stargazers_count": 2144,
-    "watchers_count": 2144,
+    "stargazers_count": 2149,
+    "watchers_count": 2149,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": true,
-    "forks_count": 548,
+    "forks_count": 549,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 179,
+    "open_issues_count": 181,
     "license": {
         "key": "bsd-3-clause",
         "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/bsd-3-clause",
         "node_id": "MDc6TGljZW5zZTU="
     },
-    "forks": 548,
-    "open_issues": 179,
-    "watchers": 2144,
+    "forks": 549,
+    "open_issues": 181,
+    "watchers": 2149,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 548,
-    "subscribers_count": 88
+    "network_count": 549,
+    "subscribers_count": 89
 }

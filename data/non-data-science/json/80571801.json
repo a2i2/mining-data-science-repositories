@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/microsoft/mssql-scripter/releases{/id}",
     "deployments_url": "https://api.github.com/repos/microsoft/mssql-scripter/deployments",
     "created_at": "2017-01-31T23:10:10Z",
-    "updated_at": "2020-03-03T01:44:05Z",
+    "updated_at": "2020-03-10T11:34:43Z",
     "pushed_at": "2019-10-14T12:53:37Z",
     "git_url": "git://github.com/microsoft/mssql-scripter.git",
     "ssh_url": "git@github.com:microsoft/mssql-scripter.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/microsoft/mssql-scripter",
     "homepage": null,
     "size": 341917,
-    "stargazers_count": 398,
-    "watchers_count": 398,
+    "stargazers_count": 399,
+    "watchers_count": 399,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 78,
     "open_issues": 89,
-    "watchers": 398,
+    "watchers": 399,
     "default_branch": "dev",
     "permissions": {
         "admin": false,
@@ -124,5 +124,5 @@
         "site_admin": false
     },
     "network_count": 78,
-    "subscribers_count": 60
+    "subscribers_count": 61
 }

@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/andreasveit/densenet-pytorch/releases{/id}",
     "deployments_url": "https://api.github.com/repos/andreasveit/densenet-pytorch/deployments",
     "created_at": "2017-02-17T16:58:13Z",
-    "updated_at": "2020-02-14T15:46:35Z",
+    "updated_at": "2020-03-11T09:01:58Z",
     "pushed_at": "2018-02-28T20:18:29Z",
     "git_url": "git://github.com/andreasveit/densenet-pytorch.git",
     "ssh_url": "git@github.com:andreasveit/densenet-pytorch.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/andreasveit/densenet-pytorch",
     "homepage": null,
     "size": 430,
-    "stargazers_count": 294,
-    "watchers_count": 294,
+    "stargazers_count": 297,
+    "watchers_count": 297,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 102,
+    "forks_count": 103,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/bsd-3-clause",
         "node_id": "MDc6TGljZW5zZTU="
     },
-    "forks": 102,
+    "forks": 103,
     "open_issues": 3,
-    "watchers": 294,
+    "watchers": 297,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 102,
+    "network_count": 103,
     "subscribers_count": 4
 }

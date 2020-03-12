@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/daavoo/pyntcloud/releases{/id}",
     "deployments_url": "https://api.github.com/repos/daavoo/pyntcloud/deployments",
     "created_at": "2016-10-03T16:16:44Z",
-    "updated_at": "2020-03-05T12:53:40Z",
+    "updated_at": "2020-03-10T21:44:57Z",
     "pushed_at": "2019-11-14T17:55:00Z",
     "git_url": "git://github.com/daavoo/pyntcloud.git",
     "ssh_url": "git@github.com:daavoo/pyntcloud.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/daavoo/pyntcloud",
     "homepage": "http://pyntcloud.readthedocs.io",
     "size": 15361,
-    "stargazers_count": 691,
-    "watchers_count": 691,
+    "stargazers_count": 693,
+    "watchers_count": 693,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -85,7 +85,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 29,
+    "open_issues_count": 30,
     "license": {
         "key": "mit",
         "name": "MIT License",
@@ -94,8 +94,8 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "forks": 153,
-    "open_issues": 29,
-    "watchers": 691,
+    "open_issues": 30,
+    "watchers": 693,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -104,5 +104,5 @@
     },
     "temp_clone_token": "",
     "network_count": 153,
-    "subscribers_count": 36
+    "subscribers_count": 37
 }

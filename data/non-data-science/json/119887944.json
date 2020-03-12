@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/wardbradt/peregrine/releases{/id}",
     "deployments_url": "https://api.github.com/repos/wardbradt/peregrine/deployments",
     "created_at": "2018-02-01T20:13:22Z",
-    "updated_at": "2020-03-04T10:30:33Z",
+    "updated_at": "2020-03-10T08:55:13Z",
     "pushed_at": "2020-01-11T15:21:56Z",
     "git_url": "git://github.com/wardbradt/peregrine.git",
     "ssh_url": "git@github.com:wardbradt/peregrine.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/wardbradt/peregrine",
     "homepage": "",
     "size": 4027,
-    "stargazers_count": 433,
-    "watchers_count": 433,
+    "stargazers_count": 440,
+    "watchers_count": 440,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 124,
+    "forks_count": 126,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 124,
+    "forks": 126,
     "open_issues": 4,
-    "watchers": 433,
+    "watchers": 440,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 124,
+    "network_count": 126,
     "subscribers_count": 49
 }

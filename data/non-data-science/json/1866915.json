@@ -65,14 +65,14 @@
     "releases_url": "https://api.github.com/repos/Arelle/Arelle/releases{/id}",
     "deployments_url": "https://api.github.com/repos/Arelle/Arelle/deployments",
     "created_at": "2011-06-08T18:33:19Z",
-    "updated_at": "2020-03-04T08:42:24Z",
-    "pushed_at": "2020-03-04T08:42:26Z",
+    "updated_at": "2020-03-09T17:55:19Z",
+    "pushed_at": "2020-03-09T17:56:43Z",
     "git_url": "git://github.com/Arelle/Arelle.git",
     "ssh_url": "git@github.com:Arelle/Arelle.git",
     "clone_url": "https://github.com/Arelle/Arelle.git",
     "svn_url": "https://github.com/Arelle/Arelle",
     "homepage": "https://arelle.atlassian.net/wiki/display/ARELLE",
-    "size": 17462,
+    "size": 17522,
     "stargazers_count": 242,
     "watchers_count": 242,
     "language": "Python",
@@ -81,7 +81,7 @@
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 156,
+    "forks_count": 155,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,7 +93,7 @@
         "url": "https://api.github.com/licenses/apache-2.0",
         "node_id": "MDc6TGljZW5zZTI="
     },
-    "forks": 156,
+    "forks": 155,
     "open_issues": 33,
     "watchers": 242,
     "default_branch": "master",
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 156,
+    "network_count": 155,
     "subscribers_count": 64
 }

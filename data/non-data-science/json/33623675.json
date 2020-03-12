@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/bilelmoussaoui/Hardcode-Tray/releases{/id}",
     "deployments_url": "https://api.github.com/repos/bilelmoussaoui/Hardcode-Tray/deployments",
     "created_at": "2015-04-08T18:10:04Z",
-    "updated_at": "2020-03-04T14:02:21Z",
+    "updated_at": "2020-03-09T22:00:31Z",
     "pushed_at": "2020-03-03T22:10:25Z",
     "git_url": "git://github.com/bilelmoussaoui/Hardcode-Tray.git",
     "ssh_url": "git@github.com:bilelmoussaoui/Hardcode-Tray.git",

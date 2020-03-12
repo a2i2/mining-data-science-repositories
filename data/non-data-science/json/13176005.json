@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/realgam3/pymultitor/releases{/id}",
     "deployments_url": "https://api.github.com/repos/realgam3/pymultitor/deployments",
     "created_at": "2013-09-28T15:55:49Z",
-    "updated_at": "2020-03-04T08:36:14Z",
+    "updated_at": "2020-03-07T06:36:30Z",
     "pushed_at": "2020-02-06T21:41:29Z",
     "git_url": "git://github.com/realgam3/pymultitor.git",
     "ssh_url": "git@github.com:realgam3/pymultitor.git",
@@ -73,19 +73,19 @@
     "svn_url": "https://github.com/realgam3/pymultitor",
     "homepage": "",
     "size": 1878,
-    "stargazers_count": 393,
-    "watchers_count": 393,
+    "stargazers_count": 395,
+    "watchers_count": 395,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 91,
+    "forks_count": 92,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 0,
+    "open_issues_count": 3,
     "license": {
         "key": "gpl-3.0",
         "name": "GNU General Public License v3.0",
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/gpl-3.0",
         "node_id": "MDc6TGljZW5zZTk="
     },
-    "forks": 91,
-    "open_issues": 0,
-    "watchers": 393,
+    "forks": 92,
+    "open_issues": 3,
+    "watchers": 395,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 91,
+    "network_count": 92,
     "subscribers_count": 30
 }

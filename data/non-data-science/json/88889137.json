@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/google/aiyprojects-raspbian/releases{/id}",
     "deployments_url": "https://api.github.com/repos/google/aiyprojects-raspbian/deployments",
     "created_at": "2017-04-20T16:49:05Z",
-    "updated_at": "2020-03-04T10:08:15Z",
+    "updated_at": "2020-03-10T07:01:40Z",
     "pushed_at": "2019-12-07T04:35:28Z",
     "git_url": "git://github.com/google/aiyprojects-raspbian.git",
     "ssh_url": "git@github.com:google/aiyprojects-raspbian.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/google/aiyprojects-raspbian",
     "homepage": "https://aiyprojects.withgoogle.com/",
     "size": 2002,
-    "stargazers_count": 1315,
-    "watchers_count": 1315,
+    "stargazers_count": 1319,
+    "watchers_count": 1319,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -85,7 +85,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 135,
+    "open_issues_count": 136,
     "license": {
         "key": "apache-2.0",
         "name": "Apache License 2.0",
@@ -94,8 +94,8 @@
         "node_id": "MDc6TGljZW5zZTI="
     },
     "forks": 629,
-    "open_issues": 135,
-    "watchers": 1315,
+    "open_issues": 136,
+    "watchers": 1319,
     "default_branch": "aiyprojects",
     "permissions": {
         "admin": false,
@@ -124,5 +124,5 @@
         "site_admin": false
     },
     "network_count": 629,
-    "subscribers_count": 157
+    "subscribers_count": 158
 }

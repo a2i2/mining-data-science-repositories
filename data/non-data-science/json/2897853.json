@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/burnash/gspread/releases{/id}",
     "deployments_url": "https://api.github.com/repos/burnash/gspread/deployments",
     "created_at": "2011-12-02T10:46:20Z",
-    "updated_at": "2020-03-05T21:56:37Z",
+    "updated_at": "2020-03-10T18:05:22Z",
     "pushed_at": "2020-02-21T21:02:44Z",
     "git_url": "git://github.com/burnash/gspread.git",
     "ssh_url": "git@github.com:burnash/gspread.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/burnash/gspread",
     "homepage": "https://gspread.readthedocs.io",
     "size": 1341,
-    "stargazers_count": 4563,
-    "watchers_count": 4563,
+    "stargazers_count": 4575,
+    "watchers_count": 4575,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 700,
+    "forks_count": 702,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 700,
+    "forks": 702,
     "open_issues": 201,
-    "watchers": 4563,
+    "watchers": 4575,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 700,
+    "network_count": 702,
     "subscribers_count": 158
 }

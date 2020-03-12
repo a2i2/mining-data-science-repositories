@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/playframework/play1/releases{/id}",
     "deployments_url": "https://api.github.com/repos/playframework/play1/deployments",
     "created_at": "2010-08-13T10:08:50Z",
-    "updated_at": "2020-02-13T04:33:46Z",
+    "updated_at": "2020-03-06T04:25:24Z",
     "pushed_at": "2020-02-05T06:24:52Z",
     "git_url": "git://github.com/playframework/play1.git",
     "ssh_url": "git@github.com:playframework/play1.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/playframework/play1",
     "homepage": "https://www.playframework.com/documentation/1.4.x/home",
     "size": 586226,
-    "stargazers_count": 1565,
-    "watchers_count": 1565,
+    "stargazers_count": 1564,
+    "watchers_count": 1564,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 678,
+    "forks_count": 680,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": null,
         "node_id": "MDc6TGljZW5zZTA="
     },
-    "forks": 678,
+    "forks": 680,
     "open_issues": 91,
-    "watchers": 1565,
+    "watchers": 1564,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 678,
+    "network_count": 680,
     "subscribers_count": 115
 }

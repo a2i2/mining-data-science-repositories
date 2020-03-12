@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/D4Vinci/Cr3dOv3r/releases{/id}",
     "deployments_url": "https://api.github.com/repos/D4Vinci/Cr3dOv3r/deployments",
     "created_at": "2017-11-13T20:49:57Z",
-    "updated_at": "2020-03-03T00:42:24Z",
+    "updated_at": "2020-03-09T20:34:53Z",
     "pushed_at": "2019-03-28T14:53:38Z",
     "git_url": "git://github.com/D4Vinci/Cr3dOv3r.git",
     "ssh_url": "git@github.com:D4Vinci/Cr3dOv3r.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/D4Vinci/Cr3dOv3r",
     "homepage": null,
     "size": 2047,
-    "stargazers_count": 1483,
-    "watchers_count": 1483,
+    "stargazers_count": 1487,
+    "watchers_count": 1487,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 359,
+    "forks_count": 360,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 359,
+    "forks": 360,
     "open_issues": 12,
-    "watchers": 1483,
+    "watchers": 1487,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 359,
+    "network_count": 360,
     "subscribers_count": 101
 }

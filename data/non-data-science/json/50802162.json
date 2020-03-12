@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/buckket/twtxt/releases{/id}",
     "deployments_url": "https://api.github.com/repos/buckket/twtxt/deployments",
     "created_at": "2016-01-31T23:56:40Z",
-    "updated_at": "2020-03-05T16:21:14Z",
+    "updated_at": "2020-03-07T13:27:21Z",
     "pushed_at": "2019-09-26T00:34:52Z",
     "git_url": "git://github.com/buckket/twtxt.git",
     "ssh_url": "git@github.com:buckket/twtxt.git",

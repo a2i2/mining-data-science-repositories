@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/etingof/pysnmp/releases{/id}",
     "deployments_url": "https://api.github.com/repos/etingof/pysnmp/deployments",
     "created_at": "2016-02-24T22:23:43Z",
-    "updated_at": "2020-03-01T18:51:42Z",
+    "updated_at": "2020-03-09T12:23:22Z",
     "pushed_at": "2019-12-18T14:34:24Z",
     "git_url": "git://github.com/etingof/pysnmp.git",
     "ssh_url": "git@github.com:etingof/pysnmp.git",
@@ -80,12 +80,12 @@
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
-    "has_pages": false,
-    "forks_count": 106,
+    "has_pages": true,
+    "forks_count": 108,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 126,
+    "open_issues_count": 128,
     "license": {
         "key": "bsd-2-clause",
         "name": "BSD 2-Clause \"Simplified\" License",
@@ -93,8 +93,8 @@
         "url": "https://api.github.com/licenses/bsd-2-clause",
         "node_id": "MDc6TGljZW5zZTQ="
     },
-    "forks": 106,
-    "open_issues": 126,
+    "forks": 108,
+    "open_issues": 128,
     "watchers": 305,
     "default_branch": "master",
     "permissions": {
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 106,
-    "subscribers_count": 45
+    "network_count": 108,
+    "subscribers_count": 46
 }

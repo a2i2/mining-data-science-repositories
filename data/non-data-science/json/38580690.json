@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/MJL85/natlas/releases{/id}",
     "deployments_url": "https://api.github.com/repos/MJL85/natlas/deployments",
     "created_at": "2015-07-05T19:14:57Z",
-    "updated_at": "2020-02-29T06:00:50Z",
+    "updated_at": "2020-03-09T00:49:15Z",
     "pushed_at": "2019-11-17T17:14:42Z",
     "git_url": "git://github.com/MJL85/natlas.git",
     "ssh_url": "git@github.com:MJL85/natlas.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/MJL85/natlas",
     "homepage": "",
     "size": 768,
-    "stargazers_count": 338,
-    "watchers_count": 338,
+    "stargazers_count": 339,
+    "watchers_count": 339,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -85,7 +85,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 39,
+    "open_issues_count": 40,
     "license": {
         "key": "gpl-2.0",
         "name": "GNU General Public License v2.0",
@@ -94,8 +94,8 @@
         "node_id": "MDc6TGljZW5zZTg="
     },
     "forks": 71,
-    "open_issues": 39,
-    "watchers": 338,
+    "open_issues": 40,
+    "watchers": 339,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -104,5 +104,5 @@
     },
     "temp_clone_token": "",
     "network_count": 71,
-    "subscribers_count": 39
+    "subscribers_count": 38
 }

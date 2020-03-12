@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/simple-salesforce/simple-salesforce/releases{/id}",
     "deployments_url": "https://api.github.com/repos/simple-salesforce/simple-salesforce/deployments",
     "created_at": "2013-01-17T20:08:57Z",
-    "updated_at": "2020-03-04T13:52:13Z",
+    "updated_at": "2020-03-11T09:31:56Z",
     "pushed_at": "2020-03-01T03:18:21Z",
     "git_url": "git://github.com/simple-salesforce/simple-salesforce.git",
     "ssh_url": "git@github.com:simple-salesforce/simple-salesforce.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/simple-salesforce/simple-salesforce",
     "homepage": null,
     "size": 402,
-    "stargazers_count": 848,
-    "watchers_count": 848,
+    "stargazers_count": 851,
+    "watchers_count": 851,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 407,
+    "forks_count": 409,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": null,
         "node_id": "MDc6TGljZW5zZTA="
     },
-    "forks": 407,
+    "forks": 409,
     "open_issues": 107,
-    "watchers": 848,
+    "watchers": 851,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 407,
+    "network_count": 409,
     "subscribers_count": 83
 }

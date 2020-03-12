@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/wireservice/csvkit/releases{/id}",
     "deployments_url": "https://api.github.com/repos/wireservice/csvkit/deployments",
     "created_at": "2011-04-01T03:00:30Z",
-    "updated_at": "2020-03-05T07:30:20Z",
+    "updated_at": "2020-03-10T21:31:25Z",
     "pushed_at": "2020-03-04T19:16:48Z",
     "git_url": "git://github.com/wireservice/csvkit.git",
     "ssh_url": "git@github.com:wireservice/csvkit.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/wireservice/csvkit",
     "homepage": "http://csvkit.rtfd.org/",
     "size": 21900,
-    "stargazers_count": 4168,
-    "watchers_count": 4168,
+    "stargazers_count": 4175,
+    "watchers_count": 4175,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 519,
+    "forks_count": 521,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 519,
+    "forks": 521,
     "open_issues": 53,
-    "watchers": 4168,
+    "watchers": 4175,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 519,
-    "subscribers_count": 136
+    "network_count": 521,
+    "subscribers_count": 137
 }

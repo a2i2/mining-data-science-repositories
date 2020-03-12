@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/lepture/flask-wtf/releases{/id}",
     "deployments_url": "https://api.github.com/repos/lepture/flask-wtf/deployments",
     "created_at": "2012-02-29T16:38:52Z",
-    "updated_at": "2020-03-05T16:39:36Z",
+    "updated_at": "2020-03-10T01:32:22Z",
     "pushed_at": "2020-02-19T16:40:51Z",
     "git_url": "git://github.com/lepture/flask-wtf.git",
     "ssh_url": "git@github.com:lepture/flask-wtf.git",
@@ -73,19 +73,19 @@
     "svn_url": "https://github.com/lepture/flask-wtf",
     "homepage": "https://flask-wtf.readthedocs.io/",
     "size": 887,
-    "stargazers_count": 1033,
-    "watchers_count": 1033,
+    "stargazers_count": 1036,
+    "watchers_count": 1036,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 256,
+    "forks_count": 257,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 37,
+    "open_issues_count": 36,
     "license": {
         "key": "other",
         "name": "Other",
@@ -93,9 +93,9 @@
         "url": null,
         "node_id": "MDc6TGljZW5zZTA="
     },
-    "forks": 256,
-    "open_issues": 37,
-    "watchers": 1033,
+    "forks": 257,
+    "open_issues": 36,
+    "watchers": 1036,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 256,
+    "network_count": 257,
     "subscribers_count": 34
 }

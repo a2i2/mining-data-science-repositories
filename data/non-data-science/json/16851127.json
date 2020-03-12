@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/pydoit/doit/releases{/id}",
     "deployments_url": "https://api.github.com/repos/pydoit/doit/deployments",
     "created_at": "2014-02-14T22:21:23Z",
-    "updated_at": "2020-03-05T08:43:04Z",
+    "updated_at": "2020-03-11T06:26:12Z",
     "pushed_at": "2020-02-07T22:58:36Z",
     "git_url": "git://github.com/pydoit/doit.git",
     "ssh_url": "git@github.com:pydoit/doit.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/pydoit/doit",
     "homepage": "http://pydoit.org",
     "size": 7680,
-    "stargazers_count": 761,
-    "watchers_count": 761,
+    "stargazers_count": 774,
+    "watchers_count": 774,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 103,
     "open_issues": 60,
-    "watchers": 761,
+    "watchers": 774,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -124,5 +124,5 @@
         "site_admin": false
     },
     "network_count": 103,
-    "subscribers_count": 44
+    "subscribers_count": 45
 }

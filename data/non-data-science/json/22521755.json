@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/developmentseed/landsat-util/releases{/id}",
     "deployments_url": "https://api.github.com/repos/developmentseed/landsat-util/deployments",
     "created_at": "2014-08-01T18:07:37Z",
-    "updated_at": "2020-02-17T14:03:35Z",
+    "updated_at": "2020-03-11T02:04:37Z",
     "pushed_at": "2019-06-01T17:17:58Z",
     "git_url": "git://github.com/developmentseed/landsat-util.git",
     "ssh_url": "git@github.com:developmentseed/landsat-util.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/developmentseed/landsat-util",
     "homepage": null,
     "size": 61635,
-    "stargazers_count": 613,
-    "watchers_count": 613,
+    "stargazers_count": 614,
+    "watchers_count": 614,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 148,
     "open_issues": 37,
-    "watchers": 613,
+    "watchers": 614,
     "default_branch": "develop",
     "permissions": {
         "admin": false,
@@ -124,5 +124,5 @@
         "site_admin": false
     },
     "network_count": 148,
-    "subscribers_count": 114
+    "subscribers_count": 113
 }

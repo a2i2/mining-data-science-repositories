@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/behindthefirewalls/Parsero/releases{/id}",
     "deployments_url": "https://api.github.com/repos/behindthefirewalls/Parsero/deployments",
     "created_at": "2013-12-02T10:48:01Z",
-    "updated_at": "2020-03-05T14:31:06Z",
+    "updated_at": "2020-03-07T19:22:05Z",
     "pushed_at": "2017-09-01T21:23:27Z",
     "git_url": "git://github.com/behindthefirewalls/Parsero.git",
     "ssh_url": "git@github.com:behindthefirewalls/Parsero.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/behindthefirewalls/Parsero",
     "homepage": "http://www.behindthefirewalls.com/",
     "size": 571,
-    "stargazers_count": 114,
-    "watchers_count": 114,
+    "stargazers_count": 115,
+    "watchers_count": 115,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 45,
+    "forks_count": 46,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/gpl-2.0",
         "node_id": "MDc6TGljZW5zZTg="
     },
-    "forks": 45,
+    "forks": 46,
     "open_issues": 4,
-    "watchers": 114,
+    "watchers": 115,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 45,
+    "network_count": 46,
     "subscribers_count": 8
 }

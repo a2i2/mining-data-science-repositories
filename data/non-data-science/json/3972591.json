@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/yoavaviram/python-amazon-simple-product-api/releases{/id}",
     "deployments_url": "https://api.github.com/repos/yoavaviram/python-amazon-simple-product-api/deployments",
     "created_at": "2012-04-09T14:57:39Z",
-    "updated_at": "2020-02-26T20:00:32Z",
+    "updated_at": "2020-03-10T09:35:35Z",
     "pushed_at": "2019-05-30T14:07:01Z",
     "git_url": "git://github.com/yoavaviram/python-amazon-simple-product-api.git",
     "ssh_url": "git@github.com:yoavaviram/python-amazon-simple-product-api.git",
@@ -104,5 +104,5 @@
     },
     "temp_clone_token": "",
     "network_count": 207,
-    "subscribers_count": 54
+    "subscribers_count": 53
 }

@@ -66,13 +66,13 @@
     "deployments_url": "https://api.github.com/repos/skylines-project/skylines/deployments",
     "created_at": "2011-12-27T12:33:23Z",
     "updated_at": "2020-02-28T05:41:54Z",
-    "pushed_at": "2020-03-05T13:08:55Z",
+    "pushed_at": "2020-03-11T03:16:08Z",
     "git_url": "git://github.com/skylines-project/skylines.git",
     "ssh_url": "git@github.com:skylines-project/skylines.git",
     "clone_url": "https://github.com/skylines-project/skylines.git",
     "svn_url": "https://github.com/skylines-project/skylines",
     "homepage": "https://skylines.aero/",
-    "size": 39967,
+    "size": 39845,
     "stargazers_count": 265,
     "watchers_count": 265,
     "language": "Python",
@@ -124,5 +124,5 @@
         "site_admin": false
     },
     "network_count": 78,
-    "subscribers_count": 31
+    "subscribers_count": 30
 }

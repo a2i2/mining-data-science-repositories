@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/ytisf/PyExfil/releases{/id}",
     "deployments_url": "https://api.github.com/repos/ytisf/PyExfil/deployments",
     "created_at": "2014-11-27T19:06:24Z",
-    "updated_at": "2020-03-04T09:38:34Z",
+    "updated_at": "2020-03-06T09:13:54Z",
     "pushed_at": "2019-12-08T08:24:22Z",
     "git_url": "git://github.com/ytisf/PyExfil.git",
     "ssh_url": "git@github.com:ytisf/PyExfil.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/ytisf/PyExfil",
     "homepage": "https://pyexfil.morirt.com",
     "size": 1664,
-    "stargazers_count": 450,
-    "watchers_count": 450,
+    "stargazers_count": 452,
+    "watchers_count": 452,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": true,
-    "forks_count": 104,
+    "forks_count": 106,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 104,
+    "forks": 106,
     "open_issues": 2,
-    "watchers": 450,
+    "watchers": 452,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 104,
+    "network_count": 106,
     "subscribers_count": 43
 }

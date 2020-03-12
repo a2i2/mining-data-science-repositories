@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/PyMySQL/PyMySQL/releases{/id}",
     "deployments_url": "https://api.github.com/repos/PyMySQL/PyMySQL/deployments",
     "created_at": "2011-07-27T17:38:47Z",
-    "updated_at": "2020-03-05T22:12:11Z",
+    "updated_at": "2020-03-11T06:19:20Z",
     "pushed_at": "2020-03-05T08:24:30Z",
     "git_url": "git://github.com/PyMySQL/PyMySQL.git",
     "ssh_url": "git@github.com:PyMySQL/PyMySQL.git",
@@ -73,19 +73,19 @@
     "svn_url": "https://github.com/PyMySQL/PyMySQL",
     "homepage": "https://pymysql.readthedocs.io/",
     "size": 1130,
-    "stargazers_count": 5774,
-    "watchers_count": 5774,
+    "stargazers_count": 5783,
+    "watchers_count": 5783,
     "language": "Python",
     "has_issues": true,
     "has_projects": false,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 1173,
+    "forks_count": 1174,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 22,
+    "open_issues_count": 21,
     "license": {
         "key": "mit",
         "name": "MIT License",
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 1173,
-    "open_issues": 22,
-    "watchers": 5774,
+    "forks": 1174,
+    "open_issues": 21,
+    "watchers": 5783,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 1173,
+    "network_count": 1174,
     "subscribers_count": 233
 }

@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/corelan/mona/releases{/id}",
     "deployments_url": "https://api.github.com/repos/corelan/mona/deployments",
     "created_at": "2013-12-20T12:08:31Z",
-    "updated_at": "2020-03-05T16:27:02Z",
+    "updated_at": "2020-03-10T06:24:18Z",
     "pushed_at": "2020-03-03T14:26:57Z",
     "git_url": "git://github.com/corelan/mona.git",
     "ssh_url": "git@github.com:corelan/mona.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/corelan/mona",
     "homepage": null,
     "size": 1652,
-    "stargazers_count": 868,
-    "watchers_count": 868,
+    "stargazers_count": 873,
+    "watchers_count": 873,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 332,
+    "forks_count": 334,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/bsd-3-clause",
         "node_id": "MDc6TGljZW5zZTU="
     },
-    "forks": 332,
+    "forks": 334,
     "open_issues": 4,
-    "watchers": 868,
+    "watchers": 873,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 332,
-    "subscribers_count": 73
+    "network_count": 334,
+    "subscribers_count": 72
 }

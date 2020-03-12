@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/miso-belica/jusText/releases{/id}",
     "deployments_url": "https://api.github.com/repos/miso-belica/jusText/deployments",
     "created_at": "2013-02-10T11:42:20Z",
-    "updated_at": "2020-03-03T20:37:41Z",
+    "updated_at": "2020-03-10T09:50:27Z",
     "pushed_at": "2020-01-25T08:28:43Z",
     "git_url": "git://github.com/miso-belica/jusText.git",
     "ssh_url": "git@github.com:miso-belica/jusText.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/miso-belica/jusText",
     "homepage": "https://pypi.python.org/pypi/jusText",
     "size": 1033,
-    "stargazers_count": 373,
-    "watchers_count": 373,
+    "stargazers_count": 379,
+    "watchers_count": 379,
     "language": "Python",
     "has_issues": true,
     "has_projects": false,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 54,
+    "forks_count": 55,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/bsd-2-clause",
         "node_id": "MDc6TGljZW5zZTQ="
     },
-    "forks": 54,
+    "forks": 55,
     "open_issues": 7,
-    "watchers": 373,
+    "watchers": 379,
     "default_branch": "dev",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 54,
+    "network_count": 55,
     "subscribers_count": 20
 }

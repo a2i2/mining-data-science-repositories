@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/warner/magic-wormhole/releases{/id}",
     "deployments_url": "https://api.github.com/repos/warner/magic-wormhole/deployments",
     "created_at": "2015-02-10T08:38:44Z",
-    "updated_at": "2020-03-06T00:24:13Z",
+    "updated_at": "2020-03-10T15:14:19Z",
     "pushed_at": "2020-02-20T17:19:37Z",
     "git_url": "git://github.com/warner/magic-wormhole.git",
     "ssh_url": "git@github.com:warner/magic-wormhole.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/warner/magic-wormhole",
     "homepage": null,
     "size": 2538,
-    "stargazers_count": 10216,
-    "watchers_count": 10216,
+    "stargazers_count": 10228,
+    "watchers_count": 10228,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 392,
+    "forks_count": 393,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 392,
+    "forks": 393,
     "open_issues": 111,
-    "watchers": 10216,
+    "watchers": 10228,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 392,
-    "subscribers_count": 207
+    "network_count": 393,
+    "subscribers_count": 208
 }

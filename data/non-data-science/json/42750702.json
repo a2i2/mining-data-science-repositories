@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/openstack/syntribos/releases{/id}",
     "deployments_url": "https://api.github.com/repos/openstack/syntribos/deployments",
     "created_at": "2015-09-18T22:54:03Z",
-    "updated_at": "2020-02-28T08:49:44Z",
+    "updated_at": "2020-03-10T02:38:34Z",
     "pushed_at": "2020-02-10T16:25:15Z",
     "git_url": "git://github.com/openstack/syntribos.git",
     "ssh_url": "git@github.com:openstack/syntribos.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/openstack/syntribos",
     "homepage": "https://opendev.org",
     "size": 2025,
-    "stargazers_count": 253,
-    "watchers_count": 253,
+    "stargazers_count": 254,
+    "watchers_count": 254,
     "language": "Python",
     "has_issues": false,
     "has_projects": false,
@@ -95,7 +95,7 @@
     },
     "forks": 63,
     "open_issues": 0,
-    "watchers": 253,
+    "watchers": 254,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -124,5 +124,5 @@
         "site_admin": false
     },
     "network_count": 63,
-    "subscribers_count": 21
+    "subscribers_count": 20
 }

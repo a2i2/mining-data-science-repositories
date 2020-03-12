@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/openai/pixel-cnn/releases{/id}",
     "deployments_url": "https://api.github.com/repos/openai/pixel-cnn/deployments",
     "created_at": "2016-07-09T00:44:56Z",
-    "updated_at": "2020-03-05T11:03:06Z",
+    "updated_at": "2020-03-11T08:57:10Z",
     "pushed_at": "2020-02-03T06:39:20Z",
     "git_url": "git://github.com/openai/pixel-cnn.git",
     "ssh_url": "git@github.com:openai/pixel-cnn.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/openai/pixel-cnn",
     "homepage": "https://arxiv.org/abs/1701.05517",
     "size": 671,
-    "stargazers_count": 1620,
-    "watchers_count": 1620,
+    "stargazers_count": 1621,
+    "watchers_count": 1621,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 391,
     "open_issues": 34,
-    "watchers": 1620,
+    "watchers": 1621,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -124,5 +124,5 @@
         "site_admin": false
     },
     "network_count": 391,
-    "subscribers_count": 153
+    "subscribers_count": 152
 }

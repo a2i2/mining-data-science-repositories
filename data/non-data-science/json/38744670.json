@@ -65,16 +65,16 @@
     "releases_url": "https://api.github.com/repos/zalando/patroni/releases{/id}",
     "deployments_url": "https://api.github.com/repos/zalando/patroni/deployments",
     "created_at": "2015-07-08T09:27:19Z",
-    "updated_at": "2020-03-05T14:57:03Z",
-    "pushed_at": "2020-02-27T14:16:00Z",
+    "updated_at": "2020-03-10T11:08:32Z",
+    "pushed_at": "2020-03-10T11:23:45Z",
     "git_url": "git://github.com/zalando/patroni.git",
     "ssh_url": "git@github.com:zalando/patroni.git",
     "clone_url": "https://github.com/zalando/patroni.git",
     "svn_url": "https://github.com/zalando/patroni",
     "homepage": "",
-    "size": 4903,
-    "stargazers_count": 3085,
-    "watchers_count": 3085,
+    "size": 4918,
+    "stargazers_count": 3093,
+    "watchers_count": 3093,
     "language": "Python",
     "has_issues": true,
     "has_projects": false,
@@ -85,7 +85,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 81,
+    "open_issues_count": 75,
     "license": {
         "key": "mit",
         "name": "MIT License",
@@ -94,8 +94,8 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "forks": 352,
-    "open_issues": 81,
-    "watchers": 3085,
+    "open_issues": 75,
+    "watchers": 3093,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -124,5 +124,5 @@
         "site_admin": false
     },
     "network_count": 352,
-    "subscribers_count": 111
+    "subscribers_count": 109
 }

@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/reddit-archive/reddit/releases{/id}",
     "deployments_url": "https://api.github.com/repos/reddit-archive/reddit/deployments",
     "created_at": "2008-06-18T23:30:53Z",
-    "updated_at": "2020-03-05T21:07:28Z",
+    "updated_at": "2020-03-11T13:05:40Z",
     "pushed_at": "2017-10-17T19:57:07Z",
     "git_url": "git://github.com/reddit-archive/reddit.git",
     "ssh_url": "git@github.com:reddit-archive/reddit.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/reddit-archive/reddit",
     "homepage": "",
     "size": 40093,
-    "stargazers_count": 15307,
-    "watchers_count": 15307,
+    "stargazers_count": 15314,
+    "watchers_count": 15314,
     "language": "Python",
     "has_issues": false,
     "has_projects": true,
     "has_downloads": false,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 2813,
+    "forks_count": 2815,
     "mirror_url": null,
     "archived": true,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": null,
         "node_id": "MDc6TGljZW5zZTA="
     },
-    "forks": 2813,
+    "forks": 2815,
     "open_issues": 304,
-    "watchers": 15307,
+    "watchers": 15314,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 2813,
+    "network_count": 2815,
     "subscribers_count": 744
 }

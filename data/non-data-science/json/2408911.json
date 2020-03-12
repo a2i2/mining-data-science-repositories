@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/python-mode/python-mode/releases{/id}",
     "deployments_url": "https://api.github.com/repos/python-mode/python-mode/deployments",
     "created_at": "2011-09-18T09:41:07Z",
-    "updated_at": "2020-03-05T04:45:32Z",
+    "updated_at": "2020-03-11T01:21:15Z",
     "pushed_at": "2020-02-26T11:16:05Z",
     "git_url": "git://github.com/python-mode/python-mode.git",
     "ssh_url": "git@github.com:python-mode/python-mode.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/python-mode/python-mode",
     "homepage": "",
     "size": 10826,
-    "stargazers_count": 4936,
-    "watchers_count": 4936,
+    "stargazers_count": 4942,
+    "watchers_count": 4942,
     "language": "Vim script",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": true,
-    "forks_count": 873,
+    "forks_count": 874,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/lgpl-3.0",
         "node_id": "MDc6TGljZW5zZTEy"
     },
-    "forks": 873,
+    "forks": 874,
     "open_issues": 24,
-    "watchers": 4936,
+    "watchers": 4942,
     "default_branch": "develop",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 873,
+    "network_count": 874,
     "subscribers_count": 294
 }

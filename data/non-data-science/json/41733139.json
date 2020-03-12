@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/rsennrich/subword-nmt/releases{/id}",
     "deployments_url": "https://api.github.com/repos/rsennrich/subword-nmt/deployments",
     "created_at": "2015-09-01T10:50:32Z",
-    "updated_at": "2020-03-05T14:53:21Z",
+    "updated_at": "2020-03-11T00:30:39Z",
     "pushed_at": "2020-02-27T20:02:55Z",
     "git_url": "git://github.com/rsennrich/subword-nmt.git",
     "ssh_url": "git@github.com:rsennrich/subword-nmt.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/rsennrich/subword-nmt",
     "homepage": "",
     "size": 231,
-    "stargazers_count": 1329,
-    "watchers_count": 1329,
+    "stargazers_count": 1334,
+    "watchers_count": 1334,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 336,
+    "forks_count": 338,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 336,
+    "forks": 338,
     "open_issues": 2,
-    "watchers": 1329,
+    "watchers": 1334,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 336,
+    "network_count": 338,
     "subscribers_count": 49
 }

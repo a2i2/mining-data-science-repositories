@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/openai/evolution-strategies-starter/releases{/id}",
     "deployments_url": "https://api.github.com/repos/openai/evolution-strategies-starter/deployments",
     "created_at": "2017-03-24T16:14:07Z",
-    "updated_at": "2020-03-04T15:17:29Z",
+    "updated_at": "2020-03-11T01:29:32Z",
     "pushed_at": "2019-10-31T09:20:13Z",
     "git_url": "git://github.com/openai/evolution-strategies-starter.git",
     "ssh_url": "git@github.com:openai/evolution-strategies-starter.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/openai/evolution-strategies-starter",
     "homepage": "https://arxiv.org/abs/1703.03864",
     "size": 44,
-    "stargazers_count": 1229,
-    "watchers_count": 1229,
+    "stargazers_count": 1233,
+    "watchers_count": 1233,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 229,
+    "forks_count": 228,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 229,
+    "forks": 228,
     "open_issues": 14,
-    "watchers": 1229,
+    "watchers": 1233,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 229,
+    "network_count": 228,
     "subscribers_count": 159
 }

@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/pypa/twine/releases{/id}",
     "deployments_url": "https://api.github.com/repos/pypa/twine/deployments",
     "created_at": "2013-08-13T15:39:39Z",
-    "updated_at": "2020-03-01T15:03:18Z",
+    "updated_at": "2020-03-07T11:20:55Z",
     "pushed_at": "2020-02-23T12:27:24Z",
     "git_url": "git://github.com/pypa/twine.git",
     "ssh_url": "git@github.com:pypa/twine.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/pypa/twine",
     "homepage": "",
     "size": 910,
-    "stargazers_count": 942,
-    "watchers_count": 942,
+    "stargazers_count": 943,
+    "watchers_count": 943,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 196,
+    "forks_count": 195,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/apache-2.0",
         "node_id": "MDc6TGljZW5zZTI="
     },
-    "forks": 196,
+    "forks": 195,
     "open_issues": 36,
-    "watchers": 942,
+    "watchers": 943,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 196,
+    "network_count": 195,
     "subscribers_count": 25
 }

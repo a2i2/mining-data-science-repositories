@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/line/line-bot-sdk-python/releases{/id}",
     "deployments_url": "https://api.github.com/repos/line/line-bot-sdk-python/deployments",
     "created_at": "2016-10-11T03:42:26Z",
-    "updated_at": "2020-03-05T03:11:03Z",
+    "updated_at": "2020-03-10T16:40:41Z",
     "pushed_at": "2020-02-27T02:49:55Z",
     "git_url": "git://github.com/line/line-bot-sdk-python.git",
     "ssh_url": "git@github.com:line/line-bot-sdk-python.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/line/line-bot-sdk-python",
     "homepage": "https://pypi.python.org/pypi/line-bot-sdk",
     "size": 429,
-    "stargazers_count": 913,
-    "watchers_count": 913,
+    "stargazers_count": 920,
+    "watchers_count": 920,
     "language": "Python",
     "has_issues": true,
     "has_projects": false,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 567,
+    "forks_count": 569,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/apache-2.0",
         "node_id": "MDc6TGljZW5zZTI="
     },
-    "forks": 567,
+    "forks": 569,
     "open_issues": 1,
-    "watchers": 913,
+    "watchers": 920,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 567,
-    "subscribers_count": 119
+    "network_count": 569,
+    "subscribers_count": 120
 }

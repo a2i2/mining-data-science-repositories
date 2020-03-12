@@ -66,13 +66,13 @@
     "deployments_url": "https://api.github.com/repos/pusher/pusher-http-python/deployments",
     "created_at": "2010-04-28T11:07:18Z",
     "updated_at": "2020-03-03T15:54:27Z",
-    "pushed_at": "2020-01-03T14:44:46Z",
+    "pushed_at": "2020-03-07T02:23:38Z",
     "git_url": "git://github.com/pusher/pusher-http-python.git",
     "ssh_url": "git@github.com:pusher/pusher-http-python.git",
     "clone_url": "https://github.com/pusher/pusher-http-python.git",
     "svn_url": "https://github.com/pusher/pusher-http-python",
     "homepage": "https://pusher.com/docs/server_api_guide",
-    "size": 472,
+    "size": 473,
     "stargazers_count": 300,
     "watchers_count": 300,
     "language": "Python",
@@ -85,7 +85,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 2,
+    "open_issues_count": 3,
     "license": {
         "key": "mit",
         "name": "MIT License",
@@ -94,7 +94,7 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "forks": 82,
-    "open_issues": 2,
+    "open_issues": 3,
     "watchers": 300,
     "default_branch": "master",
     "permissions": {

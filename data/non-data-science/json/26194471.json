@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/yinghuocho/firefly-proxy/releases{/id}",
     "deployments_url": "https://api.github.com/repos/yinghuocho/firefly-proxy/deployments",
     "created_at": "2014-11-04T23:58:39Z",
-    "updated_at": "2020-03-05T12:49:27Z",
+    "updated_at": "2020-03-10T13:15:06Z",
     "pushed_at": "2018-11-14T09:18:47Z",
     "git_url": "git://github.com/yinghuocho/firefly-proxy.git",
     "ssh_url": "git@github.com:yinghuocho/firefly-proxy.git",
@@ -73,19 +73,19 @@
     "svn_url": "https://github.com/yinghuocho/firefly-proxy",
     "homepage": null,
     "size": 2271,
-    "stargazers_count": 4966,
-    "watchers_count": 4966,
+    "stargazers_count": 4963,
+    "watchers_count": 4963,
     "language": "Go",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 935,
+    "forks_count": 936,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 495,
+    "open_issues_count": 496,
     "license": {
         "key": "bsd-2-clause",
         "name": "BSD 2-Clause \"Simplified\" License",
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/bsd-2-clause",
         "node_id": "MDc6TGljZW5zZTQ="
     },
-    "forks": 935,
-    "open_issues": 495,
-    "watchers": 4966,
+    "forks": 936,
+    "open_issues": 496,
+    "watchers": 4963,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 935,
+    "network_count": 936,
     "subscribers_count": 374
 }

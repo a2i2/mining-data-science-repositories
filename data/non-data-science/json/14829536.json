@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/pydata/numexpr/releases{/id}",
     "deployments_url": "https://api.github.com/repos/pydata/numexpr/deployments",
     "created_at": "2013-11-30T22:33:48Z",
-    "updated_at": "2020-03-04T13:39:41Z",
+    "updated_at": "2020-03-10T21:29:08Z",
     "pushed_at": "2020-02-09T20:03:04Z",
     "git_url": "git://github.com/pydata/numexpr.git",
     "ssh_url": "git@github.com:pydata/numexpr.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/pydata/numexpr",
     "homepage": "https://numexpr.readthedocs.io/en/latest/user_guide.html",
     "size": 2463,
-    "stargazers_count": 1219,
-    "watchers_count": 1219,
+    "stargazers_count": 1221,
+    "watchers_count": 1221,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 147,
+    "forks_count": 148,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 147,
+    "forks": 148,
     "open_issues": 50,
-    "watchers": 1219,
+    "watchers": 1221,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 147,
-    "subscribers_count": 59
+    "network_count": 148,
+    "subscribers_count": 58
 }

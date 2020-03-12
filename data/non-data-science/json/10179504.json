@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/toolswatch/vFeed/releases{/id}",
     "deployments_url": "https://api.github.com/repos/toolswatch/vFeed/deployments",
     "created_at": "2013-05-20T18:51:57Z",
-    "updated_at": "2020-02-25T08:11:10Z",
+    "updated_at": "2020-03-11T02:42:31Z",
     "pushed_at": "2018-02-10T21:45:43Z",
     "git_url": "git://github.com/toolswatch/vFeed.git",
     "ssh_url": "git@github.com:toolswatch/vFeed.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/toolswatch/vFeed",
     "homepage": "https://vfeed.io",
     "size": 547,
-    "stargazers_count": 754,
-    "watchers_count": 754,
+    "stargazers_count": 757,
+    "watchers_count": 757,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": true,
-    "forks_count": 203,
+    "forks_count": 204,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": null,
         "node_id": "MDc6TGljZW5zZTA="
     },
-    "forks": 203,
+    "forks": 204,
     "open_issues": 9,
-    "watchers": 754,
+    "watchers": 757,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 203,
+    "network_count": 204,
     "subscribers_count": 103
 }

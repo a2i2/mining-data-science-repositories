@@ -65,14 +65,14 @@
     "releases_url": "https://api.github.com/repos/onaio/onadata/releases{/id}",
     "deployments_url": "https://api.github.com/repos/onaio/onadata/deployments",
     "created_at": "2013-09-17T07:25:01Z",
-    "updated_at": "2020-03-02T10:08:28Z",
-    "pushed_at": "2020-03-05T14:18:14Z",
+    "updated_at": "2020-03-09T11:32:17Z",
+    "pushed_at": "2020-03-11T07:37:12Z",
     "git_url": "git://github.com/onaio/onadata.git",
     "ssh_url": "git@github.com:onaio/onadata.git",
     "clone_url": "https://github.com/onaio/onadata.git",
     "svn_url": "https://github.com/onaio/onadata",
     "homepage": "https://ona.io",
-    "size": 32325,
+    "size": 32288,
     "stargazers_count": 161,
     "watchers_count": 161,
     "language": "Python",
@@ -85,7 +85,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 131,
+    "open_issues_count": 129,
     "license": {
         "key": "other",
         "name": "Other",
@@ -94,7 +94,7 @@
         "node_id": "MDc6TGljZW5zZTA="
     },
     "forks": 117,
-    "open_issues": 131,
+    "open_issues": 129,
     "watchers": 161,
     "default_branch": "master",
     "permissions": {
@@ -124,5 +124,5 @@
         "site_admin": false
     },
     "network_count": 117,
-    "subscribers_count": 53
+    "subscribers_count": 56
 }

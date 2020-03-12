@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/logandk/serverless-wsgi/releases{/id}",
     "deployments_url": "https://api.github.com/repos/logandk/serverless-wsgi/deployments",
     "created_at": "2016-10-13T11:16:31Z",
-    "updated_at": "2020-03-02T00:06:12Z",
+    "updated_at": "2020-03-11T04:33:43Z",
     "pushed_at": "2019-12-24T17:23:04Z",
     "git_url": "git://github.com/logandk/serverless-wsgi.git",
     "ssh_url": "git@github.com:logandk/serverless-wsgi.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/logandk/serverless-wsgi",
     "homepage": null,
     "size": 656,
-    "stargazers_count": 321,
-    "watchers_count": 321,
+    "stargazers_count": 322,
+    "watchers_count": 322,
     "language": "JavaScript",
     "has_issues": true,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 49,
     "open_issues": 4,
-    "watchers": 321,
+    "watchers": 322,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -104,5 +104,5 @@
     },
     "temp_clone_token": "",
     "network_count": 49,
-    "subscribers_count": 13
+    "subscribers_count": 14
 }

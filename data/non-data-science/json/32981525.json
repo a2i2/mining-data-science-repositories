@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/tomchadwin/qgis2web/releases{/id}",
     "deployments_url": "https://api.github.com/repos/tomchadwin/qgis2web/deployments",
     "created_at": "2015-03-27T11:02:30Z",
-    "updated_at": "2020-03-05T22:57:44Z",
+    "updated_at": "2020-03-11T13:33:37Z",
     "pushed_at": "2020-02-24T12:24:23Z",
     "git_url": "git://github.com/tomchadwin/qgis2web.git",
     "ssh_url": "git@github.com:tomchadwin/qgis2web.git",
@@ -73,19 +73,19 @@
     "svn_url": "https://github.com/tomchadwin/qgis2web",
     "homepage": "https://plugins.qgis.org/plugins/qgis2web/",
     "size": 22277,
-    "stargazers_count": 272,
-    "watchers_count": 272,
+    "stargazers_count": 274,
+    "watchers_count": 274,
     "language": "JavaScript",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": true,
-    "forks_count": 100,
+    "forks_count": 102,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 96,
+    "open_issues_count": 97,
     "license": {
         "key": "gpl-2.0",
         "name": "GNU General Public License v2.0",
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/gpl-2.0",
         "node_id": "MDc6TGljZW5zZTg="
     },
-    "forks": 100,
-    "open_issues": 96,
-    "watchers": 272,
+    "forks": 102,
+    "open_issues": 97,
+    "watchers": 274,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 100,
+    "network_count": 102,
     "subscribers_count": 48
 }

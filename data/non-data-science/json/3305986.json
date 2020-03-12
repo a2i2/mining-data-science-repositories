@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/fogleman/Minecraft/releases{/id}",
     "deployments_url": "https://api.github.com/repos/fogleman/Minecraft/deployments",
     "created_at": "2012-01-30T15:28:39Z",
-    "updated_at": "2020-03-05T20:03:31Z",
+    "updated_at": "2020-03-11T09:16:22Z",
     "pushed_at": "2019-11-27T14:50:45Z",
     "git_url": "git://github.com/fogleman/Minecraft.git",
     "ssh_url": "git@github.com:fogleman/Minecraft.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/fogleman/Minecraft",
     "homepage": "",
     "size": 76,
-    "stargazers_count": 4127,
-    "watchers_count": 4127,
+    "stargazers_count": 4128,
+    "watchers_count": 4128,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 933,
+    "forks_count": 932,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 933,
+    "forks": 932,
     "open_issues": 42,
-    "watchers": 4127,
+    "watchers": 4128,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 933,
+    "network_count": 932,
     "subscribers_count": 243
 }

@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/openai/baselines/releases{/id}",
     "deployments_url": "https://api.github.com/repos/openai/baselines/deployments",
     "created_at": "2017-05-24T01:58:13Z",
-    "updated_at": "2020-03-05T14:12:36Z",
+    "updated_at": "2020-03-11T10:04:24Z",
     "pushed_at": "2020-03-05T22:55:37Z",
     "git_url": "git://github.com/openai/baselines.git",
     "ssh_url": "git@github.com:openai/baselines.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/openai/baselines",
     "homepage": "",
     "size": 6620,
-    "stargazers_count": 9397,
-    "watchers_count": 9397,
+    "stargazers_count": 9426,
+    "watchers_count": 9426,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 3164,
+    "forks_count": 3180,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 3164,
+    "forks": 3180,
     "open_issues": 407,
-    "watchers": 9397,
+    "watchers": 9426,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 3164,
-    "subscribers_count": 514
+    "network_count": 3180,
+    "subscribers_count": 519
 }

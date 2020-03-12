@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/evilhero/mylar/releases{/id}",
     "deployments_url": "https://api.github.com/repos/evilhero/mylar/deployments",
     "created_at": "2012-09-09T19:34:02Z",
-    "updated_at": "2020-03-04T16:47:23Z",
+    "updated_at": "2020-03-06T06:40:36Z",
     "pushed_at": "2020-02-28T21:49:03Z",
     "git_url": "git://github.com/evilhero/mylar.git",
     "ssh_url": "git@github.com:evilhero/mylar.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/evilhero/mylar",
     "homepage": "",
     "size": 17624,
-    "stargazers_count": 950,
-    "watchers_count": 950,
+    "stargazers_count": 951,
+    "watchers_count": 951,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 189,
     "open_issues": 686,
-    "watchers": 950,
+    "watchers": 951,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -104,5 +104,5 @@
     },
     "temp_clone_token": "",
     "network_count": 189,
-    "subscribers_count": 101
+    "subscribers_count": 102
 }

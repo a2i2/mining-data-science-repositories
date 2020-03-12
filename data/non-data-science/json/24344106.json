@@ -66,7 +66,7 @@
     "deployments_url": "https://api.github.com/repos/codecov/example-python/deployments",
     "created_at": "2014-09-22T20:20:06Z",
     "updated_at": "2020-02-25T19:45:53Z",
-    "pushed_at": "2019-12-03T16:58:20Z",
+    "pushed_at": "2020-03-09T10:44:51Z",
     "git_url": "git://github.com/codecov/example-python.git",
     "ssh_url": "git@github.com:codecov/example-python.git",
     "clone_url": "https://github.com/codecov/example-python.git",
@@ -81,14 +81,14 @@
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 173,
+    "forks_count": 176,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 8,
+    "open_issues_count": 9,
     "license": null,
-    "forks": 173,
-    "open_issues": 8,
+    "forks": 176,
+    "open_issues": 9,
     "watchers": 202,
     "default_branch": "master",
     "permissions": {
@@ -117,6 +117,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 173,
+    "network_count": 176,
     "subscribers_count": 13
 }

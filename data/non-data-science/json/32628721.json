@@ -81,7 +81,7 @@
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": true,
-    "forks_count": 65,
+    "forks_count": 66,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,7 +93,7 @@
         "url": null,
         "node_id": "MDc6TGljZW5zZTA="
     },
-    "forks": 65,
+    "forks": 66,
     "open_issues": 6,
     "watchers": 180,
     "default_branch": "master",
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 65,
+    "network_count": 66,
     "subscribers_count": 12
 }

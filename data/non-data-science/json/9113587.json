@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/aaugustin/websockets/releases{/id}",
     "deployments_url": "https://api.github.com/repos/aaugustin/websockets/deployments",
     "created_at": "2013-03-30T08:59:30Z",
-    "updated_at": "2020-03-05T15:53:35Z",
+    "updated_at": "2020-03-10T00:21:39Z",
     "pushed_at": "2020-03-02T14:40:34Z",
     "git_url": "git://github.com/aaugustin/websockets.git",
     "ssh_url": "git@github.com:aaugustin/websockets.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/aaugustin/websockets",
     "homepage": "https://websockets.readthedocs.io/",
     "size": 1464,
-    "stargazers_count": 2545,
-    "watchers_count": 2545,
+    "stargazers_count": 2556,
+    "watchers_count": 2556,
     "language": "Python",
     "has_issues": true,
     "has_projects": false,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": true,
-    "forks_count": 286,
+    "forks_count": 288,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/bsd-3-clause",
         "node_id": "MDc6TGljZW5zZTU="
     },
-    "forks": 286,
+    "forks": 288,
     "open_issues": 38,
-    "watchers": 2545,
+    "watchers": 2556,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 286,
+    "network_count": 288,
     "subscribers_count": 99
 }

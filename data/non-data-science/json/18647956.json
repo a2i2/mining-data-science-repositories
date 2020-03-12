@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/gurnec/btcrecover/releases{/id}",
     "deployments_url": "https://api.github.com/repos/gurnec/btcrecover/deployments",
     "created_at": "2014-04-10T18:56:07Z",
-    "updated_at": "2020-03-02T23:29:50Z",
+    "updated_at": "2020-03-11T06:49:03Z",
     "pushed_at": "2019-10-27T12:52:13Z",
     "git_url": "git://github.com/gurnec/btcrecover.git",
     "ssh_url": "git@github.com:gurnec/btcrecover.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/gurnec/btcrecover",
     "homepage": "",
     "size": 2390,
-    "stargazers_count": 547,
-    "watchers_count": 547,
+    "stargazers_count": 548,
+    "watchers_count": 548,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 192,
+    "forks_count": 194,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/gpl-2.0",
         "node_id": "MDc6TGljZW5zZTg="
     },
-    "forks": 192,
+    "forks": 194,
     "open_issues": 236,
-    "watchers": 547,
+    "watchers": 548,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 192,
+    "network_count": 194,
     "subscribers_count": 58
 }

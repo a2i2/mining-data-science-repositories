@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/fabric/fabric/releases{/id}",
     "deployments_url": "https://api.github.com/repos/fabric/fabric/deployments",
     "created_at": "2009-05-01T01:14:24Z",
-    "updated_at": "2020-03-05T22:52:14Z",
+    "updated_at": "2020-03-10T13:50:39Z",
     "pushed_at": "2020-01-28T23:52:26Z",
     "git_url": "git://github.com/fabric/fabric.git",
     "ssh_url": "git@github.com:fabric/fabric.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/fabric/fabric",
     "homepage": "http://fabfile.org",
     "size": 18918,
-    "stargazers_count": 12101,
-    "watchers_count": 12101,
+    "stargazers_count": 12106,
+    "watchers_count": 12106,
     "language": "Python",
     "has_issues": true,
     "has_projects": false,
@@ -85,7 +85,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 393,
+    "open_issues_count": 396,
     "license": {
         "key": "bsd-2-clause",
         "name": "BSD 2-Clause \"Simplified\" License",
@@ -94,8 +94,8 @@
         "node_id": "MDc6TGljZW5zZTQ="
     },
     "forks": 1793,
-    "open_issues": 393,
-    "watchers": 12101,
+    "open_issues": 396,
+    "watchers": 12106,
     "default_branch": "2.0",
     "permissions": {
         "admin": false,
@@ -124,5 +124,5 @@
         "site_admin": false
     },
     "network_count": 1793,
-    "subscribers_count": 516
+    "subscribers_count": 517
 }

@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/olacabs/jackhammer/releases{/id}",
     "deployments_url": "https://api.github.com/repos/olacabs/jackhammer/deployments",
     "created_at": "2017-04-24T09:44:04Z",
-    "updated_at": "2020-02-27T00:08:08Z",
+    "updated_at": "2020-03-07T13:18:11Z",
     "pushed_at": "2019-04-22T07:46:59Z",
     "git_url": "git://github.com/olacabs/jackhammer.git",
     "ssh_url": "git@github.com:olacabs/jackhammer.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/olacabs/jackhammer",
     "homepage": "https://jch.olacabs.com/userguide",
     "size": 66837,
-    "stargazers_count": 595,
-    "watchers_count": 595,
+    "stargazers_count": 596,
+    "watchers_count": 596,
     "language": "Java",
     "has_issues": true,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 145,
     "open_issues": 69,
-    "watchers": 595,
+    "watchers": 596,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -124,5 +124,5 @@
         "site_admin": false
     },
     "network_count": 145,
-    "subscribers_count": 59
+    "subscribers_count": 60
 }

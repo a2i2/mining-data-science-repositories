@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/darknessomi/musicbox/releases{/id}",
     "deployments_url": "https://api.github.com/repos/darknessomi/musicbox/deployments",
     "created_at": "2014-08-05T03:28:24Z",
-    "updated_at": "2020-03-05T17:25:31Z",
+    "updated_at": "2020-03-11T02:06:55Z",
     "pushed_at": "2019-12-21T03:16:15Z",
     "git_url": "git://github.com/darknessomi/musicbox.git",
     "ssh_url": "git@github.com:darknessomi/musicbox.git",
@@ -73,19 +73,19 @@
     "svn_url": "https://github.com/darknessomi/musicbox",
     "homepage": "",
     "size": 1722,
-    "stargazers_count": 8118,
-    "watchers_count": 8118,
+    "stargazers_count": 8128,
+    "watchers_count": 8128,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 1450,
+    "forks_count": 1452,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 181,
+    "open_issues_count": 182,
     "license": {
         "key": "mit",
         "name": "MIT License",
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 1450,
-    "open_issues": 181,
-    "watchers": 8118,
+    "forks": 1452,
+    "open_issues": 182,
+    "watchers": 8128,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 1450,
-    "subscribers_count": 293
+    "network_count": 1452,
+    "subscribers_count": 294
 }

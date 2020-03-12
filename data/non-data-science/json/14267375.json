@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/mjhea0/flaskr-tdd/releases{/id}",
     "deployments_url": "https://api.github.com/repos/mjhea0/flaskr-tdd/deployments",
     "created_at": "2013-11-09T23:41:32Z",
-    "updated_at": "2020-03-04T08:04:31Z",
+    "updated_at": "2020-03-10T15:26:34Z",
     "pushed_at": "2019-11-25T23:33:03Z",
     "git_url": "git://github.com/mjhea0/flaskr-tdd.git",
     "ssh_url": "git@github.com:mjhea0/flaskr-tdd.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/mjhea0/flaskr-tdd",
     "homepage": "http://flaskr-tdd.herokuapp.com/",
     "size": 473,
-    "stargazers_count": 1709,
-    "watchers_count": 1709,
+    "stargazers_count": 1717,
+    "watchers_count": 1717,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 394,
+    "forks_count": 393,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 394,
+    "forks": 393,
     "open_issues": 4,
-    "watchers": 1709,
+    "watchers": 1717,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 394,
-    "subscribers_count": 60
+    "network_count": 393,
+    "subscribers_count": 59
 }

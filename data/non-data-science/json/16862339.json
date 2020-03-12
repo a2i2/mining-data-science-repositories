@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/flask-api/flask-api/releases{/id}",
     "deployments_url": "https://api.github.com/repos/flask-api/flask-api/deployments",
     "created_at": "2014-02-15T12:27:34Z",
-    "updated_at": "2020-03-03T18:04:43Z",
+    "updated_at": "2020-03-10T20:46:39Z",
     "pushed_at": "2020-02-09T10:31:49Z",
     "git_url": "git://github.com/flask-api/flask-api.git",
     "ssh_url": "git@github.com:flask-api/flask-api.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/flask-api/flask-api",
     "homepage": "https://www.flaskapi.org",
     "size": 1529,
-    "stargazers_count": 1146,
-    "watchers_count": 1146,
+    "stargazers_count": 1147,
+    "watchers_count": 1147,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": true,
-    "forks_count": 132,
+    "forks_count": 131,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": null,
         "node_id": "MDc6TGljZW5zZTA="
     },
-    "forks": 132,
+    "forks": 131,
     "open_issues": 9,
-    "watchers": 1146,
+    "watchers": 1147,
     "default_branch": "develop",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 132,
+    "network_count": 131,
     "subscribers_count": 45
 }

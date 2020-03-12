@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/scrapinghub/python-scrapinghub/releases{/id}",
     "deployments_url": "https://api.github.com/repos/scrapinghub/python-scrapinghub/deployments",
     "created_at": "2011-08-15T20:03:44Z",
-    "updated_at": "2020-02-25T07:35:47Z",
+    "updated_at": "2020-03-07T09:51:36Z",
     "pushed_at": "2020-02-25T07:35:47Z",
     "git_url": "git://github.com/scrapinghub/python-scrapinghub.git",
     "ssh_url": "git@github.com:scrapinghub/python-scrapinghub.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/scrapinghub/python-scrapinghub",
     "homepage": "https://python-scrapinghub.readthedocs.io/",
     "size": 1649,
-    "stargazers_count": 145,
-    "watchers_count": 145,
+    "stargazers_count": 146,
+    "watchers_count": 146,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 49,
+    "forks_count": 50,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": null,
         "node_id": "MDc6TGljZW5zZTA="
     },
-    "forks": 49,
+    "forks": 50,
     "open_issues": 20,
-    "watchers": 145,
+    "watchers": 146,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 49,
+    "network_count": 50,
     "subscribers_count": 104
 }

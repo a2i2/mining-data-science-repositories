@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/m0rtem/CloudFail/releases{/id}",
     "deployments_url": "https://api.github.com/repos/m0rtem/CloudFail/deployments",
     "created_at": "2016-05-26T20:49:20Z",
-    "updated_at": "2020-03-04T10:12:55Z",
+    "updated_at": "2020-03-11T06:38:17Z",
     "pushed_at": "2020-02-24T08:34:57Z",
     "git_url": "git://github.com/m0rtem/CloudFail.git",
     "ssh_url": "git@github.com:m0rtem/CloudFail.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/m0rtem/CloudFail",
     "homepage": "",
     "size": 40813,
-    "stargazers_count": 978,
-    "watchers_count": 978,
+    "stargazers_count": 991,
+    "watchers_count": 991,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 236,
+    "forks_count": 241,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 236,
+    "forks": 241,
     "open_issues": 10,
-    "watchers": 978,
+    "watchers": 991,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 236,
+    "network_count": 241,
     "subscribers_count": 54
 }

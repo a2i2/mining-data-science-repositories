@@ -66,13 +66,13 @@
     "deployments_url": "https://api.github.com/repos/GustavoKatel/pushbullet-cli/deployments",
     "created_at": "2014-04-04T20:53:09Z",
     "updated_at": "2020-03-04T02:49:04Z",
-    "pushed_at": "2020-01-16T17:15:36Z",
+    "pushed_at": "2020-03-10T08:21:54Z",
     "git_url": "git://github.com/GustavoKatel/pushbullet-cli.git",
     "ssh_url": "git@github.com:GustavoKatel/pushbullet-cli.git",
     "clone_url": "https://github.com/GustavoKatel/pushbullet-cli.git",
     "svn_url": "https://github.com/GustavoKatel/pushbullet-cli",
     "homepage": "",
-    "size": 158,
+    "size": 159,
     "stargazers_count": 247,
     "watchers_count": 247,
     "language": "Python",
@@ -85,7 +85,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 8,
+    "open_issues_count": 9,
     "license": {
         "key": "mit",
         "name": "MIT License",
@@ -94,7 +94,7 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "forks": 26,
-    "open_issues": 8,
+    "open_issues": 9,
     "watchers": 247,
     "default_branch": "master",
     "permissions": {
@@ -104,5 +104,5 @@
     },
     "temp_clone_token": "",
     "network_count": 26,
-    "subscribers_count": 13
+    "subscribers_count": 12
 }

@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/jmcarp/nplusone/releases{/id}",
     "deployments_url": "https://api.github.com/repos/jmcarp/nplusone/deployments",
     "created_at": "2015-06-16T03:13:56Z",
-    "updated_at": "2020-03-05T21:35:56Z",
+    "updated_at": "2020-03-09T05:24:56Z",
     "pushed_at": "2020-03-03T18:23:41Z",
     "git_url": "git://github.com/jmcarp/nplusone.git",
     "ssh_url": "git@github.com:jmcarp/nplusone.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/jmcarp/nplusone",
     "homepage": "",
     "size": 147,
-    "stargazers_count": 502,
-    "watchers_count": 502,
+    "stargazers_count": 506,
+    "watchers_count": 506,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 15,
+    "forks_count": 16,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 15,
+    "forks": 16,
     "open_issues": 5,
-    "watchers": 502,
+    "watchers": 506,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 15,
+    "network_count": 16,
     "subscribers_count": 8
 }

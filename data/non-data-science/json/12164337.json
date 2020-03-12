@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/gsuitedevs/PyDrive/releases{/id}",
     "deployments_url": "https://api.github.com/repos/gsuitedevs/PyDrive/deployments",
     "created_at": "2013-08-16T17:39:54Z",
-    "updated_at": "2020-03-05T23:15:05Z",
+    "updated_at": "2020-03-10T21:53:35Z",
     "pushed_at": "2019-12-26T23:40:54Z",
     "git_url": "git://github.com/gsuitedevs/PyDrive.git",
     "ssh_url": "git@github.com:gsuitedevs/PyDrive.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/gsuitedevs/PyDrive",
     "homepage": null,
     "size": 1789,
-    "stargazers_count": 954,
-    "watchers_count": 954,
+    "stargazers_count": 956,
+    "watchers_count": 956,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 238,
     "open_issues": 62,
-    "watchers": 954,
+    "watchers": 956,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -124,5 +124,5 @@
         "site_admin": false
     },
     "network_count": 238,
-    "subscribers_count": 52
+    "subscribers_count": 51
 }

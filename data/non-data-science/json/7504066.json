@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/EarToEarOak/RTLSDR-Scanner/releases{/id}",
     "deployments_url": "https://api.github.com/repos/EarToEarOak/RTLSDR-Scanner/deployments",
     "created_at": "2013-01-08T15:39:56Z",
-    "updated_at": "2020-03-05T23:45:26Z",
+    "updated_at": "2020-03-07T16:23:05Z",
     "pushed_at": "2018-12-05T21:57:35Z",
     "git_url": "git://github.com/EarToEarOak/RTLSDR-Scanner.git",
     "ssh_url": "git@github.com:EarToEarOak/RTLSDR-Scanner.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/EarToEarOak/RTLSDR-Scanner",
     "homepage": "http://eartoearoak.com/software/rtlsdr-scanner",
     "size": 8873,
-    "stargazers_count": 486,
-    "watchers_count": 486,
+    "stargazers_count": 487,
+    "watchers_count": 487,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 111,
+    "forks_count": 112,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/gpl-3.0",
         "node_id": "MDc6TGljZW5zZTk="
     },
-    "forks": 111,
+    "forks": 112,
     "open_issues": 14,
-    "watchers": 486,
+    "watchers": 487,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 111,
+    "network_count": 112,
     "subscribers_count": 93
 }

@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/ReactiveX/RxPY/releases{/id}",
     "deployments_url": "https://api.github.com/repos/ReactiveX/RxPY/deployments",
     "created_at": "2013-03-22T06:16:54Z",
-    "updated_at": "2020-03-05T16:23:58Z",
+    "updated_at": "2020-03-10T16:52:29Z",
     "pushed_at": "2020-02-28T22:02:59Z",
     "git_url": "git://github.com/ReactiveX/RxPY.git",
     "ssh_url": "git@github.com:ReactiveX/RxPY.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/ReactiveX/RxPY",
     "homepage": "",
     "size": 4531,
-    "stargazers_count": 3330,
-    "watchers_count": 3330,
+    "stargazers_count": 3337,
+    "watchers_count": 3337,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 272,
+    "forks_count": 271,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 272,
+    "forks": 271,
     "open_issues": 53,
-    "watchers": 3330,
+    "watchers": 3337,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 272,
+    "network_count": 271,
     "subscribers_count": 106
 }

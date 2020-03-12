@@ -66,7 +66,7 @@
     "deployments_url": "https://api.github.com/repos/exxeleron/qPython/deployments",
     "created_at": "2014-04-01T08:58:18Z",
     "updated_at": "2020-03-02T15:52:15Z",
-    "pushed_at": "2019-01-01T16:38:07Z",
+    "pushed_at": "2020-03-10T14:33:58Z",
     "git_url": "git://github.com/exxeleron/qPython.git",
     "ssh_url": "git@github.com:exxeleron/qPython.git",
     "clone_url": "https://github.com/exxeleron/qPython.git",
@@ -81,11 +81,11 @@
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 59,
+    "forks_count": 60,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 25,
+    "open_issues_count": 26,
     "license": {
         "key": "apache-2.0",
         "name": "Apache License 2.0",
@@ -93,8 +93,8 @@
         "url": "https://api.github.com/licenses/apache-2.0",
         "node_id": "MDc6TGljZW5zZTI="
     },
-    "forks": 59,
-    "open_issues": 25,
+    "forks": 60,
+    "open_issues": 26,
     "watchers": 120,
     "default_branch": "master",
     "permissions": {
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 59,
+    "network_count": 60,
     "subscribers_count": 46
 }

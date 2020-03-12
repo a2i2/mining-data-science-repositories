@@ -65,16 +65,16 @@
     "releases_url": "https://api.github.com/repos/frescobaldi/frescobaldi/releases{/id}",
     "deployments_url": "https://api.github.com/repos/frescobaldi/frescobaldi/deployments",
     "created_at": "2011-01-28T14:38:51Z",
-    "updated_at": "2020-03-05T21:54:50Z",
-    "pushed_at": "2020-03-05T21:55:37Z",
+    "updated_at": "2020-03-10T16:55:07Z",
+    "pushed_at": "2020-03-10T17:30:09Z",
     "git_url": "git://github.com/frescobaldi/frescobaldi.git",
     "ssh_url": "git@github.com:frescobaldi/frescobaldi.git",
     "clone_url": "https://github.com/frescobaldi/frescobaldi.git",
     "svn_url": "https://github.com/frescobaldi/frescobaldi",
     "homepage": "http://www.frescobaldi.org/",
-    "size": 75757,
-    "stargazers_count": 413,
-    "watchers_count": 413,
+    "size": 75872,
+    "stargazers_count": 414,
+    "watchers_count": 414,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -85,7 +85,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 345,
+    "open_issues_count": 347,
     "license": {
         "key": "gpl-2.0",
         "name": "GNU General Public License v2.0",
@@ -94,8 +94,8 @@
         "node_id": "MDc6TGljZW5zZTg="
     },
     "forks": 113,
-    "open_issues": 345,
-    "watchers": 413,
+    "open_issues": 347,
+    "watchers": 414,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -124,5 +124,5 @@
         "site_admin": false
     },
     "network_count": 113,
-    "subscribers_count": 48
+    "subscribers_count": 47
 }

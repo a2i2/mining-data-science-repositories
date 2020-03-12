@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/1adrianb/face-alignment/releases{/id}",
     "deployments_url": "https://api.github.com/repos/1adrianb/face-alignment/deployments",
     "created_at": "2017-09-15T20:32:44Z",
-    "updated_at": "2020-03-05T18:25:38Z",
+    "updated_at": "2020-03-11T13:17:58Z",
     "pushed_at": "2019-08-30T21:32:50Z",
     "git_url": "git://github.com/1adrianb/face-alignment.git",
     "ssh_url": "git@github.com:1adrianb/face-alignment.git",
@@ -73,19 +73,19 @@
     "svn_url": "https://github.com/1adrianb/face-alignment",
     "homepage": "https://www.adrianbulat.com",
     "size": 3602,
-    "stargazers_count": 3582,
-    "watchers_count": 3582,
+    "stargazers_count": 3600,
+    "watchers_count": 3600,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 801,
+    "forks_count": 806,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 32,
+    "open_issues_count": 33,
     "license": {
         "key": "bsd-3-clause",
         "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/bsd-3-clause",
         "node_id": "MDc6TGljZW5zZTU="
     },
-    "forks": 801,
-    "open_issues": 32,
-    "watchers": 3582,
+    "forks": 806,
+    "open_issues": 33,
+    "watchers": 3600,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 801,
+    "network_count": 806,
     "subscribers_count": 157
 }

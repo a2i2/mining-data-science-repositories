@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/youfou/wxpy/releases{/id}",
     "deployments_url": "https://api.github.com/repos/youfou/wxpy/deployments",
     "created_at": "2017-02-20T18:20:46Z",
-    "updated_at": "2020-03-05T16:22:49Z",
+    "updated_at": "2020-03-10T18:43:11Z",
     "pushed_at": "2019-07-14T17:59:47Z",
     "git_url": "git://github.com/youfou/wxpy.git",
     "ssh_url": "git@github.com:youfou/wxpy.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/youfou/wxpy",
     "homepage": "http://wxpy.readthedocs.io",
     "size": 600,
-    "stargazers_count": 11885,
-    "watchers_count": 11885,
+    "stargazers_count": 11908,
+    "watchers_count": 11908,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 2109,
+    "forks_count": 2110,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": null,
         "node_id": "MDc6TGljZW5zZTA="
     },
-    "forks": 2109,
+    "forks": 2110,
     "open_issues": 297,
-    "watchers": 11885,
+    "watchers": 11908,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 2109,
+    "network_count": 2110,
     "subscribers_count": 553
 }

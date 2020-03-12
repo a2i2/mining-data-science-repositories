@@ -81,13 +81,13 @@
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 261,
+    "forks_count": 260,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
     "open_issues_count": 0,
     "license": null,
-    "forks": 261,
+    "forks": 260,
     "open_issues": 0,
     "watchers": 663,
     "default_branch": "master",
@@ -97,6 +97,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 261,
+    "network_count": 260,
     "subscribers_count": 103
 }

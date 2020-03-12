@@ -65,8 +65,8 @@
     "releases_url": "https://api.github.com/repos/django-treebeard/django-treebeard/releases{/id}",
     "deployments_url": "https://api.github.com/repos/django-treebeard/django-treebeard/deployments",
     "created_at": "2010-04-09T06:10:02Z",
-    "updated_at": "2020-03-03T15:02:39Z",
-    "pushed_at": "2020-02-13T08:54:09Z",
+    "updated_at": "2020-03-11T15:57:22Z",
+    "pushed_at": "2020-03-09T07:03:08Z",
     "git_url": "git://github.com/django-treebeard/django-treebeard.git",
     "ssh_url": "git@github.com:django-treebeard/django-treebeard.git",
     "clone_url": "https://github.com/django-treebeard/django-treebeard.git",
@@ -81,11 +81,11 @@
     "has_downloads": false,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 155,
+    "forks_count": 156,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 58,
+    "open_issues_count": 59,
     "license": {
         "key": "apache-2.0",
         "name": "Apache License 2.0",
@@ -93,8 +93,8 @@
         "url": "https://api.github.com/licenses/apache-2.0",
         "node_id": "MDc6TGljZW5zZTI="
     },
-    "forks": 155,
-    "open_issues": 58,
+    "forks": 156,
+    "open_issues": 59,
     "watchers": 589,
     "default_branch": "master",
     "permissions": {
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 155,
+    "network_count": 156,
     "subscribers_count": 24
 }

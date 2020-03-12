@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/mementum/backtrader/releases{/id}",
     "deployments_url": "https://api.github.com/repos/mementum/backtrader/deployments",
     "created_at": "2015-01-10T07:14:52Z",
-    "updated_at": "2020-03-05T14:59:49Z",
+    "updated_at": "2020-03-11T06:48:59Z",
     "pushed_at": "2020-03-01T15:58:48Z",
     "git_url": "git://github.com/mementum/backtrader.git",
     "ssh_url": "git@github.com:mementum/backtrader.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/mementum/backtrader",
     "homepage": "https://www.backtrader.com",
     "size": 22243,
-    "stargazers_count": 3422,
-    "watchers_count": 3422,
+    "stargazers_count": 3449,
+    "watchers_count": 3449,
     "language": "Python",
     "has_issues": false,
     "has_projects": false,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 1102,
+    "forks_count": 1111,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/gpl-3.0",
         "node_id": "MDc6TGljZW5zZTk="
     },
-    "forks": 1102,
+    "forks": 1111,
     "open_issues": 12,
-    "watchers": 3422,
+    "watchers": 3449,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 1102,
-    "subscribers_count": 398
+    "network_count": 1111,
+    "subscribers_count": 399
 }

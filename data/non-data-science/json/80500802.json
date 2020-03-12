@@ -65,16 +65,16 @@
     "releases_url": "https://api.github.com/repos/usb-tools/Facedancer/releases{/id}",
     "deployments_url": "https://api.github.com/repos/usb-tools/Facedancer/deployments",
     "created_at": "2017-01-31T07:46:25Z",
-    "updated_at": "2020-03-04T10:41:52Z",
-    "pushed_at": "2020-03-04T10:41:49Z",
+    "updated_at": "2020-03-09T19:29:44Z",
+    "pushed_at": "2020-03-07T11:57:37Z",
     "git_url": "git://github.com/usb-tools/Facedancer.git",
     "ssh_url": "git@github.com:usb-tools/Facedancer.git",
     "clone_url": "https://github.com/usb-tools/Facedancer.git",
     "svn_url": "https://github.com/usb-tools/Facedancer",
     "homepage": "",
     "size": 395,
-    "stargazers_count": 278,
-    "watchers_count": 278,
+    "stargazers_count": 281,
+    "watchers_count": 281,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 40,
     "open_issues": 13,
-    "watchers": 278,
+    "watchers": 281,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -124,5 +124,5 @@
         "site_admin": false
     },
     "network_count": 40,
-    "subscribers_count": 30
+    "subscribers_count": 31
 }

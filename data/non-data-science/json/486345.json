@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/bfirsh/django-ordered-model/releases{/id}",
     "deployments_url": "https://api.github.com/repos/bfirsh/django-ordered-model/deployments",
     "created_at": "2010-01-24T14:32:27Z",
-    "updated_at": "2020-02-28T20:48:34Z",
+    "updated_at": "2020-03-06T22:54:17Z",
     "pushed_at": "2020-01-03T21:47:19Z",
     "git_url": "git://github.com/bfirsh/django-ordered-model.git",
     "ssh_url": "git@github.com:bfirsh/django-ordered-model.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/bfirsh/django-ordered-model",
     "homepage": "",
     "size": 275,
-    "stargazers_count": 408,
-    "watchers_count": 408,
+    "stargazers_count": 409,
+    "watchers_count": 409,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 119,
+    "forks_count": 117,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": null,
         "node_id": "MDc6TGljZW5zZTA="
     },
-    "forks": 119,
+    "forks": 117,
     "open_issues": 38,
-    "watchers": 408,
+    "watchers": 409,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 119,
+    "network_count": 117,
     "subscribers_count": 15
 }

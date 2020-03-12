@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/henriquebastos/python-decouple/releases{/id}",
     "deployments_url": "https://api.github.com/repos/henriquebastos/python-decouple/deployments",
     "created_at": "2014-02-25T04:16:08Z",
-    "updated_at": "2020-03-04T11:27:18Z",
+    "updated_at": "2020-03-11T08:38:25Z",
     "pushed_at": "2020-02-11T15:39:24Z",
     "git_url": "git://github.com/henriquebastos/python-decouple.git",
     "ssh_url": "git@github.com:henriquebastos/python-decouple.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/henriquebastos/python-decouple",
     "homepage": null,
     "size": 129,
-    "stargazers_count": 1238,
-    "watchers_count": 1238,
+    "stargazers_count": 1241,
+    "watchers_count": 1241,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 115,
+    "forks_count": 116,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 115,
+    "forks": 116,
     "open_issues": 11,
-    "watchers": 1238,
+    "watchers": 1241,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 115,
+    "network_count": 116,
     "subscribers_count": 25
 }

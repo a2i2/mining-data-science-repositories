@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/aivarsk/scrapy-proxies/releases{/id}",
     "deployments_url": "https://api.github.com/repos/aivarsk/scrapy-proxies/deployments",
     "created_at": "2013-01-21T20:42:14Z",
-    "updated_at": "2020-03-05T11:10:53Z",
+    "updated_at": "2020-03-09T08:21:49Z",
     "pushed_at": "2019-10-01T06:30:18Z",
     "git_url": "git://github.com/aivarsk/scrapy-proxies.git",
     "ssh_url": "git@github.com:aivarsk/scrapy-proxies.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/aivarsk/scrapy-proxies",
     "homepage": "",
     "size": 19,
-    "stargazers_count": 1339,
-    "watchers_count": 1339,
+    "stargazers_count": 1344,
+    "watchers_count": 1344,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 352,
+    "forks_count": 351,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 352,
+    "forks": 351,
     "open_issues": 35,
-    "watchers": 1339,
+    "watchers": 1344,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 352,
+    "network_count": 351,
     "subscribers_count": 58
 }

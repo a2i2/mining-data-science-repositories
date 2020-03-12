@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/kujason/avod/releases{/id}",
     "deployments_url": "https://api.github.com/repos/kujason/avod/deployments",
     "created_at": "2018-02-28T19:05:37Z",
-    "updated_at": "2020-03-03T14:49:44Z",
+    "updated_at": "2020-03-10T21:43:37Z",
     "pushed_at": "2019-07-22T19:11:45Z",
     "git_url": "git://github.com/kujason/avod.git",
     "ssh_url": "git@github.com:kujason/avod.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/kujason/avod",
     "homepage": "",
     "size": 24523,
-    "stargazers_count": 641,
-    "watchers_count": 641,
+    "stargazers_count": 644,
+    "watchers_count": 644,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 263,
+    "forks_count": 265,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 263,
+    "forks": 265,
     "open_issues": 102,
-    "watchers": 641,
+    "watchers": 644,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 263,
+    "network_count": 265,
     "subscribers_count": 39
 }

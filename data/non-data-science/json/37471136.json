@@ -65,14 +65,14 @@
     "releases_url": "https://api.github.com/repos/pajbot/pajbot/releases{/id}",
     "deployments_url": "https://api.github.com/repos/pajbot/pajbot/deployments",
     "created_at": "2015-06-15T14:43:01Z",
-    "updated_at": "2020-02-29T09:54:35Z",
-    "pushed_at": "2020-03-05T09:48:54Z",
+    "updated_at": "2020-03-07T11:13:16Z",
+    "pushed_at": "2020-03-07T11:13:14Z",
     "git_url": "git://github.com/pajbot/pajbot.git",
     "ssh_url": "git@github.com:pajbot/pajbot.git",
     "clone_url": "https://github.com/pajbot/pajbot.git",
     "svn_url": "https://github.com/pajbot/pajbot",
     "homepage": "https://pajbot.com/",
-    "size": 4365,
+    "size": 4385,
     "stargazers_count": 149,
     "watchers_count": 149,
     "language": "Python",
@@ -81,11 +81,11 @@
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 53,
+    "forks_count": 52,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 108,
+    "open_issues_count": 109,
     "license": {
         "key": "mit",
         "name": "MIT License",
@@ -93,8 +93,8 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 53,
-    "open_issues": 108,
+    "forks": 52,
+    "open_issues": 109,
     "watchers": 149,
     "default_branch": "master",
     "permissions": {
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 53,
+    "network_count": 52,
     "subscribers_count": 11
 }

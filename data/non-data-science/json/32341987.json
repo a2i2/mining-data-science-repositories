@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/tnich/honssh/releases{/id}",
     "deployments_url": "https://api.github.com/repos/tnich/honssh/deployments",
     "created_at": "2015-03-16T17:39:32Z",
-    "updated_at": "2020-02-23T20:21:23Z",
+    "updated_at": "2020-03-09T08:35:57Z",
     "pushed_at": "2018-04-04T16:27:40Z",
     "git_url": "git://github.com/tnich/honssh.git",
     "ssh_url": "git@github.com:tnich/honssh.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/tnich/honssh",
     "homepage": "https://github.com/tnich/honssh",
     "size": 397,
-    "stargazers_count": 337,
-    "watchers_count": 337,
+    "stargazers_count": 338,
+    "watchers_count": 338,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": false,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 65,
+    "forks_count": 66,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/bsd-3-clause",
         "node_id": "MDc6TGljZW5zZTU="
     },
-    "forks": 65,
+    "forks": 66,
     "open_issues": 7,
-    "watchers": 337,
+    "watchers": 338,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 65,
+    "network_count": 66,
     "subscribers_count": 28
 }

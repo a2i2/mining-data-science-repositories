@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/newsapps/beeswithmachineguns/releases{/id}",
     "deployments_url": "https://api.github.com/repos/newsapps/beeswithmachineguns/deployments",
     "created_at": "2010-06-29T21:26:18Z",
-    "updated_at": "2020-03-05T23:24:39Z",
+    "updated_at": "2020-03-10T22:56:34Z",
     "pushed_at": "2019-03-11T02:45:00Z",
     "git_url": "git://github.com/newsapps/beeswithmachineguns.git",
     "ssh_url": "git@github.com:newsapps/beeswithmachineguns.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/newsapps/beeswithmachineguns",
     "homepage": "http://apps.chicagotribune.com/",
     "size": 249,
-    "stargazers_count": 5796,
-    "watchers_count": 5796,
+    "stargazers_count": 5804,
+    "watchers_count": 5804,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 640,
     "open_issues": 77,
-    "watchers": 5796,
+    "watchers": 5804,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -124,5 +124,5 @@
         "site_admin": false
     },
     "network_count": 640,
-    "subscribers_count": 228
+    "subscribers_count": 229
 }

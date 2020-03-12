@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/achillean/shodan-python/releases{/id}",
     "deployments_url": "https://api.github.com/repos/achillean/shodan-python/deployments",
     "created_at": "2010-09-07T04:09:46Z",
-    "updated_at": "2020-03-05T14:42:32Z",
+    "updated_at": "2020-03-09T20:08:43Z",
     "pushed_at": "2020-02-07T08:10:38Z",
     "git_url": "git://github.com/achillean/shodan-python.git",
     "ssh_url": "git@github.com:achillean/shodan-python.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/achillean/shodan-python",
     "homepage": "https://developer.shodan.io",
     "size": 352,
-    "stargazers_count": 1289,
-    "watchers_count": 1289,
+    "stargazers_count": 1292,
+    "watchers_count": 1292,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 333,
+    "forks_count": 335,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": null,
         "node_id": "MDc6TGljZW5zZTA="
     },
-    "forks": 333,
+    "forks": 335,
     "open_issues": 7,
-    "watchers": 1289,
+    "watchers": 1292,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 333,
+    "network_count": 335,
     "subscribers_count": 90
 }

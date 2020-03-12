@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/byt3bl33d3r/MITMf/releases{/id}",
     "deployments_url": "https://api.github.com/repos/byt3bl33d3r/MITMf/deployments",
     "created_at": "2014-07-07T11:13:51Z",
-    "updated_at": "2020-03-04T16:28:11Z",
+    "updated_at": "2020-03-10T19:18:57Z",
     "pushed_at": "2018-08-28T15:44:25Z",
     "git_url": "git://github.com/byt3bl33d3r/MITMf.git",
     "ssh_url": "git@github.com:byt3bl33d3r/MITMf.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/byt3bl33d3r/MITMf",
     "homepage": null,
     "size": 1375,
-    "stargazers_count": 2940,
-    "watchers_count": 2940,
+    "stargazers_count": 2941,
+    "watchers_count": 2941,
     "language": "Python",
     "has_issues": false,
     "has_projects": false,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 927,
+    "forks_count": 930,
     "mirror_url": null,
     "archived": true,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/gpl-3.0",
         "node_id": "MDc6TGljZW5zZTk="
     },
-    "forks": 927,
+    "forks": 930,
     "open_issues": 137,
-    "watchers": 2940,
+    "watchers": 2941,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 927,
+    "network_count": 930,
     "subscribers_count": 300
 }

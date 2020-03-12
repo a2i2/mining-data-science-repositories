@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/mre/the-coding-interview/releases{/id}",
     "deployments_url": "https://api.github.com/repos/mre/the-coding-interview/deployments",
     "created_at": "2013-11-20T22:42:38Z",
-    "updated_at": "2020-03-04T19:35:31Z",
+    "updated_at": "2020-03-10T22:42:33Z",
     "pushed_at": "2020-02-19T18:43:00Z",
     "git_url": "git://github.com/mre/the-coding-interview.git",
     "ssh_url": "git@github.com:mre/the-coding-interview.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/mre/the-coding-interview",
     "homepage": "",
     "size": 1713,
-    "stargazers_count": 1038,
-    "watchers_count": 1038,
+    "stargazers_count": 1043,
+    "watchers_count": 1043,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 309,
+    "forks_count": 308,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 309,
+    "forks": 308,
     "open_issues": 6,
-    "watchers": 1038,
+    "watchers": 1043,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 309,
+    "network_count": 308,
     "subscribers_count": 44
 }

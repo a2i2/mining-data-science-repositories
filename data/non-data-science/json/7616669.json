@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/nedbat/byterun/releases{/id}",
     "deployments_url": "https://api.github.com/repos/nedbat/byterun/deployments",
     "created_at": "2013-01-15T01:49:53Z",
-    "updated_at": "2020-03-04T05:41:04Z",
+    "updated_at": "2020-03-07T20:23:01Z",
     "pushed_at": "2019-10-17T21:49:14Z",
     "git_url": "git://github.com/nedbat/byterun.git",
     "ssh_url": "git@github.com:nedbat/byterun.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/nedbat/byterun",
     "homepage": null,
     "size": 196,
-    "stargazers_count": 854,
-    "watchers_count": 854,
+    "stargazers_count": 856,
+    "watchers_count": 856,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 183,
+    "forks_count": 184,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 183,
+    "forks": 184,
     "open_issues": 18,
-    "watchers": 854,
+    "watchers": 856,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 183,
+    "network_count": 184,
     "subscribers_count": 43
 }

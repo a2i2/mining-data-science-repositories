@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/mateuszk87/PcapViz/releases{/id}",
     "deployments_url": "https://api.github.com/repos/mateuszk87/PcapViz/deployments",
     "created_at": "2015-01-21T22:57:15Z",
-    "updated_at": "2020-02-25T03:58:26Z",
+    "updated_at": "2020-03-06T07:14:38Z",
     "pushed_at": "2020-01-15T06:52:32Z",
     "git_url": "git://github.com/mateuszk87/PcapViz.git",
     "ssh_url": "git@github.com:mateuszk87/PcapViz.git",

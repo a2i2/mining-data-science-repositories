@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/etsy/skyline/releases{/id}",
     "deployments_url": "https://api.github.com/repos/etsy/skyline/deployments",
     "created_at": "2013-06-10T15:44:49Z",
-    "updated_at": "2020-02-22T14:20:29Z",
+    "updated_at": "2020-03-10T06:37:52Z",
     "pushed_at": "2016-02-22T14:22:44Z",
     "git_url": "git://github.com/etsy/skyline.git",
     "ssh_url": "git@github.com:etsy/skyline.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/etsy/skyline",
     "homepage": "http://codeascraft.com/2013/06/11/introducing-kale/",
     "size": 1878,
-    "stargazers_count": 2103,
-    "watchers_count": 2103,
+    "stargazers_count": 2104,
+    "watchers_count": 2104,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 343,
     "open_issues": 53,
-    "watchers": 2103,
+    "watchers": 2104,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -124,5 +124,5 @@
         "site_admin": false
     },
     "network_count": 343,
-    "subscribers_count": 183
+    "subscribers_count": 184
 }

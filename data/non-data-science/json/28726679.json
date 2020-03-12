@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/jsvine/markovify/releases{/id}",
     "deployments_url": "https://api.github.com/repos/jsvine/markovify/deployments",
     "created_at": "2015-01-02T21:21:20Z",
-    "updated_at": "2020-03-05T14:06:05Z",
+    "updated_at": "2020-03-11T00:19:49Z",
     "pushed_at": "2020-02-28T03:45:59Z",
     "git_url": "git://github.com/jsvine/markovify.git",
     "ssh_url": "git@github.com:jsvine/markovify.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/jsvine/markovify",
     "homepage": null,
     "size": 515,
-    "stargazers_count": 2366,
-    "watchers_count": 2366,
+    "stargazers_count": 2380,
+    "watchers_count": 2380,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 261,
+    "forks_count": 262,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 261,
+    "forks": 262,
     "open_issues": 4,
-    "watchers": 2366,
+    "watchers": 2380,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 261,
+    "network_count": 262,
     "subscribers_count": 66
 }

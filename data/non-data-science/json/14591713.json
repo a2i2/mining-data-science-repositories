@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/NullHypothesis/exitmap/releases{/id}",
     "deployments_url": "https://api.github.com/repos/NullHypothesis/exitmap/deployments",
     "created_at": "2013-11-21T15:41:22Z",
-    "updated_at": "2020-02-28T11:45:41Z",
+    "updated_at": "2020-03-06T09:08:06Z",
     "pushed_at": "2019-09-30T14:53:28Z",
     "git_url": "git://github.com/NullHypothesis/exitmap.git",
     "ssh_url": "git@github.com:NullHypothesis/exitmap.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/NullHypothesis/exitmap",
     "homepage": "https://www.cs.kau.se/philwint/spoiled_onions/",
     "size": 1575,
-    "stargazers_count": 429,
-    "watchers_count": 429,
+    "stargazers_count": 430,
+    "watchers_count": 430,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 106,
+    "forks_count": 107,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/gpl-3.0",
         "node_id": "MDc6TGljZW5zZTk="
     },
-    "forks": 106,
+    "forks": 107,
     "open_issues": 17,
-    "watchers": 429,
+    "watchers": 430,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 106,
+    "network_count": 107,
     "subscribers_count": 38
 }

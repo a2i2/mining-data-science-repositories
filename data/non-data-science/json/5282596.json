@@ -65,8 +65,8 @@
     "releases_url": "https://api.github.com/repos/SciTools/cartopy/releases{/id}",
     "deployments_url": "https://api.github.com/repos/SciTools/cartopy/deployments",
     "created_at": "2012-08-03T07:43:59Z",
-    "updated_at": "2020-03-05T15:26:33Z",
-    "pushed_at": "2020-03-05T16:34:29Z",
+    "updated_at": "2020-03-07T08:47:59Z",
+    "pushed_at": "2020-03-07T08:47:57Z",
     "git_url": "git://github.com/SciTools/cartopy.git",
     "ssh_url": "git@github.com:SciTools/cartopy.git",
     "clone_url": "https://github.com/SciTools/cartopy.git",
@@ -85,7 +85,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 233,
+    "open_issues_count": 230,
     "license": {
         "key": "lgpl-3.0",
         "name": "GNU Lesser General Public License v3.0",
@@ -94,7 +94,7 @@
         "node_id": "MDc6TGljZW5zZTEy"
     },
     "forks": 221,
-    "open_issues": 233,
+    "open_issues": 230,
     "watchers": 680,
     "default_branch": "master",
     "permissions": {

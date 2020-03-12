@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/utahta/pythonbrew/releases{/id}",
     "deployments_url": "https://api.github.com/repos/utahta/pythonbrew/deployments",
     "created_at": "2010-10-02T12:33:59Z",
-    "updated_at": "2020-03-05T18:14:42Z",
+    "updated_at": "2020-03-09T16:28:04Z",
     "pushed_at": "2020-02-11T09:23:36Z",
     "git_url": "git://github.com/utahta/pythonbrew.git",
     "ssh_url": "git@github.com:utahta/pythonbrew.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/utahta/pythonbrew",
     "homepage": "",
     "size": 468,
-    "stargazers_count": 1443,
-    "watchers_count": 1443,
+    "stargazers_count": 1444,
+    "watchers_count": 1444,
     "language": "Go",
     "has_issues": true,
     "has_projects": false,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 204,
+    "forks_count": 203,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 204,
+    "forks": 203,
     "open_issues": 45,
-    "watchers": 1443,
+    "watchers": 1444,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 204,
+    "network_count": 203,
     "subscribers_count": 76
 }

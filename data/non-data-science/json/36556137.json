@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/pmaupin/pdfrw/releases{/id}",
     "deployments_url": "https://api.github.com/repos/pmaupin/pdfrw/deployments",
     "created_at": "2015-05-30T11:53:24Z",
-    "updated_at": "2020-03-06T00:53:19Z",
+    "updated_at": "2020-03-10T10:15:04Z",
     "pushed_at": "2020-01-17T14:23:32Z",
     "git_url": "git://github.com/pmaupin/pdfrw.git",
     "ssh_url": "git@github.com:pmaupin/pdfrw.git",
@@ -73,19 +73,19 @@
     "svn_url": "https://github.com/pmaupin/pdfrw",
     "homepage": "",
     "size": 523,
-    "stargazers_count": 1158,
-    "watchers_count": 1158,
+    "stargazers_count": 1161,
+    "watchers_count": 1161,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": false,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 189,
+    "forks_count": 190,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 84,
+    "open_issues_count": 86,
     "license": {
         "key": "other",
         "name": "Other",
@@ -93,9 +93,9 @@
         "url": null,
         "node_id": "MDc6TGljZW5zZTA="
     },
-    "forks": 189,
-    "open_issues": 84,
-    "watchers": 1158,
+    "forks": 190,
+    "open_issues": 86,
+    "watchers": 1161,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 189,
+    "network_count": 190,
     "subscribers_count": 53
 }

@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/brennerm/PyTricks/releases{/id}",
     "deployments_url": "https://api.github.com/repos/brennerm/PyTricks/deployments",
     "created_at": "2015-03-18T20:02:56Z",
-    "updated_at": "2020-03-05T07:13:25Z",
+    "updated_at": "2020-03-09T22:20:42Z",
     "pushed_at": "2019-11-04T10:49:19Z",
     "git_url": "git://github.com/brennerm/PyTricks.git",
     "ssh_url": "git@github.com:brennerm/PyTricks.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/brennerm/PyTricks",
     "homepage": "",
     "size": 106,
-    "stargazers_count": 2736,
-    "watchers_count": 2736,
+    "stargazers_count": 2737,
+    "watchers_count": 2737,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 445,
+    "forks_count": 446,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 445,
+    "forks": 446,
     "open_issues": 8,
-    "watchers": 2736,
+    "watchers": 2737,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 445,
+    "network_count": 446,
     "subscribers_count": 198
 }

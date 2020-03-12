@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/twilio/stashboard/releases{/id}",
     "deployments_url": "https://api.github.com/repos/twilio/stashboard/deployments",
     "created_at": "2010-06-18T00:14:48Z",
-    "updated_at": "2020-02-18T16:50:12Z",
+    "updated_at": "2020-03-06T13:08:46Z",
     "pushed_at": "2015-07-22T12:43:39Z",
     "git_url": "git://github.com/twilio/stashboard.git",
     "ssh_url": "git@github.com:twilio/stashboard.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/twilio/stashboard",
     "homepage": "stashboard.org",
     "size": 4286,
-    "stargazers_count": 1593,
-    "watchers_count": 1593,
+    "stargazers_count": 1594,
+    "watchers_count": 1594,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 301,
     "open_issues": 24,
-    "watchers": 1593,
+    "watchers": 1594,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -124,5 +124,5 @@
         "site_admin": false
     },
     "network_count": 301,
-    "subscribers_count": 71
+    "subscribers_count": 70
 }

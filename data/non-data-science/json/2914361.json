@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/asaini/Apriori/releases{/id}",
     "deployments_url": "https://api.github.com/repos/asaini/Apriori/deployments",
     "created_at": "2011-12-05T04:43:06Z",
-    "updated_at": "2020-03-01T17:32:41Z",
+    "updated_at": "2020-03-11T05:16:46Z",
     "pushed_at": "2020-01-24T06:10:05Z",
     "git_url": "git://github.com/asaini/Apriori.git",
     "ssh_url": "git@github.com:asaini/Apriori.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/asaini/Apriori",
     "homepage": "",
     "size": 26,
-    "stargazers_count": 552,
-    "watchers_count": 552,
+    "stargazers_count": 554,
+    "watchers_count": 554,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 371,
+    "forks_count": 373,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 371,
+    "forks": 373,
     "open_issues": 14,
-    "watchers": 552,
+    "watchers": 554,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 371,
+    "network_count": 373,
     "subscribers_count": 42
 }

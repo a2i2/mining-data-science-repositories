@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/GoogleCloudPlatform/gsutil/releases{/id}",
     "deployments_url": "https://api.github.com/repos/GoogleCloudPlatform/gsutil/deployments",
     "created_at": "2013-02-22T01:15:43Z",
-    "updated_at": "2020-03-04T14:45:23Z",
+    "updated_at": "2020-03-11T08:31:12Z",
     "pushed_at": "2020-03-02T16:48:49Z",
     "git_url": "git://github.com/GoogleCloudPlatform/gsutil.git",
     "ssh_url": "git@github.com:GoogleCloudPlatform/gsutil.git",
@@ -73,19 +73,19 @@
     "svn_url": "https://github.com/GoogleCloudPlatform/gsutil",
     "homepage": "",
     "size": 14713,
-    "stargazers_count": 542,
-    "watchers_count": 542,
+    "stargazers_count": 548,
+    "watchers_count": 548,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 223,
+    "forks_count": 225,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 181,
+    "open_issues_count": 182,
     "license": {
         "key": "apache-2.0",
         "name": "Apache License 2.0",
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/apache-2.0",
         "node_id": "MDc6TGljZW5zZTI="
     },
-    "forks": 223,
-    "open_issues": 181,
-    "watchers": 542,
+    "forks": 225,
+    "open_issues": 182,
+    "watchers": 548,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 223,
+    "network_count": 225,
     "subscribers_count": 77
 }

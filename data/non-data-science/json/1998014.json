@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/Diaoul/subliminal/releases{/id}",
     "deployments_url": "https://api.github.com/repos/Diaoul/subliminal/deployments",
     "created_at": "2011-07-05T00:24:23Z",
-    "updated_at": "2020-03-04T17:06:44Z",
+    "updated_at": "2020-03-09T20:15:50Z",
     "pushed_at": "2019-10-08T19:07:48Z",
     "git_url": "git://github.com/Diaoul/subliminal.git",
     "ssh_url": "git@github.com:Diaoul/subliminal.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/Diaoul/subliminal",
     "homepage": "http://subliminal.readthedocs.org",
     "size": 10986,
-    "stargazers_count": 1912,
-    "watchers_count": 1912,
+    "stargazers_count": 1914,
+    "watchers_count": 1914,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 299,
+    "forks_count": 300,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 299,
+    "forks": 300,
     "open_issues": 111,
-    "watchers": 1912,
+    "watchers": 1914,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 299,
-    "subscribers_count": 72
+    "network_count": 300,
+    "subscribers_count": 70
 }

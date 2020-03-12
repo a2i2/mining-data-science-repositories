@@ -65,14 +65,14 @@
     "releases_url": "https://api.github.com/repos/nickstenning/honcho/releases{/id}",
     "deployments_url": "https://api.github.com/repos/nickstenning/honcho/deployments",
     "created_at": "2012-03-13T13:44:30Z",
-    "updated_at": "2020-03-04T10:58:01Z",
-    "pushed_at": "2019-12-05T08:48:12Z",
+    "updated_at": "2020-03-10T15:58:27Z",
+    "pushed_at": "2020-03-10T15:58:25Z",
     "git_url": "git://github.com/nickstenning/honcho.git",
     "ssh_url": "git@github.com:nickstenning/honcho.git",
     "clone_url": "https://github.com/nickstenning/honcho.git",
     "svn_url": "https://github.com/nickstenning/honcho",
     "homepage": "http://pypi.python.org/pypi/honcho",
-    "size": 335,
+    "size": 337,
     "stargazers_count": 1319,
     "watchers_count": 1319,
     "language": "Python",
@@ -81,11 +81,11 @@
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 121,
+    "forks_count": 122,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 27,
+    "open_issues_count": 25,
     "license": {
         "key": "mit",
         "name": "MIT License",
@@ -93,8 +93,8 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 121,
-    "open_issues": 27,
+    "forks": 122,
+    "open_issues": 25,
     "watchers": 1319,
     "default_branch": "master",
     "permissions": {
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 121,
+    "network_count": 122,
     "subscribers_count": 31
 }

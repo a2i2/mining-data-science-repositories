@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/anishathalye/dotbot/releases{/id}",
     "deployments_url": "https://api.github.com/repos/anishathalye/dotbot/deployments",
     "created_at": "2014-03-20T21:43:58Z",
-    "updated_at": "2020-03-05T09:49:53Z",
+    "updated_at": "2020-03-11T08:08:20Z",
     "pushed_at": "2020-02-18T17:10:34Z",
     "git_url": "git://github.com/anishathalye/dotbot.git",
     "ssh_url": "git@github.com:anishathalye/dotbot.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/anishathalye/dotbot",
     "homepage": "",
     "size": 249,
-    "stargazers_count": 2852,
-    "watchers_count": 2852,
+    "stargazers_count": 2868,
+    "watchers_count": 2868,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 149,
+    "forks_count": 150,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": null,
         "node_id": "MDc6TGljZW5zZTA="
     },
-    "forks": 149,
+    "forks": 150,
     "open_issues": 22,
-    "watchers": 2852,
+    "watchers": 2868,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 149,
-    "subscribers_count": 53
+    "network_count": 150,
+    "subscribers_count": 52
 }

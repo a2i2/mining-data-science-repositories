@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/Quitten/Autorize/releases{/id}",
     "deployments_url": "https://api.github.com/repos/Quitten/Autorize/deployments",
     "created_at": "2015-02-13T03:47:50Z",
-    "updated_at": "2020-03-05T16:10:56Z",
+    "updated_at": "2020-03-11T06:04:49Z",
     "pushed_at": "2020-03-05T16:10:54Z",
     "git_url": "git://github.com/Quitten/Autorize.git",
     "ssh_url": "git@github.com:Quitten/Autorize.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/Quitten/Autorize",
     "homepage": "",
     "size": 3090,
-    "stargazers_count": 300,
-    "watchers_count": 300,
+    "stargazers_count": 304,
+    "watchers_count": 304,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -89,7 +89,7 @@
     "license": null,
     "forks": 86,
     "open_issues": 6,
-    "watchers": 300,
+    "watchers": 304,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -98,5 +98,5 @@
     },
     "temp_clone_token": "",
     "network_count": 86,
-    "subscribers_count": 19
+    "subscribers_count": 20
 }

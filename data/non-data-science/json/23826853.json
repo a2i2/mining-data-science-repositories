@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/ovh/python-ovh/releases{/id}",
     "deployments_url": "https://api.github.com/repos/ovh/python-ovh/deployments",
     "created_at": "2014-09-09T09:12:55Z",
-    "updated_at": "2020-02-20T04:50:03Z",
+    "updated_at": "2020-03-06T16:20:46Z",
     "pushed_at": "2020-01-10T05:20:12Z",
     "git_url": "git://github.com/ovh/python-ovh.git",
     "ssh_url": "git@github.com:ovh/python-ovh.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/ovh/python-ovh",
     "homepage": "http://pypi.python.org/pypi/ovh",
     "size": 780,
-    "stargazers_count": 188,
-    "watchers_count": 188,
+    "stargazers_count": 189,
+    "watchers_count": 189,
     "language": "Python",
     "has_issues": true,
     "has_projects": false,
@@ -85,7 +85,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 8,
+    "open_issues_count": 7,
     "license": {
         "key": "other",
         "name": "Other",
@@ -94,8 +94,8 @@
         "node_id": "MDc6TGljZW5zZTA="
     },
     "forks": 49,
-    "open_issues": 8,
-    "watchers": 188,
+    "open_issues": 7,
+    "watchers": 189,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -124,5 +124,5 @@
         "site_admin": false
     },
     "network_count": 49,
-    "subscribers_count": 69
+    "subscribers_count": 67
 }

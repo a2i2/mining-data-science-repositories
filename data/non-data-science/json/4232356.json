@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/aneesha/RAKE/releases{/id}",
     "deployments_url": "https://api.github.com/repos/aneesha/RAKE/deployments",
     "created_at": "2012-05-05T07:59:39Z",
-    "updated_at": "2020-02-18T16:50:40Z",
+    "updated_at": "2020-03-09T09:40:34Z",
     "pushed_at": "2017-12-06T14:12:44Z",
     "git_url": "git://github.com/aneesha/RAKE.git",
     "ssh_url": "git@github.com:aneesha/RAKE.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/aneesha/RAKE",
     "homepage": null,
     "size": 248,
-    "stargazers_count": 772,
-    "watchers_count": 772,
+    "stargazers_count": 774,
+    "watchers_count": 774,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 534,
+    "forks_count": 535,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 534,
+    "forks": 535,
     "open_issues": 9,
-    "watchers": 772,
+    "watchers": 774,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 534,
+    "network_count": 535,
     "subscribers_count": 54
 }

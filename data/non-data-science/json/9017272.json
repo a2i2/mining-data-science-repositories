@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/mountainstorm/MobileDevice/releases{/id}",
     "deployments_url": "https://api.github.com/repos/mountainstorm/MobileDevice/deployments",
     "created_at": "2013-03-25T22:15:34Z",
-    "updated_at": "2020-01-14T12:41:20Z",
+    "updated_at": "2020-03-08T10:38:11Z",
     "pushed_at": "2016-09-15T18:04:16Z",
     "git_url": "git://github.com/mountainstorm/MobileDevice.git",
     "ssh_url": "git@github.com:mountainstorm/MobileDevice.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/mountainstorm/MobileDevice",
     "homepage": "",
     "size": 186,
-    "stargazers_count": 164,
-    "watchers_count": 164,
+    "stargazers_count": 165,
+    "watchers_count": 165,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 63,
+    "forks_count": 64,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 63,
+    "forks": 64,
     "open_issues": 14,
-    "watchers": 164,
+    "watchers": 165,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 63,
+    "network_count": 64,
     "subscribers_count": 25
 }

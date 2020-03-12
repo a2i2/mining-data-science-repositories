@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/google/rekall/releases{/id}",
     "deployments_url": "https://api.github.com/repos/google/rekall/deployments",
     "created_at": "2014-05-16T17:22:51Z",
-    "updated_at": "2020-03-05T20:45:47Z",
+    "updated_at": "2020-03-10T14:19:19Z",
     "pushed_at": "2020-01-28T00:23:24Z",
     "git_url": "git://github.com/google/rekall.git",
     "ssh_url": "git@github.com:google/rekall.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/google/rekall",
     "homepage": "http://www.rekall-forensic.com",
     "size": 145268,
-    "stargazers_count": 1555,
-    "watchers_count": 1555,
+    "stargazers_count": 1556,
+    "watchers_count": 1556,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": true,
-    "forks_count": 339,
+    "forks_count": 340,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/gpl-2.0",
         "node_id": "MDc6TGljZW5zZTg="
     },
-    "forks": 339,
+    "forks": 340,
     "open_issues": 183,
-    "watchers": 1555,
+    "watchers": 1556,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 339,
+    "network_count": 340,
     "subscribers_count": 175
 }

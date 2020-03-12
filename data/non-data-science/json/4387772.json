@@ -65,16 +65,16 @@
     "releases_url": "https://api.github.com/repos/cpbotha/nvpy/releases{/id}",
     "deployments_url": "https://api.github.com/repos/cpbotha/nvpy/deployments",
     "created_at": "2012-05-20T21:58:10Z",
-    "updated_at": "2020-03-01T06:56:52Z",
-    "pushed_at": "2020-03-03T16:32:57Z",
+    "updated_at": "2020-03-08T07:26:46Z",
+    "pushed_at": "2020-03-08T07:29:05Z",
     "git_url": "git://github.com/cpbotha/nvpy.git",
     "ssh_url": "git@github.com:cpbotha/nvpy.git",
     "clone_url": "https://github.com/cpbotha/nvpy.git",
     "svn_url": "https://github.com/cpbotha/nvpy",
     "homepage": "",
-    "size": 2805,
-    "stargazers_count": 770,
-    "watchers_count": 770,
+    "size": 2841,
+    "stargazers_count": 771,
+    "watchers_count": 771,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 114,
     "open_issues": 65,
-    "watchers": 770,
+    "watchers": 771,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -104,5 +104,5 @@
     },
     "temp_clone_token": "",
     "network_count": 114,
-    "subscribers_count": 49
+    "subscribers_count": 48
 }

@@ -81,13 +81,13 @@
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 42,
+    "forks_count": 43,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
     "open_issues_count": 4,
     "license": null,
-    "forks": 42,
+    "forks": 43,
     "open_issues": 4,
     "watchers": 169,
     "default_branch": "master",
@@ -117,6 +117,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 42,
+    "network_count": 43,
     "subscribers_count": 20
 }

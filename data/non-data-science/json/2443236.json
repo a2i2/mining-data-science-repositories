@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/Kozea/pygal/releases{/id}",
     "deployments_url": "https://api.github.com/repos/Kozea/pygal/deployments",
     "created_at": "2011-09-23T10:17:50Z",
-    "updated_at": "2020-03-05T14:11:08Z",
+    "updated_at": "2020-03-11T03:02:01Z",
     "pushed_at": "2020-01-09T16:59:21Z",
     "git_url": "git://github.com/Kozea/pygal.git",
     "ssh_url": "git@github.com:Kozea/pygal.git",

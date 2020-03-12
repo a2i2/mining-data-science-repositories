@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/andreafrancia/trash-cli/releases{/id}",
     "deployments_url": "https://api.github.com/repos/andreafrancia/trash-cli/deployments",
     "created_at": "2011-11-09T17:06:36Z",
-    "updated_at": "2020-03-04T13:10:30Z",
+    "updated_at": "2020-03-10T17:19:02Z",
     "pushed_at": "2019-12-07T14:27:42Z",
     "git_url": "git://github.com/andreafrancia/trash-cli.git",
     "ssh_url": "git@github.com:andreafrancia/trash-cli.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/andreafrancia/trash-cli",
     "homepage": "",
     "size": 1197,
-    "stargazers_count": 1409,
-    "watchers_count": 1409,
+    "stargazers_count": 1417,
+    "watchers_count": 1417,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 97,
+    "forks_count": 98,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/gpl-2.0",
         "node_id": "MDc6TGljZW5zZTg="
     },
-    "forks": 97,
+    "forks": 98,
     "open_issues": 70,
-    "watchers": 1409,
+    "watchers": 1417,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 97,
+    "network_count": 98,
     "subscribers_count": 37
 }

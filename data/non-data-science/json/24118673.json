@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/rm-hull/luma.oled/releases{/id}",
     "deployments_url": "https://api.github.com/repos/rm-hull/luma.oled/deployments",
     "created_at": "2014-09-16T21:35:26Z",
-    "updated_at": "2020-03-01T11:17:26Z",
+    "updated_at": "2020-03-11T04:47:35Z",
     "pushed_at": "2020-02-12T12:38:18Z",
     "git_url": "git://github.com/rm-hull/luma.oled.git",
     "ssh_url": "git@github.com:rm-hull/luma.oled.git",
@@ -73,19 +73,19 @@
     "svn_url": "https://github.com/rm-hull/luma.oled",
     "homepage": "https://luma-oled.readthedocs.io",
     "size": 18753,
-    "stargazers_count": 460,
-    "watchers_count": 460,
+    "stargazers_count": 462,
+    "watchers_count": 462,
     "language": "Python",
     "has_issues": true,
     "has_projects": false,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 113,
+    "forks_count": 114,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 17,
+    "open_issues_count": 18,
     "license": {
         "key": "mit",
         "name": "MIT License",
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 113,
-    "open_issues": 17,
-    "watchers": 460,
+    "forks": 114,
+    "open_issues": 18,
+    "watchers": 462,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 113,
-    "subscribers_count": 34
+    "network_count": 114,
+    "subscribers_count": 32
 }

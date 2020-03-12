@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/finalion/WordQuery/releases{/id}",
     "deployments_url": "https://api.github.com/repos/finalion/WordQuery/deployments",
     "created_at": "2016-11-19T14:36:20Z",
-    "updated_at": "2020-03-05T09:36:14Z",
+    "updated_at": "2020-03-11T02:28:10Z",
     "pushed_at": "2018-09-13T17:29:16Z",
     "git_url": "git://github.com/finalion/WordQuery.git",
     "ssh_url": "git@github.com:finalion/WordQuery.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/finalion/WordQuery",
     "homepage": "https://ankiweb.net/shared/info/775418273",
     "size": 34142,
-    "stargazers_count": 206,
-    "watchers_count": 206,
+    "stargazers_count": 216,
+    "watchers_count": 216,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": true,
-    "forks_count": 41,
+    "forks_count": 44,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/gpl-3.0",
         "node_id": "MDc6TGljZW5zZTk="
     },
-    "forks": 41,
+    "forks": 44,
     "open_issues": 38,
-    "watchers": 206,
+    "watchers": 216,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 41,
-    "subscribers_count": 9
+    "network_count": 44,
+    "subscribers_count": 10
 }

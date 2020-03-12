@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/dtmilano/AndroidViewClient/releases{/id}",
     "deployments_url": "https://api.github.com/repos/dtmilano/AndroidViewClient/deployments",
     "created_at": "2012-02-02T06:04:40Z",
-    "updated_at": "2020-03-04T09:53:33Z",
+    "updated_at": "2020-03-10T14:11:57Z",
     "pushed_at": "2019-12-12T03:04:15Z",
     "git_url": "git://github.com/dtmilano/AndroidViewClient.git",
     "ssh_url": "git@github.com:dtmilano/AndroidViewClient.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/dtmilano/AndroidViewClient",
     "homepage": null,
     "size": 5259,
-    "stargazers_count": 961,
-    "watchers_count": 961,
+    "stargazers_count": 965,
+    "watchers_count": 965,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": true,
-    "forks_count": 269,
+    "forks_count": 270,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/apache-2.0",
         "node_id": "MDc6TGljZW5zZTI="
     },
-    "forks": 269,
+    "forks": 270,
     "open_issues": 65,
-    "watchers": 961,
+    "watchers": 965,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 269,
+    "network_count": 270,
     "subscribers_count": 81
 }

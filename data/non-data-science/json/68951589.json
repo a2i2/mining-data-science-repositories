@@ -81,11 +81,11 @@
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 214,
+    "forks_count": 215,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 37,
+    "open_issues_count": 36,
     "license": {
         "key": "apache-2.0",
         "name": "Apache License 2.0",
@@ -93,8 +93,8 @@
         "url": "https://api.github.com/licenses/apache-2.0",
         "node_id": "MDc6TGljZW5zZTI="
     },
-    "forks": 214,
-    "open_issues": 37,
+    "forks": 215,
+    "open_issues": 36,
     "watchers": 448,
     "default_branch": "master",
     "permissions": {
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 214,
-    "subscribers_count": 92
+    "network_count": 215,
+    "subscribers_count": 91
 }

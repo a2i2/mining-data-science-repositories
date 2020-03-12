@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/bt3gl/Book_on_Python_Algorithms_and_Data_Structure/releases{/id}",
     "deployments_url": "https://api.github.com/repos/bt3gl/Book_on_Python_Algorithms_and_Data_Structure/deployments",
     "created_at": "2013-09-10T08:04:08Z",
-    "updated_at": "2020-03-06T02:07:09Z",
+    "updated_at": "2020-03-08T23:52:47Z",
     "pushed_at": "2020-03-05T01:48:58Z",
     "git_url": "git://github.com/bt3gl/Book_on_Python_Algorithms_and_Data_Structure.git",
     "ssh_url": "git@github.com:bt3gl/Book_on_Python_Algorithms_and_Data_Structure.git",
@@ -81,13 +81,13 @@
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 252,
+    "forks_count": 254,
     "mirror_url": null,
     "archived": true,
     "disabled": false,
     "open_issues_count": 0,
     "license": null,
-    "forks": 252,
+    "forks": 254,
     "open_issues": 0,
     "watchers": 569,
     "default_branch": "master",
@@ -97,6 +97,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 252,
+    "network_count": 254,
     "subscribers_count": 47
 }

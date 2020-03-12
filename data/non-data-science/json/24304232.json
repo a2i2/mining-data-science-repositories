@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/websploit/websploit/releases{/id}",
     "deployments_url": "https://api.github.com/repos/websploit/websploit/deployments",
     "created_at": "2014-09-21T21:15:28Z",
-    "updated_at": "2020-03-05T08:59:51Z",
+    "updated_at": "2020-03-07T18:23:00Z",
     "pushed_at": "2020-02-06T07:27:57Z",
     "git_url": "git://github.com/websploit/websploit.git",
     "ssh_url": "git@github.com:websploit/websploit.git",
@@ -73,19 +73,19 @@
     "svn_url": "https://github.com/websploit/websploit",
     "homepage": "",
     "size": 1323,
-    "stargazers_count": 327,
-    "watchers_count": 327,
+    "stargazers_count": 330,
+    "watchers_count": 330,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 158,
+    "forks_count": 161,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "license": {
         "key": "mit",
         "name": "MIT License",
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 158,
-    "open_issues": 0,
-    "watchers": 327,
+    "forks": 161,
+    "open_issues": 1,
+    "watchers": 330,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 158,
+    "network_count": 161,
     "subscribers_count": 44
 }

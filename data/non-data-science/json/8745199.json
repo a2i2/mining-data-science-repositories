@@ -81,13 +81,13 @@
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 567,
+    "forks_count": 569,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
     "open_issues_count": 47,
     "license": null,
-    "forks": 567,
+    "forks": 569,
     "open_issues": 47,
     "watchers": 384,
     "default_branch": "kinetic-devel",
@@ -117,6 +117,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 567,
+    "network_count": 569,
     "subscribers_count": 59
 }

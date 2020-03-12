@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/MaxHalford/flask-boilerplate/releases{/id}",
     "deployments_url": "https://api.github.com/repos/MaxHalford/flask-boilerplate/deployments",
     "created_at": "2015-11-23T20:12:35Z",
-    "updated_at": "2020-02-20T20:28:17Z",
+    "updated_at": "2020-03-11T10:18:38Z",
     "pushed_at": "2018-01-15T14:46:21Z",
     "git_url": "git://github.com/MaxHalford/flask-boilerplate.git",
     "ssh_url": "git@github.com:MaxHalford/flask-boilerplate.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/MaxHalford/flask-boilerplate",
     "homepage": "",
     "size": 916,
-    "stargazers_count": 277,
-    "watchers_count": 277,
+    "stargazers_count": 278,
+    "watchers_count": 278,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 87,
+    "forks_count": 88,
     "mirror_url": null,
     "archived": true,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 87,
+    "forks": 88,
     "open_issues": 6,
-    "watchers": 277,
+    "watchers": 278,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 87,
+    "network_count": 88,
     "subscribers_count": 14
 }

@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/man-group/PythonTrainingExercises/releases{/id}",
     "deployments_url": "https://api.github.com/repos/man-group/PythonTrainingExercises/deployments",
     "created_at": "2015-11-25T16:06:53Z",
-    "updated_at": "2020-02-26T03:49:50Z",
+    "updated_at": "2020-03-08T15:10:31Z",
     "pushed_at": "2018-02-07T13:52:52Z",
     "git_url": "git://github.com/man-group/PythonTrainingExercises.git",
     "ssh_url": "git@github.com:man-group/PythonTrainingExercises.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/man-group/PythonTrainingExercises",
     "homepage": null,
     "size": 114,
-    "stargazers_count": 144,
-    "watchers_count": 144,
+    "stargazers_count": 145,
+    "watchers_count": 145,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 91,
+    "forks_count": 92,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/bsd-3-clause",
         "node_id": "MDc6TGljZW5zZTU="
     },
-    "forks": 91,
+    "forks": 92,
     "open_issues": 2,
-    "watchers": 144,
+    "watchers": 145,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 91,
+    "network_count": 92,
     "subscribers_count": 34
 }

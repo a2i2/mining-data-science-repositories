@@ -81,11 +81,11 @@
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 120,
+    "forks_count": 121,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 51,
+    "open_issues_count": 52,
     "license": {
         "key": "gpl-2.0",
         "name": "GNU General Public License v2.0",
@@ -93,8 +93,8 @@
         "url": "https://api.github.com/licenses/gpl-2.0",
         "node_id": "MDc6TGljZW5zZTg="
     },
-    "forks": 120,
-    "open_issues": 51,
+    "forks": 121,
+    "open_issues": 52,
     "watchers": 247,
     "default_branch": "master",
     "permissions": {
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 120,
+    "network_count": 121,
     "subscribers_count": 33
 }

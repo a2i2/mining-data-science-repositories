@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/ableev/Zabbix-in-Telegram/releases{/id}",
     "deployments_url": "https://api.github.com/repos/ableev/Zabbix-in-Telegram/deployments",
     "created_at": "2015-07-14T23:41:15Z",
-    "updated_at": "2020-03-04T22:29:41Z",
+    "updated_at": "2020-03-10T13:36:01Z",
     "pushed_at": "2020-01-18T12:45:12Z",
     "git_url": "git://github.com/ableev/Zabbix-in-Telegram.git",
     "ssh_url": "git@github.com:ableev/Zabbix-in-Telegram.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/ableev/Zabbix-in-Telegram",
     "homepage": null,
     "size": 186,
-    "stargazers_count": 635,
-    "watchers_count": 635,
+    "stargazers_count": 638,
+    "watchers_count": 638,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": true,
-    "forks_count": 196,
+    "forks_count": 198,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 196,
+    "forks": 198,
     "open_issues": 40,
-    "watchers": 635,
+    "watchers": 638,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 196,
+    "network_count": 198,
     "subscribers_count": 90
 }

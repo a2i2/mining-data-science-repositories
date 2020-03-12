@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/hardikvasa/google-images-download/releases{/id}",
     "deployments_url": "https://api.github.com/repos/hardikvasa/google-images-download/deployments",
     "created_at": "2015-03-28T16:50:28Z",
-    "updated_at": "2020-03-05T22:24:03Z",
+    "updated_at": "2020-03-10T14:39:41Z",
     "pushed_at": "2020-02-25T19:52:07Z",
     "git_url": "git://github.com/hardikvasa/google-images-download.git",
     "ssh_url": "git@github.com:hardikvasa/google-images-download.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/hardikvasa/google-images-download",
     "homepage": "",
     "size": 260,
-    "stargazers_count": 6475,
-    "watchers_count": 6475,
+    "stargazers_count": 6495,
+    "watchers_count": 6495,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 1464,
+    "forks_count": 1472,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 1464,
+    "forks": 1472,
     "open_issues": 81,
-    "watchers": 6475,
+    "watchers": 6495,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 1464,
-    "subscribers_count": 183
+    "network_count": 1472,
+    "subscribers_count": 186
 }

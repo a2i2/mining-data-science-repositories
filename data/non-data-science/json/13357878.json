@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/pinterest/snappass/releases{/id}",
     "deployments_url": "https://api.github.com/repos/pinterest/snappass/deployments",
     "created_at": "2013-10-06T05:56:29Z",
-    "updated_at": "2020-03-04T13:04:48Z",
+    "updated_at": "2020-03-07T19:15:13Z",
     "pushed_at": "2019-12-24T15:28:43Z",
     "git_url": "git://github.com/pinterest/snappass.git",
     "ssh_url": "git@github.com:pinterest/snappass.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/pinterest/snappass",
     "homepage": "",
     "size": 1172,
-    "stargazers_count": 481,
-    "watchers_count": 481,
+    "stargazers_count": 482,
+    "watchers_count": 482,
     "language": "JavaScript",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 131,
+    "forks_count": 132,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 131,
+    "forks": 132,
     "open_issues": 8,
-    "watchers": 481,
+    "watchers": 482,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 131,
+    "network_count": 132,
     "subscribers_count": 31
 }

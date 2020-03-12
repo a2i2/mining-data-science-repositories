@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/phalt/swapi/releases{/id}",
     "deployments_url": "https://api.github.com/repos/phalt/swapi/deployments",
     "created_at": "2014-12-04T14:10:16Z",
-    "updated_at": "2020-03-05T21:50:29Z",
+    "updated_at": "2020-03-07T12:34:21Z",
     "pushed_at": "2020-02-12T00:13:08Z",
     "git_url": "git://github.com/phalt/swapi.git",
     "ssh_url": "git@github.com:phalt/swapi.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/phalt/swapi",
     "homepage": "https://github.com/phalt/phalt.github.io/blob/master/pokeapi-and-swapi-going-forward.md",
     "size": 198,
-    "stargazers_count": 811,
-    "watchers_count": 811,
+    "stargazers_count": 812,
+    "watchers_count": 812,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 166,
+    "forks_count": 169,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/bsd-3-clause",
         "node_id": "MDc6TGljZW5zZTU="
     },
-    "forks": 166,
+    "forks": 169,
     "open_issues": 59,
-    "watchers": 811,
+    "watchers": 812,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 166,
+    "network_count": 169,
     "subscribers_count": 29
 }

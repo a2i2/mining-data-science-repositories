@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/python-hyper/hyper/releases{/id}",
     "deployments_url": "https://api.github.com/repos/python-hyper/hyper/deployments",
     "created_at": "2014-01-23T07:53:47Z",
-    "updated_at": "2020-03-05T08:41:21Z",
+    "updated_at": "2020-03-10T20:20:12Z",
     "pushed_at": "2020-02-23T08:14:00Z",
     "git_url": "git://github.com/python-hyper/hyper.git",
     "ssh_url": "git@github.com:python-hyper/hyper.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/python-hyper/hyper",
     "homepage": "http://hyper.rtfd.org/en/latest/",
     "size": 12191,
-    "stargazers_count": 965,
-    "watchers_count": 965,
+    "stargazers_count": 968,
+    "watchers_count": 968,
     "language": "Python",
     "has_issues": true,
     "has_projects": false,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 151,
+    "forks_count": 152,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 151,
+    "forks": 152,
     "open_issues": 91,
-    "watchers": 965,
+    "watchers": 968,
     "default_branch": "development",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 151,
+    "network_count": 152,
     "subscribers_count": 49
 }

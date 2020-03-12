@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/agermanidis/autosub/releases{/id}",
     "deployments_url": "https://api.github.com/repos/agermanidis/autosub/deployments",
     "created_at": "2015-06-29T04:15:09Z",
-    "updated_at": "2020-03-06T00:57:57Z",
+    "updated_at": "2020-03-11T08:36:30Z",
     "pushed_at": "2020-02-24T11:20:39Z",
     "git_url": "git://github.com/agermanidis/autosub.git",
     "ssh_url": "git@github.com:agermanidis/autosub.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/agermanidis/autosub",
     "homepage": "",
     "size": 74,
-    "stargazers_count": 2517,
-    "watchers_count": 2517,
+    "stargazers_count": 2539,
+    "watchers_count": 2539,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 563,
+    "forks_count": 571,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 563,
+    "forks": 571,
     "open_issues": 106,
-    "watchers": 2517,
+    "watchers": 2539,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 563,
+    "network_count": 571,
     "subscribers_count": 114
 }

@@ -66,7 +66,7 @@
     "deployments_url": "https://api.github.com/repos/openstack/solum/deployments",
     "created_at": "2013-10-29T20:49:24Z",
     "updated_at": "2020-02-24T08:56:01Z",
-    "pushed_at": "2020-03-03T09:48:37Z",
+    "pushed_at": "2020-03-10T08:18:24Z",
     "git_url": "git://github.com/openstack/solum.git",
     "ssh_url": "git@github.com:openstack/solum.git",
     "clone_url": "https://github.com/openstack/solum.git",

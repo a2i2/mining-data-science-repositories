@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/numenta/NAB/releases{/id}",
     "deployments_url": "https://api.github.com/repos/numenta/NAB/deployments",
     "created_at": "2014-05-06T17:39:21Z",
-    "updated_at": "2020-03-04T11:45:04Z",
+    "updated_at": "2020-03-06T19:19:37Z",
     "pushed_at": "2020-02-05T15:20:01Z",
     "git_url": "git://github.com/numenta/NAB.git",
     "ssh_url": "git@github.com:numenta/NAB.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/numenta/NAB",
     "homepage": "",
     "size": 85217,
-    "stargazers_count": 1028,
-    "watchers_count": 1028,
+    "stargazers_count": 1030,
+    "watchers_count": 1030,
     "language": "Jupyter Notebook",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 480,
+    "forks_count": 479,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/agpl-3.0",
         "node_id": "MDc6TGljZW5zZTE="
     },
-    "forks": 480,
+    "forks": 479,
     "open_issues": 15,
-    "watchers": 1028,
+    "watchers": 1030,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 480,
+    "network_count": 479,
     "subscribers_count": 97
 }

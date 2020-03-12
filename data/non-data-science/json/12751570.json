@@ -65,14 +65,14 @@
     "releases_url": "https://api.github.com/repos/flaskbb/flaskbb/releases{/id}",
     "deployments_url": "https://api.github.com/repos/flaskbb/flaskbb/deployments",
     "created_at": "2013-09-11T08:39:17Z",
-    "updated_at": "2020-03-06T01:09:58Z",
-    "pushed_at": "2020-02-05T12:27:31Z",
+    "updated_at": "2020-03-10T09:04:58Z",
+    "pushed_at": "2020-03-10T09:04:57Z",
     "git_url": "git://github.com/flaskbb/flaskbb.git",
     "ssh_url": "git@github.com:flaskbb/flaskbb.git",
     "clone_url": "https://github.com/flaskbb/flaskbb.git",
     "svn_url": "https://github.com/flaskbb/flaskbb",
     "homepage": "https://flaskbb.org",
-    "size": 8648,
+    "size": 8652,
     "stargazers_count": 1768,
     "watchers_count": 1768,
     "language": "Python",
@@ -81,11 +81,11 @@
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 456,
+    "forks_count": 455,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 30,
+    "open_issues_count": 29,
     "license": {
         "key": "other",
         "name": "Other",
@@ -93,8 +93,8 @@
         "url": null,
         "node_id": "MDc6TGljZW5zZTA="
     },
-    "forks": 456,
-    "open_issues": 30,
+    "forks": 455,
+    "open_issues": 29,
     "watchers": 1768,
     "default_branch": "master",
     "permissions": {
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 456,
-    "subscribers_count": 119
+    "network_count": 455,
+    "subscribers_count": 118
 }

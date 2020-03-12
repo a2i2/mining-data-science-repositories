@@ -65,16 +65,16 @@
     "releases_url": "https://api.github.com/repos/pyro-ppl/pyro/releases{/id}",
     "deployments_url": "https://api.github.com/repos/pyro-ppl/pyro/deployments",
     "created_at": "2017-06-16T05:03:47Z",
-    "updated_at": "2020-03-05T17:03:31Z",
-    "pushed_at": "2020-03-05T22:28:01Z",
+    "updated_at": "2020-03-11T00:35:37Z",
+    "pushed_at": "2020-03-11T00:35:35Z",
     "git_url": "git://github.com/pyro-ppl/pyro.git",
     "ssh_url": "git@github.com:pyro-ppl/pyro.git",
     "clone_url": "https://github.com/pyro-ppl/pyro.git",
     "svn_url": "https://github.com/pyro-ppl/pyro",
     "homepage": "http://pyro.ai",
-    "size": 61171,
-    "stargazers_count": 6050,
-    "watchers_count": 6050,
+    "size": 63718,
+    "stargazers_count": 6068,
+    "watchers_count": 6068,
     "language": "Python",
     "has_issues": true,
     "has_projects": false,
@@ -85,7 +85,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 102,
+    "open_issues_count": 103,
     "license": {
         "key": "apache-2.0",
         "name": "Apache License 2.0",
@@ -94,8 +94,8 @@
         "node_id": "MDc6TGljZW5zZTI="
     },
     "forks": 709,
-    "open_issues": 102,
-    "watchers": 6050,
+    "open_issues": 103,
+    "watchers": 6068,
     "default_branch": "dev",
     "permissions": {
         "admin": false,
@@ -124,5 +124,5 @@
         "site_admin": false
     },
     "network_count": 709,
-    "subscribers_count": 224
+    "subscribers_count": 225
 }

@@ -66,7 +66,7 @@
     "deployments_url": "https://api.github.com/repos/vintasoftware/django-templated-email/deployments",
     "created_at": "2011-03-16T20:27:16Z",
     "updated_at": "2020-03-04T12:04:37Z",
-    "pushed_at": "2019-06-27T13:09:12Z",
+    "pushed_at": "2020-03-08T00:28:02Z",
     "git_url": "git://github.com/vintasoftware/django-templated-email.git",
     "ssh_url": "git@github.com:vintasoftware/django-templated-email.git",
     "clone_url": "https://github.com/vintasoftware/django-templated-email.git",
@@ -81,11 +81,11 @@
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 112,
+    "forks_count": 113,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 12,
+    "open_issues_count": 13,
     "license": {
         "key": "mit",
         "name": "MIT License",
@@ -93,8 +93,8 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 112,
-    "open_issues": 12,
+    "forks": 113,
+    "open_issues": 13,
     "watchers": 490,
     "default_branch": "develop",
     "permissions": {
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 112,
+    "network_count": 113,
     "subscribers_count": 45
 }

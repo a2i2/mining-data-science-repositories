@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/kuri65536/python-for-android/releases{/id}",
     "deployments_url": "https://api.github.com/repos/kuri65536/python-for-android/deployments",
     "created_at": "2015-03-14T22:44:36Z",
-    "updated_at": "2020-02-27T11:54:24Z",
+    "updated_at": "2020-03-06T13:12:38Z",
     "pushed_at": "2019-05-06T00:49:00Z",
     "git_url": "git://github.com/kuri65536/python-for-android.git",
     "ssh_url": "git@github.com:kuri65536/python-for-android.git",
@@ -104,5 +104,5 @@
     },
     "temp_clone_token": "",
     "network_count": 91,
-    "subscribers_count": 33
+    "subscribers_count": 32
 }

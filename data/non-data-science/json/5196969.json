@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/chardet/chardet/releases{/id}",
     "deployments_url": "https://api.github.com/repos/chardet/chardet/deployments",
     "created_at": "2012-07-26T20:30:54Z",
-    "updated_at": "2020-03-05T13:56:37Z",
+    "updated_at": "2020-03-11T02:24:17Z",
     "pushed_at": "2020-02-17T17:36:15Z",
     "git_url": "git://github.com/chardet/chardet.git",
     "ssh_url": "git@github.com:chardet/chardet.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/chardet/chardet",
     "homepage": "",
     "size": 3877,
-    "stargazers_count": 1270,
-    "watchers_count": 1270,
+    "stargazers_count": 1273,
+    "watchers_count": 1273,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 176,
+    "forks_count": 178,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/lgpl-2.1",
         "node_id": "MDc6TGljZW5zZTEx"
     },
-    "forks": 176,
+    "forks": 178,
     "open_issues": 58,
-    "watchers": 1270,
+    "watchers": 1273,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 176,
-    "subscribers_count": 41
+    "network_count": 178,
+    "subscribers_count": 42
 }

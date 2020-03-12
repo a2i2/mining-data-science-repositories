@@ -65,14 +65,14 @@
     "releases_url": "https://api.github.com/repos/home-assistant/supervisor/releases{/id}",
     "deployments_url": "https://api.github.com/repos/home-assistant/supervisor/deployments",
     "created_at": "2017-03-14T08:54:15Z",
-    "updated_at": "2020-03-05T14:54:27Z",
-    "pushed_at": "2020-03-05T14:54:28Z",
+    "updated_at": "2020-03-10T01:22:07Z",
+    "pushed_at": "2020-03-06T11:43:44Z",
     "git_url": "git://github.com/home-assistant/supervisor.git",
     "ssh_url": "git@github.com:home-assistant/supervisor.git",
     "clone_url": "https://github.com/home-assistant/supervisor.git",
     "svn_url": "https://github.com/home-assistant/supervisor",
     "homepage": "https://home-assistant.io/hassio/",
-    "size": 22351,
+    "size": 22325,
     "stargazers_count": 612,
     "watchers_count": 612,
     "language": "Python",
@@ -85,7 +85,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 32,
+    "open_issues_count": 31,
     "license": {
         "key": "apache-2.0",
         "name": "Apache License 2.0",
@@ -94,7 +94,7 @@
         "node_id": "MDc6TGljZW5zZTI="
     },
     "forks": 157,
-    "open_issues": 32,
+    "open_issues": 31,
     "watchers": 612,
     "default_branch": "dev",
     "permissions": {
@@ -124,5 +124,5 @@
         "site_admin": false
     },
     "network_count": 157,
-    "subscribers_count": 49
+    "subscribers_count": 50
 }

@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/junxiaosong/AlphaZero_Gomoku/releases{/id}",
     "deployments_url": "https://api.github.com/repos/junxiaosong/AlphaZero_Gomoku/deployments",
     "created_at": "2017-12-21T09:49:40Z",
-    "updated_at": "2020-03-05T06:22:25Z",
+    "updated_at": "2020-03-10T13:05:52Z",
     "pushed_at": "2019-03-20T10:07:42Z",
     "git_url": "git://github.com/junxiaosong/AlphaZero_Gomoku.git",
     "ssh_url": "git@github.com:junxiaosong/AlphaZero_Gomoku.git",
@@ -73,19 +73,19 @@
     "svn_url": "https://github.com/junxiaosong/AlphaZero_Gomoku",
     "homepage": null,
     "size": 6653,
-    "stargazers_count": 1932,
-    "watchers_count": 1932,
+    "stargazers_count": 1940,
+    "watchers_count": 1940,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 646,
+    "forks_count": 648,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 51,
+    "open_issues_count": 52,
     "license": {
         "key": "mit",
         "name": "MIT License",
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 646,
-    "open_issues": 51,
-    "watchers": 1932,
+    "forks": 648,
+    "open_issues": 52,
+    "watchers": 1940,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 646,
-    "subscribers_count": 97
+    "network_count": 648,
+    "subscribers_count": 98
 }

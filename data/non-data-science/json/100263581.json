@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/sammchardy/python-binance/releases{/id}",
     "deployments_url": "https://api.github.com/repos/sammchardy/python-binance/deployments",
     "created_at": "2017-08-14T12:09:45Z",
-    "updated_at": "2020-03-04T18:37:10Z",
+    "updated_at": "2020-03-10T20:02:00Z",
     "pushed_at": "2020-02-23T17:05:53Z",
     "git_url": "git://github.com/sammchardy/python-binance.git",
     "ssh_url": "git@github.com:sammchardy/python-binance.git",
@@ -73,19 +73,19 @@
     "svn_url": "https://github.com/sammchardy/python-binance",
     "homepage": "https://python-binance.readthedocs.io/en/latest/",
     "size": 659,
-    "stargazers_count": 1648,
-    "watchers_count": 1648,
+    "stargazers_count": 1655,
+    "watchers_count": 1655,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": true,
-    "forks_count": 821,
+    "forks_count": 823,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 170,
+    "open_issues_count": 171,
     "license": {
         "key": "mit",
         "name": "MIT License",
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 821,
-    "open_issues": 170,
-    "watchers": 1648,
+    "forks": 823,
+    "open_issues": 171,
+    "watchers": 1655,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 821,
-    "subscribers_count": 141
+    "network_count": 823,
+    "subscribers_count": 142
 }

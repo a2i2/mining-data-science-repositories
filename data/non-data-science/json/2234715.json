@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/JonathanSalwan/ROPgadget/releases{/id}",
     "deployments_url": "https://api.github.com/repos/JonathanSalwan/ROPgadget/deployments",
     "created_at": "2011-08-19T15:30:14Z",
-    "updated_at": "2020-03-04T01:15:32Z",
+    "updated_at": "2020-03-10T11:35:34Z",
     "pushed_at": "2020-02-28T14:22:39Z",
     "git_url": "git://github.com/JonathanSalwan/ROPgadget.git",
     "ssh_url": "git@github.com:JonathanSalwan/ROPgadget.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/JonathanSalwan/ROPgadget",
     "homepage": "http://www.shell-storm.org/project/ROPgadget/",
     "size": 13349,
-    "stargazers_count": 2221,
-    "watchers_count": 2221,
+    "stargazers_count": 2226,
+    "watchers_count": 2226,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 456,
+    "forks_count": 458,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": null,
         "node_id": "MDc6TGljZW5zZTA="
     },
-    "forks": 456,
+    "forks": 458,
     "open_issues": 17,
-    "watchers": 2221,
+    "watchers": 2226,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 456,
-    "subscribers_count": 120
+    "network_count": 458,
+    "subscribers_count": 121
 }

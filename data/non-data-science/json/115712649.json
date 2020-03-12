@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/layumi/Person_reID_baseline_pytorch/releases{/id}",
     "deployments_url": "https://api.github.com/repos/layumi/Person_reID_baseline_pytorch/deployments",
     "created_at": "2017-12-29T10:22:41Z",
-    "updated_at": "2020-03-05T00:51:47Z",
+    "updated_at": "2020-03-11T12:38:20Z",
     "pushed_at": "2020-03-05T00:51:45Z",
     "git_url": "git://github.com/layumi/Person_reID_baseline_pytorch.git",
     "ssh_url": "git@github.com:layumi/Person_reID_baseline_pytorch.git",
@@ -73,19 +73,19 @@
     "svn_url": "https://github.com/layumi/Person_reID_baseline_pytorch",
     "homepage": "",
     "size": 1196,
-    "stargazers_count": 1889,
-    "watchers_count": 1889,
+    "stargazers_count": 1892,
+    "watchers_count": 1892,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 588,
+    "forks_count": 590,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 34,
+    "open_issues_count": 36,
     "license": {
         "key": "mit",
         "name": "MIT License",
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 588,
-    "open_issues": 34,
-    "watchers": 1889,
+    "forks": 590,
+    "open_issues": 36,
+    "watchers": 1892,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 588,
+    "network_count": 590,
     "subscribers_count": 71
 }

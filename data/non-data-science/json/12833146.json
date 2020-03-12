@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/leonsim/simhash/releases{/id}",
     "deployments_url": "https://api.github.com/repos/leonsim/simhash/deployments",
     "created_at": "2013-09-14T17:30:26Z",
-    "updated_at": "2020-03-05T02:56:34Z",
+    "updated_at": "2020-03-09T02:30:56Z",
     "pushed_at": "2019-02-12T08:19:19Z",
     "git_url": "git://github.com/leonsim/simhash.git",
     "ssh_url": "git@github.com:leonsim/simhash.git",
@@ -81,7 +81,7 @@
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 175,
+    "forks_count": 177,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,7 +93,7 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 175,
+    "forks": 177,
     "open_issues": 5,
     "watchers": 646,
     "default_branch": "master",
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 175,
+    "network_count": 177,
     "subscribers_count": 23
 }

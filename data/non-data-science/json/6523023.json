@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/tgalal/yowsup/releases{/id}",
     "deployments_url": "https://api.github.com/repos/tgalal/yowsup/deployments",
     "created_at": "2012-11-03T19:00:14Z",
-    "updated_at": "2020-03-05T13:50:21Z",
+    "updated_at": "2020-03-10T16:37:15Z",
     "pushed_at": "2020-01-28T08:01:42Z",
     "git_url": "git://github.com/tgalal/yowsup.git",
     "ssh_url": "git@github.com:tgalal/yowsup.git",
@@ -73,19 +73,19 @@
     "svn_url": "https://github.com/tgalal/yowsup",
     "homepage": "",
     "size": 1963,
-    "stargazers_count": 6153,
-    "watchers_count": 6153,
+    "stargazers_count": 6161,
+    "watchers_count": 6161,
     "language": "Python",
     "has_issues": true,
     "has_projects": false,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 2112,
+    "forks_count": 2115,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 289,
+    "open_issues_count": 292,
     "license": {
         "key": "gpl-3.0",
         "name": "GNU General Public License v3.0",
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/gpl-3.0",
         "node_id": "MDc6TGljZW5zZTk="
     },
-    "forks": 2112,
-    "open_issues": 289,
-    "watchers": 6153,
+    "forks": 2115,
+    "open_issues": 292,
+    "watchers": 6161,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 2112,
-    "subscribers_count": 513
+    "network_count": 2115,
+    "subscribers_count": 515
 }

@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/n1nj4sec/memorpy/releases{/id}",
     "deployments_url": "https://api.github.com/repos/n1nj4sec/memorpy/deployments",
     "created_at": "2015-05-23T18:11:22Z",
-    "updated_at": "2020-03-03T02:25:37Z",
+    "updated_at": "2020-03-09T17:47:22Z",
     "pushed_at": "2019-07-30T15:31:39Z",
     "git_url": "git://github.com/n1nj4sec/memorpy.git",
     "ssh_url": "git@github.com:n1nj4sec/memorpy.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/n1nj4sec/memorpy",
     "homepage": "",
     "size": 75,
-    "stargazers_count": 681,
-    "watchers_count": 681,
+    "stargazers_count": 683,
+    "watchers_count": 683,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 115,
+    "forks_count": 116,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/gpl-3.0",
         "node_id": "MDc6TGljZW5zZTk="
     },
-    "forks": 115,
+    "forks": 116,
     "open_issues": 14,
-    "watchers": 681,
+    "watchers": 683,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 115,
-    "subscribers_count": 52
+    "network_count": 116,
+    "subscribers_count": 51
 }

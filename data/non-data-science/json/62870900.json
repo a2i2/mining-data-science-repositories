@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/philipperemy/Stanford-OpenIE-Python/releases{/id}",
     "deployments_url": "https://api.github.com/repos/philipperemy/Stanford-OpenIE-Python/deployments",
     "created_at": "2016-07-08T08:13:19Z",
-    "updated_at": "2020-03-03T13:16:24Z",
+    "updated_at": "2020-03-09T08:05:04Z",
     "pushed_at": "2019-12-15T07:40:08Z",
     "git_url": "git://github.com/philipperemy/Stanford-OpenIE-Python.git",
     "ssh_url": "git@github.com:philipperemy/Stanford-OpenIE-Python.git",
@@ -73,19 +73,19 @@
     "svn_url": "https://github.com/philipperemy/Stanford-OpenIE-Python",
     "homepage": "",
     "size": 64885,
-    "stargazers_count": 231,
-    "watchers_count": 231,
+    "stargazers_count": 234,
+    "watchers_count": 234,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 62,
+    "forks_count": 63,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "license": {
         "key": "isc",
         "name": "ISC License",
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/isc",
         "node_id": "MDc6TGljZW5zZTEw"
     },
-    "forks": 62,
-    "open_issues": 0,
-    "watchers": 231,
+    "forks": 63,
+    "open_issues": 1,
+    "watchers": 234,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 62,
+    "network_count": 63,
     "subscribers_count": 9
 }

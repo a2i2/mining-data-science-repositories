@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/CacheBrowser/cachebrowser/releases{/id}",
     "deployments_url": "https://api.github.com/repos/CacheBrowser/cachebrowser/deployments",
     "created_at": "2015-11-03T20:34:42Z",
-    "updated_at": "2020-02-28T19:59:33Z",
+    "updated_at": "2020-03-09T10:33:33Z",
     "pushed_at": "2018-04-12T00:03:12Z",
     "git_url": "git://github.com/CacheBrowser/cachebrowser.git",
     "ssh_url": "git@github.com:CacheBrowser/cachebrowser.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/CacheBrowser/cachebrowser",
     "homepage": "https://www.cachebrowser.net",
     "size": 425,
-    "stargazers_count": 1018,
-    "watchers_count": 1018,
+    "stargazers_count": 1017,
+    "watchers_count": 1017,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 149,
+    "forks_count": 150,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 149,
+    "forks": 150,
     "open_issues": 9,
-    "watchers": 1018,
+    "watchers": 1017,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 149,
+    "network_count": 150,
     "subscribers_count": 89
 }

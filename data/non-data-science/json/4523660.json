@@ -66,13 +66,13 @@
     "deployments_url": "https://api.github.com/repos/seomoz/simhash-py/deployments",
     "created_at": "2012-06-01T19:56:30Z",
     "updated_at": "2020-03-04T06:05:19Z",
-    "pushed_at": "2019-11-20T19:34:02Z",
+    "pushed_at": "2020-03-11T11:43:45Z",
     "git_url": "git://github.com/seomoz/simhash-py.git",
     "ssh_url": "git@github.com:seomoz/simhash-py.git",
     "clone_url": "https://github.com/seomoz/simhash-py.git",
     "svn_url": "https://github.com/seomoz/simhash-py",
     "homepage": null,
-    "size": 133,
+    "size": 134,
     "stargazers_count": 272,
     "watchers_count": 272,
     "language": "Python",
@@ -85,7 +85,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 8,
+    "open_issues_count": 9,
     "license": {
         "key": "mit",
         "name": "MIT License",
@@ -94,7 +94,7 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "forks": 97,
-    "open_issues": 8,
+    "open_issues": 9,
     "watchers": 272,
     "default_branch": "master",
     "permissions": {

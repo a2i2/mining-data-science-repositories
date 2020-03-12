@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/awailly/cis-ubuntu-ansible/releases{/id}",
     "deployments_url": "https://api.github.com/repos/awailly/cis-ubuntu-ansible/deployments",
     "created_at": "2015-02-27T10:14:16Z",
-    "updated_at": "2020-01-08T16:23:17Z",
+    "updated_at": "2020-03-08T06:00:50Z",
     "pushed_at": "2017-09-17T04:51:25Z",
     "git_url": "git://github.com/awailly/cis-ubuntu-ansible.git",
     "ssh_url": "git@github.com:awailly/cis-ubuntu-ansible.git",

@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/asweigart/pyautogui/releases{/id}",
     "deployments_url": "https://api.github.com/repos/asweigart/pyautogui/deployments",
     "created_at": "2014-07-17T23:30:38Z",
-    "updated_at": "2020-03-05T16:49:26Z",
+    "updated_at": "2020-03-11T08:01:38Z",
     "pushed_at": "2020-02-26T01:39:22Z",
     "git_url": "git://github.com/asweigart/pyautogui.git",
     "ssh_url": "git@github.com:asweigart/pyautogui.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/asweigart/pyautogui",
     "homepage": "",
     "size": 2326,
-    "stargazers_count": 3521,
-    "watchers_count": 3521,
+    "stargazers_count": 3550,
+    "watchers_count": 3550,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 494,
+    "forks_count": 498,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/bsd-3-clause",
         "node_id": "MDc6TGljZW5zZTU="
     },
-    "forks": 494,
+    "forks": 498,
     "open_issues": 222,
-    "watchers": 3521,
+    "watchers": 3550,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 494,
+    "network_count": 498,
     "subscribers_count": 144
 }

@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/williamleif/histwords/releases{/id}",
     "deployments_url": "https://api.github.com/repos/williamleif/histwords/deployments",
     "created_at": "2016-05-28T18:02:22Z",
-    "updated_at": "2020-02-29T15:42:52Z",
+    "updated_at": "2020-03-10T14:13:58Z",
     "pushed_at": "2017-10-25T19:49:31Z",
     "git_url": "git://github.com/williamleif/histwords.git",
     "ssh_url": "git@github.com:williamleif/histwords.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/williamleif/histwords",
     "homepage": "http://nlp.stanford.edu/projects/histwords/",
     "size": 1044,
-    "stargazers_count": 276,
-    "watchers_count": 276,
+    "stargazers_count": 277,
+    "watchers_count": 277,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 61,
+    "forks_count": 62,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/apache-2.0",
         "node_id": "MDc6TGljZW5zZTI="
     },
-    "forks": 61,
+    "forks": 62,
     "open_issues": 2,
-    "watchers": 276,
+    "watchers": 277,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 61,
+    "network_count": 62,
     "subscribers_count": 19
 }

@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/ipedrazas/taiga-docker/releases{/id}",
     "deployments_url": "https://api.github.com/repos/ipedrazas/taiga-docker/deployments",
     "created_at": "2014-10-04T15:35:53Z",
-    "updated_at": "2020-02-23T10:46:06Z",
+    "updated_at": "2020-03-10T16:58:45Z",
     "pushed_at": "2018-01-18T11:28:15Z",
     "git_url": "git://github.com/ipedrazas/taiga-docker.git",
     "ssh_url": "git@github.com:ipedrazas/taiga-docker.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/ipedrazas/taiga-docker",
     "homepage": null,
     "size": 87,
-    "stargazers_count": 320,
-    "watchers_count": 320,
+    "stargazers_count": 322,
+    "watchers_count": 322,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 127,
+    "forks_count": 128,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/apache-2.0",
         "node_id": "MDc6TGljZW5zZTI="
     },
-    "forks": 127,
+    "forks": 128,
     "open_issues": 20,
-    "watchers": 320,
+    "watchers": 322,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 127,
+    "network_count": 128,
     "subscribers_count": 12
 }

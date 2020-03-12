@@ -65,14 +65,14 @@
     "releases_url": "https://api.github.com/repos/blissland/blissflixx/releases{/id}",
     "deployments_url": "https://api.github.com/repos/blissland/blissflixx/deployments",
     "created_at": "2015-02-03T18:01:40Z",
-    "updated_at": "2019-12-07T07:02:35Z",
-    "pushed_at": "2019-06-19T04:51:42Z",
+    "updated_at": "2020-03-08T18:18:47Z",
+    "pushed_at": "2020-03-08T18:18:45Z",
     "git_url": "git://github.com/blissland/blissflixx.git",
     "ssh_url": "git@github.com:blissland/blissflixx.git",
     "clone_url": "https://github.com/blissland/blissflixx.git",
     "svn_url": "https://github.com/blissland/blissflixx",
     "homepage": "http://blissflixx.rocks",
-    "size": 6082,
+    "size": 6084,
     "stargazers_count": 88,
     "watchers_count": 88,
     "language": "Python",
@@ -85,7 +85,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 8,
+    "open_issues_count": 9,
     "license": {
         "key": "gpl-2.0",
         "name": "GNU General Public License v2.0",
@@ -94,7 +94,7 @@
         "node_id": "MDc6TGljZW5zZTg="
     },
     "forks": 26,
-    "open_issues": 8,
+    "open_issues": 9,
     "watchers": 88,
     "default_branch": "master",
     "permissions": {
@@ -104,5 +104,5 @@
     },
     "temp_clone_token": "",
     "network_count": 26,
-    "subscribers_count": 10
+    "subscribers_count": 9
 }

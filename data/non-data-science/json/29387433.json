@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/wecite/papers/releases{/id}",
     "deployments_url": "https://api.github.com/repos/wecite/papers/deployments",
     "created_at": "2015-01-17T10:16:14Z",
-    "updated_at": "2020-02-24T02:47:32Z",
+    "updated_at": "2020-03-07T15:49:46Z",
     "pushed_at": "2016-12-19T07:48:20Z",
     "git_url": "git://github.com/wecite/papers.git",
     "ssh_url": "git@github.com:wecite/papers.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/wecite/papers",
     "homepage": null,
     "size": 414,
-    "stargazers_count": 291,
-    "watchers_count": 291,
+    "stargazers_count": 292,
+    "watchers_count": 292,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -89,7 +89,7 @@
     "license": null,
     "forks": 53,
     "open_issues": 0,
-    "watchers": 291,
+    "watchers": 292,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -98,5 +98,5 @@
     },
     "temp_clone_token": "",
     "network_count": 53,
-    "subscribers_count": 49
+    "subscribers_count": 50
 }

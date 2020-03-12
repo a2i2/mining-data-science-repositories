@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/paicha/gxgk-wechat-server/releases{/id}",
     "deployments_url": "https://api.github.com/repos/paicha/gxgk-wechat-server/deployments",
     "created_at": "2015-08-17T07:54:29Z",
-    "updated_at": "2020-03-05T01:38:59Z",
+    "updated_at": "2020-03-08T23:07:34Z",
     "pushed_at": "2018-10-30T02:37:46Z",
     "git_url": "git://github.com/paicha/gxgk-wechat-server.git",
     "ssh_url": "git@github.com:paicha/gxgk-wechat-server.git",
@@ -81,7 +81,7 @@
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 533,
+    "forks_count": 534,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,7 +93,7 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 533,
+    "forks": 534,
     "open_issues": 1,
     "watchers": 1298,
     "default_branch": "master",
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 533,
+    "network_count": 534,
     "subscribers_count": 130
 }

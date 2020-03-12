@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/PyCQA/flake8/releases{/id}",
     "deployments_url": "https://api.github.com/repos/PyCQA/flake8/deployments",
     "created_at": "2014-09-13T17:06:24Z",
-    "updated_at": "2020-03-05T17:52:28Z",
+    "updated_at": "2020-03-11T02:07:48Z",
     "pushed_at": "2020-01-27T16:40:35Z",
     "git_url": "git://github.com/PyCQA/flake8.git",
     "ssh_url": "git@github.com:PyCQA/flake8.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/PyCQA/flake8",
     "homepage": "http://flake8.pycqa.org",
     "size": 2956,
-    "stargazers_count": 798,
-    "watchers_count": 798,
+    "stargazers_count": 806,
+    "watchers_count": 806,
     "language": "Python",
     "has_issues": false,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 108,
     "open_issues": 22,
-    "watchers": 798,
+    "watchers": 806,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -124,5 +124,5 @@
         "site_admin": false
     },
     "network_count": 108,
-    "subscribers_count": 24
+    "subscribers_count": 25
 }

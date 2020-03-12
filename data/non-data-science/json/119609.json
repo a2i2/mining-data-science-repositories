@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/paramiko/paramiko/releases{/id}",
     "deployments_url": "https://api.github.com/repos/paramiko/paramiko/deployments",
     "created_at": "2009-02-02T03:41:08Z",
-    "updated_at": "2020-03-06T01:11:09Z",
+    "updated_at": "2020-03-11T04:27:55Z",
     "pushed_at": "2020-02-27T06:13:38Z",
     "git_url": "git://github.com/paramiko/paramiko.git",
     "ssh_url": "git@github.com:paramiko/paramiko.git",
@@ -73,19 +73,19 @@
     "svn_url": "https://github.com/paramiko/paramiko",
     "homepage": "http://paramiko.org",
     "size": 7586,
-    "stargazers_count": 6080,
-    "watchers_count": 6080,
+    "stargazers_count": 6098,
+    "watchers_count": 6098,
     "language": "Python",
     "has_issues": true,
     "has_projects": false,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 1496,
+    "forks_count": 1495,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 699,
+    "open_issues_count": 701,
     "license": {
         "key": "lgpl-2.1",
         "name": "GNU Lesser General Public License v2.1",
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/lgpl-2.1",
         "node_id": "MDc6TGljZW5zZTEx"
     },
-    "forks": 1496,
-    "open_issues": 699,
-    "watchers": 6080,
+    "forks": 1495,
+    "open_issues": 701,
+    "watchers": 6098,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 1496,
-    "subscribers_count": 326
+    "network_count": 1495,
+    "subscribers_count": 325
 }

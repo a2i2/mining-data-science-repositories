@@ -65,14 +65,14 @@
     "releases_url": "https://api.github.com/repos/davidemms/OrthoFinder/releases{/id}",
     "deployments_url": "https://api.github.com/repos/davidemms/OrthoFinder/deployments",
     "created_at": "2015-06-29T09:03:34Z",
-    "updated_at": "2020-03-05T23:20:33Z",
-    "pushed_at": "2020-02-24T10:05:23Z",
+    "updated_at": "2020-03-10T11:56:01Z",
+    "pushed_at": "2020-03-10T11:55:59Z",
     "git_url": "git://github.com/davidemms/OrthoFinder.git",
     "ssh_url": "git@github.com:davidemms/OrthoFinder.git",
     "clone_url": "https://github.com/davidemms/OrthoFinder.git",
     "svn_url": "https://github.com/davidemms/OrthoFinder",
     "homepage": "https://davidemms.github.io/",
-    "size": 26227,
+    "size": 26253,
     "stargazers_count": 244,
     "watchers_count": 244,
     "language": "Python",
@@ -81,11 +81,11 @@
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 92,
+    "forks_count": 94,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 13,
+    "open_issues_count": 17,
     "license": {
         "key": "gpl-3.0",
         "name": "GNU General Public License v3.0",
@@ -93,8 +93,8 @@
         "url": "https://api.github.com/licenses/gpl-3.0",
         "node_id": "MDc6TGljZW5zZTk="
     },
-    "forks": 92,
-    "open_issues": 13,
+    "forks": 94,
+    "open_issues": 17,
     "watchers": 244,
     "default_branch": "master",
     "permissions": {
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 92,
-    "subscribers_count": 20
+    "network_count": 94,
+    "subscribers_count": 19
 }

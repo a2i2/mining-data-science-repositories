@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/emcconville/wand/releases{/id}",
     "deployments_url": "https://api.github.com/repos/emcconville/wand/deployments",
     "created_at": "2011-09-30T21:36:38Z",
-    "updated_at": "2020-03-05T20:41:08Z",
+    "updated_at": "2020-03-06T14:12:51Z",
     "pushed_at": "2020-03-05T11:46:51Z",
     "git_url": "git://github.com/emcconville/wand.git",
     "ssh_url": "git@github.com:emcconville/wand.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/emcconville/wand",
     "homepage": "http://docs.wand-py.org/",
     "size": 15991,
-    "stargazers_count": 962,
-    "watchers_count": 962,
+    "stargazers_count": 963,
+    "watchers_count": 963,
     "language": "Python",
     "has_issues": true,
     "has_projects": false,
@@ -85,7 +85,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 22,
+    "open_issues_count": 26,
     "license": {
         "key": "other",
         "name": "Other",
@@ -94,8 +94,8 @@
         "node_id": "MDc6TGljZW5zZTA="
     },
     "forks": 180,
-    "open_issues": 22,
-    "watchers": 962,
+    "open_issues": 26,
+    "watchers": 963,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -104,5 +104,5 @@
     },
     "temp_clone_token": "",
     "network_count": 180,
-    "subscribers_count": 30
+    "subscribers_count": 31
 }

@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/RUB-NDS/PRET/releases{/id}",
     "deployments_url": "https://api.github.com/repos/RUB-NDS/PRET/deployments",
     "created_at": "2016-06-24T09:33:21Z",
-    "updated_at": "2020-03-02T16:25:51Z",
+    "updated_at": "2020-03-09T16:02:34Z",
     "pushed_at": "2018-06-11T17:07:14Z",
     "git_url": "git://github.com/RUB-NDS/PRET.git",
     "ssh_url": "git@github.com:RUB-NDS/PRET.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/RUB-NDS/PRET",
     "homepage": "http://hacking-printers.net",
     "size": 1781,
-    "stargazers_count": 2195,
-    "watchers_count": 2195,
+    "stargazers_count": 2196,
+    "watchers_count": 2196,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 434,
+    "forks_count": 435,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/gpl-2.0",
         "node_id": "MDc6TGljZW5zZTg="
     },
-    "forks": 434,
+    "forks": 435,
     "open_issues": 24,
-    "watchers": 2195,
+    "watchers": 2196,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 434,
+    "network_count": 435,
     "subscribers_count": 177
 }

@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/benitoro/stockholm/releases{/id}",
     "deployments_url": "https://api.github.com/repos/benitoro/stockholm/deployments",
     "created_at": "2015-02-25T14:47:34Z",
-    "updated_at": "2020-03-06T01:13:01Z",
+    "updated_at": "2020-03-10T01:18:24Z",
     "pushed_at": "2017-07-23T12:46:01Z",
     "git_url": "git://github.com/benitoro/stockholm.git",
     "ssh_url": "git@github.com:benitoro/stockholm.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/benitoro/stockholm",
     "homepage": "",
     "size": 53,
-    "stargazers_count": 730,
-    "watchers_count": 730,
+    "stargazers_count": 732,
+    "watchers_count": 732,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 414,
+    "forks_count": 417,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/gpl-2.0",
         "node_id": "MDc6TGljZW5zZTg="
     },
-    "forks": 414,
+    "forks": 417,
     "open_issues": 10,
-    "watchers": 730,
+    "watchers": 732,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 414,
+    "network_count": 417,
     "subscribers_count": 110
 }

@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/dranjan/python-plyfile/releases{/id}",
     "deployments_url": "https://api.github.com/repos/dranjan/python-plyfile/deployments",
     "created_at": "2014-07-07T21:29:59Z",
-    "updated_at": "2020-03-05T12:11:10Z",
+    "updated_at": "2020-03-10T14:39:38Z",
     "pushed_at": "2020-02-24T07:57:11Z",
     "git_url": "git://github.com/dranjan/python-plyfile.git",
     "ssh_url": "git@github.com:dranjan/python-plyfile.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/dranjan/python-plyfile",
     "homepage": "",
     "size": 174,
-    "stargazers_count": 240,
-    "watchers_count": 240,
+    "stargazers_count": 241,
+    "watchers_count": 241,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 45,
+    "forks_count": 46,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/gpl-3.0",
         "node_id": "MDc6TGljZW5zZTk="
     },
-    "forks": 45,
+    "forks": 46,
     "open_issues": 5,
-    "watchers": 240,
+    "watchers": 241,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 45,
+    "network_count": 46,
     "subscribers_count": 17
 }

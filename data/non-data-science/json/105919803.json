@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/facebookresearch/Detectron/releases{/id}",
     "deployments_url": "https://api.github.com/repos/facebookresearch/Detectron/deployments",
     "created_at": "2017-10-05T17:32:00Z",
-    "updated_at": "2020-03-06T01:22:50Z",
+    "updated_at": "2020-03-11T02:31:25Z",
     "pushed_at": "2020-01-22T07:51:43Z",
     "git_url": "git://github.com/facebookresearch/Detectron.git",
     "ssh_url": "git@github.com:facebookresearch/Detectron.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/facebookresearch/Detectron",
     "homepage": "",
     "size": 4490,
-    "stargazers_count": 22904,
-    "watchers_count": 22904,
+    "stargazers_count": 22930,
+    "watchers_count": 22930,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 5057,
+    "forks_count": 5060,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/apache-2.0",
         "node_id": "MDc6TGljZW5zZTI="
     },
-    "forks": 5057,
+    "forks": 5060,
     "open_issues": 299,
-    "watchers": 22904,
+    "watchers": 22930,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 5057,
+    "network_count": 5060,
     "subscribers_count": 990
 }

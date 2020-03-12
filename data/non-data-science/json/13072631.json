@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/pts/pdfsizeopt/releases{/id}",
     "deployments_url": "https://api.github.com/repos/pts/pdfsizeopt/deployments",
     "created_at": "2013-09-24T18:12:19Z",
-    "updated_at": "2020-03-02T15:45:12Z",
+    "updated_at": "2020-03-11T11:25:37Z",
     "pushed_at": "2019-06-22T11:41:25Z",
     "git_url": "git://github.com/pts/pdfsizeopt.git",
     "ssh_url": "git@github.com:pts/pdfsizeopt.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/pts/pdfsizeopt",
     "homepage": null,
     "size": 6083,
-    "stargazers_count": 302,
-    "watchers_count": 302,
+    "stargazers_count": 305,
+    "watchers_count": 305,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 28,
+    "forks_count": 29,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/gpl-2.0",
         "node_id": "MDc6TGljZW5zZTg="
     },
-    "forks": 28,
+    "forks": 29,
     "open_issues": 43,
-    "watchers": 302,
+    "watchers": 305,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 28,
-    "subscribers_count": 25
+    "network_count": 29,
+    "subscribers_count": 26
 }

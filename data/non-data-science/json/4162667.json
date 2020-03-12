@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/billzhong/inbox.py/releases{/id}",
     "deployments_url": "https://api.github.com/repos/billzhong/inbox.py/deployments",
     "created_at": "2012-04-27T21:26:49Z",
-    "updated_at": "2020-03-03T23:17:13Z",
+    "updated_at": "2020-03-10T09:03:55Z",
     "pushed_at": "2016-07-11T17:18:46Z",
     "git_url": "git://github.com/billzhong/inbox.py.git",
     "ssh_url": "git@github.com:billzhong/inbox.py.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/billzhong/inbox.py",
     "homepage": "https://pypi.python.org/pypi/inbox.py",
     "size": 26,
-    "stargazers_count": 1486,
-    "watchers_count": 1486,
+    "stargazers_count": 1485,
+    "watchers_count": 1485,
     "language": "Python",
     "has_issues": true,
     "has_projects": false,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 133,
+    "forks_count": 134,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/bsd-2-clause",
         "node_id": "MDc6TGljZW5zZTQ="
     },
-    "forks": 133,
+    "forks": 134,
     "open_issues": 1,
-    "watchers": 1486,
+    "watchers": 1485,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 133,
+    "network_count": 134,
     "subscribers_count": 48
 }

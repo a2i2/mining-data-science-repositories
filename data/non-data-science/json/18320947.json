@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/dropbox/pyston/releases{/id}",
     "deployments_url": "https://api.github.com/repos/dropbox/pyston/deployments",
     "created_at": "2014-04-01T07:17:20Z",
-    "updated_at": "2020-03-05T16:57:03Z",
+    "updated_at": "2020-03-08T14:15:45Z",
     "pushed_at": "2019-12-27T23:42:32Z",
     "git_url": "git://github.com/dropbox/pyston.git",
     "ssh_url": "git@github.com:dropbox/pyston.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/dropbox/pyston",
     "homepage": "https://tech.dropbox.com/2014/04/introducing-pyston-an-upcoming-jit-based-python-implementation/",
     "size": 41022,
-    "stargazers_count": 4492,
-    "watchers_count": 4492,
+    "stargazers_count": 4495,
+    "watchers_count": 4495,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 304,
     "open_issues": 112,
-    "watchers": 4492,
+    "watchers": 4495,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -124,5 +124,5 @@
         "site_admin": false
     },
     "network_count": 304,
-    "subscribers_count": 256
+    "subscribers_count": 255
 }

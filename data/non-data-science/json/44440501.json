@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/orf/gping/releases{/id}",
     "deployments_url": "https://api.github.com/repos/orf/gping/deployments",
     "created_at": "2015-10-17T14:34:25Z",
-    "updated_at": "2020-03-05T03:58:44Z",
+    "updated_at": "2020-03-11T07:24:02Z",
     "pushed_at": "2020-02-01T15:39:11Z",
     "git_url": "git://github.com/orf/gping.git",
     "ssh_url": "git@github.com:orf/gping.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/orf/gping",
     "homepage": null,
     "size": 1688,
-    "stargazers_count": 925,
-    "watchers_count": 925,
+    "stargazers_count": 927,
+    "watchers_count": 927,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 65,
+    "forks_count": 66,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/gpl-2.0",
         "node_id": "MDc6TGljZW5zZTg="
     },
-    "forks": 65,
+    "forks": 66,
     "open_issues": 17,
-    "watchers": 925,
+    "watchers": 927,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 65,
+    "network_count": 66,
     "subscribers_count": 33
 }

@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/mdreizin/chrome-bookmarks-alfred-workflow/releases{/id}",
     "deployments_url": "https://api.github.com/repos/mdreizin/chrome-bookmarks-alfred-workflow/deployments",
     "created_at": "2013-03-25T22:06:27Z",
-    "updated_at": "2020-03-01T10:40:48Z",
+    "updated_at": "2020-03-09T14:45:03Z",
     "pushed_at": "2020-02-20T07:20:43Z",
     "git_url": "git://github.com/mdreizin/chrome-bookmarks-alfred-workflow.git",
     "ssh_url": "git@github.com:mdreizin/chrome-bookmarks-alfred-workflow.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/mdreizin/chrome-bookmarks-alfred-workflow",
     "homepage": "https://mdreizin.github.io/chrome-bookmarks-alfred-workflow",
     "size": 14233,
-    "stargazers_count": 206,
-    "watchers_count": 206,
+    "stargazers_count": 207,
+    "watchers_count": 207,
     "language": "Go",
     "has_issues": true,
     "has_projects": false,
@@ -95,7 +95,7 @@
     },
     "forks": 23,
     "open_issues": 0,
-    "watchers": 206,
+    "watchers": 207,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -104,5 +104,5 @@
     },
     "temp_clone_token": "",
     "network_count": 23,
-    "subscribers_count": 8
+    "subscribers_count": 9
 }

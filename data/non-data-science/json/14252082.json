@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/mcedit/mcedit2/releases{/id}",
     "deployments_url": "https://api.github.com/repos/mcedit/mcedit2/deployments",
     "created_at": "2013-11-09T05:42:10Z",
-    "updated_at": "2020-03-03T15:00:32Z",
+    "updated_at": "2020-03-10T08:19:56Z",
     "pushed_at": "2019-06-30T00:40:01Z",
     "git_url": "git://github.com/mcedit/mcedit2.git",
     "ssh_url": "git@github.com:mcedit/mcedit2.git",
@@ -73,19 +73,19 @@
     "svn_url": "https://github.com/mcedit/mcedit2",
     "homepage": "http://www.mcedit.net/",
     "size": 8078,
-    "stargazers_count": 467,
-    "watchers_count": 467,
+    "stargazers_count": 468,
+    "watchers_count": 468,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 81,
+    "forks_count": 84,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 163,
+    "open_issues_count": 164,
     "license": {
         "key": "other",
         "name": "Other",
@@ -93,9 +93,9 @@
         "url": null,
         "node_id": "MDc6TGljZW5zZTA="
     },
-    "forks": 81,
-    "open_issues": 163,
-    "watchers": 467,
+    "forks": 84,
+    "open_issues": 164,
+    "watchers": 468,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 81,
+    "network_count": 84,
     "subscribers_count": 58
 }

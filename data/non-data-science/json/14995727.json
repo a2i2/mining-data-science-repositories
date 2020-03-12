@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/barrucadu/markov/releases{/id}",
     "deployments_url": "https://api.github.com/repos/barrucadu/markov/deployments",
     "created_at": "2013-12-06T23:04:44Z",
-    "updated_at": "2020-02-18T10:34:45Z",
+    "updated_at": "2020-03-07T21:43:37Z",
     "pushed_at": "2016-03-29T15:33:06Z",
     "git_url": "git://github.com/barrucadu/markov.git",
     "ssh_url": "git@github.com:barrucadu/markov.git",

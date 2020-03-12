@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/python-hyper/hyper-h2/releases{/id}",
     "deployments_url": "https://api.github.com/repos/python-hyper/hyper-h2/deployments",
     "created_at": "2015-06-24T16:22:19Z",
-    "updated_at": "2020-03-05T04:56:05Z",
+    "updated_at": "2020-03-08T08:35:27Z",
     "pushed_at": "2020-03-05T14:24:56Z",
     "git_url": "git://github.com/python-hyper/hyper-h2.git",
     "ssh_url": "git@github.com:python-hyper/hyper-h2.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/python-hyper/hyper-h2",
     "homepage": "http://python-hyper.org/h2/",
     "size": 7516,
-    "stargazers_count": 652,
-    "watchers_count": 652,
+    "stargazers_count": 654,
+    "watchers_count": 654,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -85,7 +85,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 26,
+    "open_issues_count": 27,
     "license": {
         "key": "mit",
         "name": "MIT License",
@@ -94,8 +94,8 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "forks": 106,
-    "open_issues": 26,
-    "watchers": 652,
+    "open_issues": 27,
+    "watchers": 654,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -124,5 +124,5 @@
         "site_admin": false
     },
     "network_count": 106,
-    "subscribers_count": 40
+    "subscribers_count": 41
 }

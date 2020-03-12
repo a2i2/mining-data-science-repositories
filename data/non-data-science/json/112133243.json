@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/yunjey/stargan/releases{/id}",
     "deployments_url": "https://api.github.com/repos/yunjey/stargan/deployments",
     "created_at": "2017-11-27T01:43:01Z",
-    "updated_at": "2020-03-05T11:37:32Z",
+    "updated_at": "2020-03-10T09:44:04Z",
     "pushed_at": "2020-01-29T15:20:21Z",
     "git_url": "git://github.com/yunjey/stargan.git",
     "ssh_url": "git@github.com:yunjey/stargan.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/yunjey/stargan",
     "homepage": "",
     "size": 14099,
-    "stargazers_count": 4432,
-    "watchers_count": 4432,
+    "stargazers_count": 4442,
+    "watchers_count": 4442,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 817,
+    "forks_count": 816,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 817,
+    "forks": 816,
     "open_issues": 49,
-    "watchers": 4432,
+    "watchers": 4442,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 817,
+    "network_count": 816,
     "subscribers_count": 141
 }

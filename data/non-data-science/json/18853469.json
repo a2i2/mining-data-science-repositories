@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/umutbozkurt/django-rest-framework-mongoengine/releases{/id}",
     "deployments_url": "https://api.github.com/repos/umutbozkurt/django-rest-framework-mongoengine/deployments",
     "created_at": "2014-04-16T19:50:50Z",
-    "updated_at": "2020-03-05T07:22:39Z",
+    "updated_at": "2020-03-08T06:14:34Z",
     "pushed_at": "2020-01-02T13:48:33Z",
     "git_url": "git://github.com/umutbozkurt/django-rest-framework-mongoengine.git",
     "ssh_url": "git@github.com:umutbozkurt/django-rest-framework-mongoengine.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/umutbozkurt/django-rest-framework-mongoengine",
     "homepage": "",
     "size": 1684,
-    "stargazers_count": 488,
-    "watchers_count": 488,
+    "stargazers_count": 491,
+    "watchers_count": 491,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 159,
     "open_issues": 43,
-    "watchers": 488,
+    "watchers": 491,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -104,5 +104,5 @@
     },
     "temp_clone_token": "",
     "network_count": 159,
-    "subscribers_count": 37
+    "subscribers_count": 36
 }

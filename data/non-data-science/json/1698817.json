@@ -65,16 +65,16 @@
     "releases_url": "https://api.github.com/repos/openembedded/bitbake/releases{/id}",
     "deployments_url": "https://api.github.com/repos/openembedded/bitbake/deployments",
     "created_at": "2011-05-03T23:32:08Z",
-    "updated_at": "2020-03-02T16:17:35Z",
-    "pushed_at": "2020-03-02T21:51:42Z",
+    "updated_at": "2020-03-10T09:04:01Z",
+    "pushed_at": "2020-03-09T22:52:46Z",
     "git_url": "git://github.com/openembedded/bitbake.git",
     "ssh_url": "git@github.com:openembedded/bitbake.git",
     "clone_url": "https://github.com/openembedded/bitbake.git",
     "svn_url": "https://github.com/openembedded/bitbake",
     "homepage": "",
-    "size": 19919,
-    "stargazers_count": 194,
-    "watchers_count": 194,
+    "size": 20017,
+    "stargazers_count": 196,
+    "watchers_count": 196,
     "language": "Python",
     "has_issues": false,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 147,
     "open_issues": 15,
-    "watchers": 194,
+    "watchers": 196,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -124,5 +124,5 @@
         "site_admin": false
     },
     "network_count": 147,
-    "subscribers_count": 31
+    "subscribers_count": 32
 }

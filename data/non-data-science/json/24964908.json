@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/poliva/ggposrv/releases{/id}",
     "deployments_url": "https://api.github.com/repos/poliva/ggposrv/deployments",
     "created_at": "2014-10-08T23:09:19Z",
-    "updated_at": "2020-02-28T17:10:02Z",
+    "updated_at": "2020-03-09T01:28:05Z",
     "pushed_at": "2019-01-20T13:54:22Z",
     "git_url": "git://github.com/poliva/ggposrv.git",
     "ssh_url": "git@github.com:poliva/ggposrv.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/poliva/ggposrv",
     "homepage": "",
     "size": 407,
-    "stargazers_count": 115,
-    "watchers_count": 115,
+    "stargazers_count": 114,
+    "watchers_count": 114,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 37,
     "open_issues": 7,
-    "watchers": 115,
+    "watchers": 114,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -104,5 +104,5 @@
     },
     "temp_clone_token": "",
     "network_count": 37,
-    "subscribers_count": 26
+    "subscribers_count": 25
 }

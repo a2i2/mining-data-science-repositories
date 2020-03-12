@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/allenai/bi-att-flow/releases{/id}",
     "deployments_url": "https://api.github.com/repos/allenai/bi-att-flow/deployments",
     "created_at": "2016-06-22T23:21:38Z",
-    "updated_at": "2020-03-03T09:11:41Z",
+    "updated_at": "2020-03-11T05:27:48Z",
     "pushed_at": "2019-03-14T13:40:46Z",
     "git_url": "git://github.com/allenai/bi-att-flow.git",
     "ssh_url": "git@github.com:allenai/bi-att-flow.git",

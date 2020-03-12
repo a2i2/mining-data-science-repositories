@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/mokemokechicken/reversi-alpha-zero/releases{/id}",
     "deployments_url": "https://api.github.com/repos/mokemokechicken/reversi-alpha-zero/deployments",
     "created_at": "2017-10-22T04:16:43Z",
-    "updated_at": "2020-02-12T21:19:52Z",
+    "updated_at": "2020-03-11T05:49:06Z",
     "pushed_at": "2020-02-24T17:51:27Z",
     "git_url": "git://github.com/mokemokechicken/reversi-alpha-zero.git",
     "ssh_url": "git@github.com:mokemokechicken/reversi-alpha-zero.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/mokemokechicken/reversi-alpha-zero",
     "homepage": "",
     "size": 1265,
-    "stargazers_count": 551,
-    "watchers_count": 551,
+    "stargazers_count": 552,
+    "watchers_count": 552,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 148,
+    "forks_count": 149,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 148,
+    "forks": 149,
     "open_issues": 21,
-    "watchers": 551,
+    "watchers": 552,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 148,
+    "network_count": 149,
     "subscribers_count": 51
 }

@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/danielhavir/capsule-network/releases{/id}",
     "deployments_url": "https://api.github.com/repos/danielhavir/capsule-network/deployments",
     "created_at": "2018-03-02T22:22:35Z",
-    "updated_at": "2020-01-31T14:08:06Z",
+    "updated_at": "2020-03-09T02:23:36Z",
     "pushed_at": "2018-05-06T17:22:32Z",
     "git_url": "git://github.com/danielhavir/capsule-network.git",
     "ssh_url": "git@github.com:danielhavir/capsule-network.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/danielhavir/capsule-network",
     "homepage": null,
     "size": 50,
-    "stargazers_count": 130,
-    "watchers_count": 130,
+    "stargazers_count": 132,
+    "watchers_count": 132,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 16,
+    "forks_count": 17,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 16,
+    "forks": 17,
     "open_issues": 0,
-    "watchers": 130,
+    "watchers": 132,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 16,
+    "network_count": 17,
     "subscribers_count": 5
 }

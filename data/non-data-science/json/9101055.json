@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/meibenjin/GoogleSearchCrawler/releases{/id}",
     "deployments_url": "https://api.github.com/repos/meibenjin/GoogleSearchCrawler/deployments",
     "created_at": "2013-03-29T15:35:49Z",
-    "updated_at": "2020-03-01T19:15:00Z",
+    "updated_at": "2020-03-11T11:47:36Z",
     "pushed_at": "2019-10-08T12:53:16Z",
     "git_url": "git://github.com/meibenjin/GoogleSearchCrawler.git",
     "ssh_url": "git@github.com:meibenjin/GoogleSearchCrawler.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/meibenjin/GoogleSearchCrawler",
     "homepage": "",
     "size": 169,
-    "stargazers_count": 297,
-    "watchers_count": 297,
+    "stargazers_count": 298,
+    "watchers_count": 298,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 225,
+    "forks_count": 226,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 225,
+    "forks": 226,
     "open_issues": 2,
-    "watchers": 297,
+    "watchers": 298,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 225,
+    "network_count": 226,
     "subscribers_count": 30
 }

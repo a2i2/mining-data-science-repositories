@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/leapsecurity/InSpy/releases{/id}",
     "deployments_url": "https://api.github.com/repos/leapsecurity/InSpy/deployments",
     "created_at": "2016-02-14T18:50:24Z",
-    "updated_at": "2020-02-21T21:08:41Z",
+    "updated_at": "2020-03-11T06:18:09Z",
     "pushed_at": "2019-01-18T11:08:52Z",
     "git_url": "git://github.com/leapsecurity/InSpy.git",
     "ssh_url": "git@github.com:leapsecurity/InSpy.git",
@@ -73,19 +73,19 @@
     "svn_url": "https://github.com/leapsecurity/InSpy",
     "homepage": "https://www.leapsecurity.io/blog/linkedin-enumeration-inspy/",
     "size": 41,
-    "stargazers_count": 345,
-    "watchers_count": 345,
+    "stargazers_count": 348,
+    "watchers_count": 348,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 95,
+    "forks_count": 96,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 12,
+    "open_issues_count": 13,
     "license": {
         "key": "mit",
         "name": "MIT License",
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 95,
-    "open_issues": 12,
-    "watchers": 345,
+    "forks": 96,
+    "open_issues": 13,
+    "watchers": 348,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 95,
+    "network_count": 96,
     "subscribers_count": 42
 }

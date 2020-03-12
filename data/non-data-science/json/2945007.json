@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/osrg/ryu/releases{/id}",
     "deployments_url": "https://api.github.com/repos/osrg/ryu/deployments",
     "created_at": "2011-12-09T03:43:50Z",
-    "updated_at": "2020-03-03T16:06:01Z",
+    "updated_at": "2020-03-11T02:37:27Z",
     "pushed_at": "2019-12-25T18:07:06Z",
     "git_url": "git://github.com/osrg/ryu.git",
     "ssh_url": "git@github.com:osrg/ryu.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/osrg/ryu",
     "homepage": "https://osrg.github.io/ryu/",
     "size": 26982,
-    "stargazers_count": 1065,
-    "watchers_count": 1065,
+    "stargazers_count": 1066,
+    "watchers_count": 1066,
     "language": "Python",
     "has_issues": false,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": true,
-    "forks_count": 912,
+    "forks_count": 913,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/apache-2.0",
         "node_id": "MDc6TGljZW5zZTI="
     },
-    "forks": 912,
+    "forks": 913,
     "open_issues": 31,
-    "watchers": 1065,
+    "watchers": 1066,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 912,
-    "subscribers_count": 172
+    "network_count": 913,
+    "subscribers_count": 174
 }

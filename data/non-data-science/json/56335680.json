@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/stavros0/bitcoin-price-prediction/releases{/id}",
     "deployments_url": "https://api.github.com/repos/stavros0/bitcoin-price-prediction/deployments",
     "created_at": "2016-04-15T16:49:12Z",
-    "updated_at": "2020-01-17T01:19:33Z",
+    "updated_at": "2020-03-11T11:18:23Z",
     "pushed_at": "2019-10-28T22:15:36Z",
     "git_url": "git://github.com/stavros0/bitcoin-price-prediction.git",
     "ssh_url": "git@github.com:stavros0/bitcoin-price-prediction.git",
@@ -104,5 +104,5 @@
     },
     "temp_clone_token": "",
     "network_count": 107,
-    "subscribers_count": 33
+    "subscribers_count": 34
 }

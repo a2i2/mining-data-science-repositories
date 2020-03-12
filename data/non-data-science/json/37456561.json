@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/vsergeev/python-periphery/releases{/id}",
     "deployments_url": "https://api.github.com/repos/vsergeev/python-periphery/deployments",
     "created_at": "2015-06-15T09:41:35Z",
-    "updated_at": "2020-03-04T12:22:40Z",
+    "updated_at": "2020-03-10T14:23:37Z",
     "pushed_at": "2020-01-08T06:46:52Z",
     "git_url": "git://github.com/vsergeev/python-periphery.git",
     "ssh_url": "git@github.com:vsergeev/python-periphery.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/vsergeev/python-periphery",
     "homepage": "",
     "size": 136,
-    "stargazers_count": 292,
-    "watchers_count": 292,
+    "stargazers_count": 295,
+    "watchers_count": 295,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 65,
+    "forks_count": 66,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 65,
+    "forks": 66,
     "open_issues": 8,
-    "watchers": 292,
+    "watchers": 295,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 65,
+    "network_count": 66,
     "subscribers_count": 20
 }

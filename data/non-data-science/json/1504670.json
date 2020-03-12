@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/splunk/splunk-sdk-python/releases{/id}",
     "deployments_url": "https://api.github.com/repos/splunk/splunk-sdk-python/deployments",
     "created_at": "2011-03-20T23:20:06Z",
-    "updated_at": "2020-03-05T01:09:46Z",
+    "updated_at": "2020-03-08T14:17:37Z",
     "pushed_at": "2020-03-03T15:29:54Z",
     "git_url": "git://github.com/splunk/splunk-sdk-python.git",
     "ssh_url": "git@github.com:splunk/splunk-sdk-python.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/splunk/splunk-sdk-python",
     "homepage": "http://dev.splunk.com",
     "size": 70244,
-    "stargazers_count": 437,
-    "watchers_count": 437,
+    "stargazers_count": 438,
+    "watchers_count": 438,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": true,
-    "forks_count": 261,
+    "forks_count": 263,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/apache-2.0",
         "node_id": "MDc6TGljZW5zZTI="
     },
-    "forks": 261,
+    "forks": 263,
     "open_issues": 58,
-    "watchers": 437,
+    "watchers": 438,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 261,
+    "network_count": 263,
     "subscribers_count": 95
 }

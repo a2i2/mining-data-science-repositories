@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/google/sanitizers/releases{/id}",
     "deployments_url": "https://api.github.com/repos/google/sanitizers/deployments",
     "created_at": "2014-09-03T23:49:51Z",
-    "updated_at": "2020-03-05T21:52:12Z",
+    "updated_at": "2020-03-10T12:40:50Z",
     "pushed_at": "2020-02-22T02:47:23Z",
     "git_url": "git://github.com/google/sanitizers.git",
     "ssh_url": "git@github.com:google/sanitizers.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/google/sanitizers",
     "homepage": "",
     "size": 35780,
-    "stargazers_count": 4914,
-    "watchers_count": 4914,
+    "stargazers_count": 4935,
+    "watchers_count": 4935,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": false,
     "has_wiki": true,
     "has_pages": true,
-    "forks_count": 535,
+    "forks_count": 537,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/apache-2.0",
         "node_id": "MDc6TGljZW5zZTI="
     },
-    "forks": 535,
+    "forks": 537,
     "open_issues": 277,
-    "watchers": 4914,
+    "watchers": 4935,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 535,
+    "network_count": 537,
     "subscribers_count": 316
 }

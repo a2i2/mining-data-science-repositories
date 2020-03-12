@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/chrthomsen/pygrametl/releases{/id}",
     "deployments_url": "https://api.github.com/repos/chrthomsen/pygrametl/deployments",
     "created_at": "2015-08-20T12:38:28Z",
-    "updated_at": "2020-03-04T16:41:13Z",
+    "updated_at": "2020-03-10T11:19:39Z",
     "pushed_at": "2020-02-14T13:54:37Z",
     "git_url": "git://github.com/chrthomsen/pygrametl.git",
     "ssh_url": "git@github.com:chrthomsen/pygrametl.git",

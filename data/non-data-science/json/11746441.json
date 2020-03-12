@@ -65,14 +65,14 @@
     "releases_url": "https://api.github.com/repos/voxpupuli/puppetboard/releases{/id}",
     "deployments_url": "https://api.github.com/repos/voxpupuli/puppetboard/deployments",
     "created_at": "2013-07-29T18:22:09Z",
-    "updated_at": "2020-03-05T12:11:31Z",
-    "pushed_at": "2020-03-02T08:14:25Z",
+    "updated_at": "2020-03-08T11:30:11Z",
+    "pushed_at": "2020-03-08T11:30:08Z",
     "git_url": "git://github.com/voxpupuli/puppetboard.git",
     "ssh_url": "git@github.com:voxpupuli/puppetboard.git",
     "clone_url": "https://github.com/voxpupuli/puppetboard.git",
     "svn_url": "https://github.com/voxpupuli/puppetboard",
     "homepage": "https://pypi.org/project/puppetboard/",
-    "size": 13209,
+    "size": 13210,
     "stargazers_count": 614,
     "watchers_count": 614,
     "language": "Python",
@@ -81,11 +81,11 @@
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 206,
+    "forks_count": 207,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 61,
+    "open_issues_count": 60,
     "license": {
         "key": "apache-2.0",
         "name": "Apache License 2.0",
@@ -93,8 +93,8 @@
         "url": "https://api.github.com/licenses/apache-2.0",
         "node_id": "MDc6TGljZW5zZTI="
     },
-    "forks": 206,
-    "open_issues": 61,
+    "forks": 207,
+    "open_issues": 60,
     "watchers": 614,
     "default_branch": "master",
     "permissions": {
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 206,
-    "subscribers_count": 94
+    "network_count": 207,
+    "subscribers_count": 95
 }

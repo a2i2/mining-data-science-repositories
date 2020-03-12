@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/inducer/pyopencl/releases{/id}",
     "deployments_url": "https://api.github.com/repos/inducer/pyopencl/deployments",
     "created_at": "2011-04-06T02:51:33Z",
-    "updated_at": "2020-03-03T14:44:59Z",
+    "updated_at": "2020-03-08T19:38:25Z",
     "pushed_at": "2020-01-29T00:00:40Z",
     "git_url": "git://github.com/inducer/pyopencl.git",
     "ssh_url": "git@github.com:inducer/pyopencl.git",
@@ -73,19 +73,19 @@
     "svn_url": "https://github.com/inducer/pyopencl",
     "homepage": "http://mathema.tician.de/software/pyopencl",
     "size": 4773,
-    "stargazers_count": 638,
-    "watchers_count": 638,
+    "stargazers_count": 639,
+    "watchers_count": 639,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 178,
+    "forks_count": 180,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 44,
+    "open_issues_count": 45,
     "license": {
         "key": "other",
         "name": "Other",
@@ -93,9 +93,9 @@
         "url": null,
         "node_id": "MDc6TGljZW5zZTA="
     },
-    "forks": 178,
-    "open_issues": 44,
-    "watchers": 638,
+    "forks": 180,
+    "open_issues": 45,
+    "watchers": 639,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 178,
+    "network_count": 180,
     "subscribers_count": 48
 }

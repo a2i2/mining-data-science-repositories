@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/savoirfairelinux/num2words/releases{/id}",
     "deployments_url": "https://api.github.com/repos/savoirfairelinux/num2words/deployments",
     "created_at": "2013-05-28T16:54:31Z",
-    "updated_at": "2020-03-03T23:04:05Z",
+    "updated_at": "2020-03-06T12:22:37Z",
     "pushed_at": "2020-02-04T14:27:03Z",
     "git_url": "git://github.com/savoirfairelinux/num2words.git",
     "ssh_url": "git@github.com:savoirfairelinux/num2words.git",

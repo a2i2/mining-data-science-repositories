@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/sourabhv/FlapPyBird/releases{/id}",
     "deployments_url": "https://api.github.com/repos/sourabhv/FlapPyBird/deployments",
     "created_at": "2014-04-03T12:46:02Z",
-    "updated_at": "2020-03-03T23:40:03Z",
+    "updated_at": "2020-03-10T11:36:02Z",
     "pushed_at": "2020-02-03T13:04:53Z",
     "git_url": "git://github.com/sourabhv/FlapPyBird.git",
     "ssh_url": "git@github.com:sourabhv/FlapPyBird.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/sourabhv/FlapPyBird",
     "homepage": "",
     "size": 646,
-    "stargazers_count": 585,
-    "watchers_count": 585,
+    "stargazers_count": 590,
+    "watchers_count": 590,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 409,
+    "forks_count": 410,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 409,
+    "forks": 410,
     "open_issues": 6,
-    "watchers": 585,
+    "watchers": 590,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 409,
+    "network_count": 410,
     "subscribers_count": 18
 }

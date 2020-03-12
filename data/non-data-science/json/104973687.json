@@ -66,7 +66,7 @@
     "deployments_url": "https://api.github.com/repos/mila-iqia/myia/deployments",
     "created_at": "2017-09-27T04:56:56Z",
     "updated_at": "2020-03-03T11:24:39Z",
-    "pushed_at": "2020-03-04T01:02:09Z",
+    "pushed_at": "2020-03-10T17:41:42Z",
     "git_url": "git://github.com/mila-iqia/myia.git",
     "ssh_url": "git@github.com:mila-iqia/myia.git",
     "clone_url": "https://github.com/mila-iqia/myia.git",
@@ -85,7 +85,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 25,
+    "open_issues_count": 27,
     "license": {
         "key": "mit",
         "name": "MIT License",
@@ -94,7 +94,7 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "forks": 33,
-    "open_issues": 25,
+    "open_issues": 27,
     "watchers": 308,
     "default_branch": "master",
     "permissions": {

@@ -66,13 +66,13 @@
     "deployments_url": "https://api.github.com/repos/m-labs/artiq/deployments",
     "created_at": "2014-05-25T18:09:36Z",
     "updated_at": "2020-03-05T17:58:22Z",
-    "pushed_at": "2020-03-05T17:58:20Z",
+    "pushed_at": "2020-03-08T03:33:44Z",
     "git_url": "git://github.com/m-labs/artiq.git",
     "ssh_url": "git@github.com:m-labs/artiq.git",
     "clone_url": "https://github.com/m-labs/artiq.git",
     "svn_url": "https://github.com/m-labs/artiq",
     "homepage": "https://m-labs.hk/artiq",
-    "size": 13129,
+    "size": 13131,
     "stargazers_count": 214,
     "watchers_count": 214,
     "language": "Python",
@@ -85,7 +85,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 187,
+    "open_issues_count": 188,
     "license": {
         "key": "other",
         "name": "Other",
@@ -94,7 +94,7 @@
         "node_id": "MDc6TGljZW5zZTA="
     },
     "forks": 87,
-    "open_issues": 187,
+    "open_issues": 188,
     "watchers": 214,
     "default_branch": "master",
     "permissions": {

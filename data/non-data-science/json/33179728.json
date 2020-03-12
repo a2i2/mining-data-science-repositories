@@ -85,10 +85,10 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 20,
+    "open_issues_count": 18,
     "license": null,
     "forks": 96,
-    "open_issues": 20,
+    "open_issues": 18,
     "watchers": 149,
     "default_branch": "master",
     "permissions": {

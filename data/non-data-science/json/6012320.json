@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/c2nes/javalang/releases{/id}",
     "deployments_url": "https://api.github.com/repos/c2nes/javalang/deployments",
     "created_at": "2012-09-29T19:21:02Z",
-    "updated_at": "2020-03-04T15:59:59Z",
+    "updated_at": "2020-03-11T03:16:51Z",
     "pushed_at": "2020-03-04T15:59:57Z",
     "git_url": "git://github.com/c2nes/javalang.git",
     "ssh_url": "git@github.com:c2nes/javalang.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/c2nes/javalang",
     "homepage": "",
     "size": 134,
-    "stargazers_count": 293,
-    "watchers_count": 293,
+    "stargazers_count": 294,
+    "watchers_count": 294,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 88,
+    "forks_count": 87,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 88,
+    "forks": 87,
     "open_issues": 24,
-    "watchers": 293,
+    "watchers": 294,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 88,
+    "network_count": 87,
     "subscribers_count": 16
 }

@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/jarvisteach/appJar/releases{/id}",
     "deployments_url": "https://api.github.com/repos/jarvisteach/appJar/deployments",
     "created_at": "2015-07-31T08:59:20Z",
-    "updated_at": "2020-03-04T14:42:56Z",
+    "updated_at": "2020-03-10T11:49:48Z",
     "pushed_at": "2019-10-30T11:14:39Z",
     "git_url": "git://github.com/jarvisteach/appJar.git",
     "ssh_url": "git@github.com:jarvisteach/appJar.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/jarvisteach/appJar",
     "homepage": "http://appJar.info",
     "size": 23933,
-    "stargazers_count": 507,
-    "watchers_count": 507,
+    "stargazers_count": 510,
+    "watchers_count": 510,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 49,
     "open_issues": 78,
-    "watchers": 507,
+    "watchers": 510,
     "default_branch": "appJar",
     "permissions": {
         "admin": false,
@@ -104,5 +104,5 @@
     },
     "temp_clone_token": "",
     "network_count": 49,
-    "subscribers_count": 39
+    "subscribers_count": 40
 }

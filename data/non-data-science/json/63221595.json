@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/jcjohnson/cnn-benchmarks/releases{/id}",
     "deployments_url": "https://api.github.com/repos/jcjohnson/cnn-benchmarks/deployments",
     "created_at": "2016-07-13T06:46:20Z",
-    "updated_at": "2020-03-04T14:06:37Z",
+    "updated_at": "2020-03-10T07:25:57Z",
     "pushed_at": "2017-09-25T16:58:15Z",
     "git_url": "git://github.com/jcjohnson/cnn-benchmarks.git",
     "ssh_url": "git@github.com:jcjohnson/cnn-benchmarks.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/jcjohnson/cnn-benchmarks",
     "homepage": "",
     "size": 100,
-    "stargazers_count": 2202,
-    "watchers_count": 2202,
+    "stargazers_count": 2206,
+    "watchers_count": 2206,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 366,
+    "forks_count": 367,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 366,
+    "forks": 367,
     "open_issues": 21,
-    "watchers": 2202,
+    "watchers": 2206,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 366,
-    "subscribers_count": 167
+    "network_count": 367,
+    "subscribers_count": 168
 }

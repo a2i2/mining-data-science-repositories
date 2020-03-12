@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/theriley106/SneakerBotTutorials/releases{/id}",
     "deployments_url": "https://api.github.com/repos/theriley106/SneakerBotTutorials/deployments",
     "created_at": "2017-01-27T00:08:41Z",
-    "updated_at": "2020-03-05T23:28:58Z",
+    "updated_at": "2020-03-10T23:33:34Z",
     "pushed_at": "2018-11-01T13:53:59Z",
     "git_url": "git://github.com/theriley106/SneakerBotTutorials.git",
     "ssh_url": "git@github.com:theriley106/SneakerBotTutorials.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/theriley106/SneakerBotTutorials",
     "homepage": "https://www.youtube.com/playlist?list=PL3fpqcQTK0f9sACDQstvjxbHzD1L_gr__",
     "size": 19589,
-    "stargazers_count": 383,
-    "watchers_count": 383,
+    "stargazers_count": 386,
+    "watchers_count": 386,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 84,
+    "forks_count": 85,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 84,
+    "forks": 85,
     "open_issues": 9,
-    "watchers": 383,
+    "watchers": 386,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 84,
-    "subscribers_count": 60
+    "network_count": 85,
+    "subscribers_count": 61
 }

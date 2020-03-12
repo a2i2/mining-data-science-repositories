@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/unsky/RetinaNet/releases{/id}",
     "deployments_url": "https://api.github.com/repos/unsky/RetinaNet/deployments",
     "created_at": "2017-09-06T08:26:59Z",
-    "updated_at": "2020-02-20T05:45:15Z",
+    "updated_at": "2020-03-09T03:40:26Z",
     "pushed_at": "2018-02-01T09:45:32Z",
     "git_url": "git://github.com/unsky/RetinaNet.git",
     "ssh_url": "git@github.com:unsky/RetinaNet.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/unsky/RetinaNet",
     "homepage": null,
     "size": 87126,
-    "stargazers_count": 219,
-    "watchers_count": 219,
+    "stargazers_count": 220,
+    "watchers_count": 220,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -89,7 +89,7 @@
     "license": null,
     "forks": 62,
     "open_issues": 12,
-    "watchers": 219,
+    "watchers": 220,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -98,5 +98,5 @@
     },
     "temp_clone_token": "",
     "network_count": 62,
-    "subscribers_count": 7
+    "subscribers_count": 8
 }

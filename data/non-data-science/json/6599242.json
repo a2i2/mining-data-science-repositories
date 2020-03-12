@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/pilotmoon/PopClip-Extensions/releases{/id}",
     "deployments_url": "https://api.github.com/repos/pilotmoon/PopClip-Extensions/deployments",
     "created_at": "2012-11-08T16:24:44Z",
-    "updated_at": "2020-03-04T11:36:40Z",
+    "updated_at": "2020-03-10T22:34:15Z",
     "pushed_at": "2020-02-22T16:26:53Z",
     "git_url": "git://github.com/pilotmoon/PopClip-Extensions.git",
     "ssh_url": "git@github.com:pilotmoon/PopClip-Extensions.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/pilotmoon/PopClip-Extensions",
     "homepage": "https://pilotmoon.com/popclip/extensions/",
     "size": 44891,
-    "stargazers_count": 1238,
-    "watchers_count": 1238,
+    "stargazers_count": 1240,
+    "watchers_count": 1240,
     "language": "Python",
     "has_issues": true,
     "has_projects": false,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 344,
+    "forks_count": 343,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": null,
         "node_id": "MDc6TGljZW5zZTA="
     },
-    "forks": 344,
+    "forks": 343,
     "open_issues": 748,
-    "watchers": 1238,
+    "watchers": 1240,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 344,
+    "network_count": 343,
     "subscribers_count": 85
 }

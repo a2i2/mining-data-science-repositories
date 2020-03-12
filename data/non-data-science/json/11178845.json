@@ -66,7 +66,7 @@
     "deployments_url": "https://api.github.com/repos/poliastro/poliastro/deployments",
     "created_at": "2013-07-04T14:14:45Z",
     "updated_at": "2020-03-05T23:05:27Z",
-    "pushed_at": "2020-03-03T23:06:40Z",
+    "pushed_at": "2020-03-06T18:33:30Z",
     "git_url": "git://github.com/poliastro/poliastro.git",
     "ssh_url": "git@github.com:poliastro/poliastro.git",
     "clone_url": "https://github.com/poliastro/poliastro.git",
@@ -85,7 +85,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 85,
+    "open_issues_count": 89,
     "license": {
         "key": "mit",
         "name": "MIT License",
@@ -94,7 +94,7 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "forks": 149,
-    "open_issues": 85,
+    "open_issues": 89,
     "watchers": 340,
     "default_branch": "master",
     "permissions": {

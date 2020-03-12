@@ -65,14 +65,14 @@
     "releases_url": "https://api.github.com/repos/OCA/account-financial-tools/releases{/id}",
     "deployments_url": "https://api.github.com/repos/OCA/account-financial-tools/deployments",
     "created_at": "2014-06-16T10:58:57Z",
-    "updated_at": "2020-02-25T08:24:41Z",
-    "pushed_at": "2020-03-05T14:13:57Z",
+    "updated_at": "2020-03-10T18:40:07Z",
+    "pushed_at": "2020-03-10T18:40:06Z",
     "git_url": "git://github.com/OCA/account-financial-tools.git",
     "ssh_url": "git@github.com:OCA/account-financial-tools.git",
     "clone_url": "https://github.com/OCA/account-financial-tools.git",
     "svn_url": "https://github.com/OCA/account-financial-tools",
     "homepage": "",
-    "size": 21079,
+    "size": 21416,
     "stargazers_count": 136,
     "watchers_count": 136,
     "language": "Python",
@@ -81,11 +81,11 @@
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 434,
+    "forks_count": 435,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 203,
+    "open_issues_count": 202,
     "license": {
         "key": "agpl-3.0",
         "name": "GNU Affero General Public License v3.0",
@@ -93,8 +93,8 @@
         "url": "https://api.github.com/licenses/agpl-3.0",
         "node_id": "MDc6TGljZW5zZTE="
     },
-    "forks": 434,
-    "open_issues": 203,
+    "forks": 435,
+    "open_issues": 202,
     "watchers": 136,
     "default_branch": "13.0",
     "permissions": {
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 434,
+    "network_count": 435,
     "subscribers_count": 97
 }

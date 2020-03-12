@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/binux/pyspider/releases{/id}",
     "deployments_url": "https://api.github.com/repos/binux/pyspider/deployments",
     "created_at": "2014-02-21T19:18:47Z",
-    "updated_at": "2020-03-05T15:38:12Z",
+    "updated_at": "2020-03-11T09:17:05Z",
     "pushed_at": "2020-02-29T20:14:01Z",
     "git_url": "git://github.com/binux/pyspider.git",
     "ssh_url": "git@github.com:binux/pyspider.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/binux/pyspider",
     "homepage": "http://docs.pyspider.org/",
     "size": 4156,
-    "stargazers_count": 14131,
-    "watchers_count": 14131,
+    "stargazers_count": 14149,
+    "watchers_count": 14149,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 3453,
+    "forks_count": 3456,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/apache-2.0",
         "node_id": "MDc6TGljZW5zZTI="
     },
-    "forks": 3453,
+    "forks": 3456,
     "open_issues": 265,
-    "watchers": 14131,
+    "watchers": 14149,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 3453,
-    "subscribers_count": 901
+    "network_count": 3456,
+    "subscribers_count": 900
 }

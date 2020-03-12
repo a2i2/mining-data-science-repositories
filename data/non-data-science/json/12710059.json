@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/django-parler/django-parler/releases{/id}",
     "deployments_url": "https://api.github.com/repos/django-parler/django-parler/deployments",
     "created_at": "2013-09-09T19:05:32Z",
-    "updated_at": "2020-02-25T17:09:46Z",
+    "updated_at": "2020-03-11T07:27:28Z",
     "pushed_at": "2020-02-11T21:53:19Z",
     "git_url": "git://github.com/django-parler/django-parler.git",
     "ssh_url": "git@github.com:django-parler/django-parler.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/django-parler/django-parler",
     "homepage": "",
     "size": 1160,
-    "stargazers_count": 397,
-    "watchers_count": 397,
+    "stargazers_count": 398,
+    "watchers_count": 398,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 111,
+    "forks_count": 110,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/apache-2.0",
         "node_id": "MDc6TGljZW5zZTI="
     },
-    "forks": 111,
+    "forks": 110,
     "open_issues": 53,
-    "watchers": 397,
+    "watchers": 398,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 111,
+    "network_count": 110,
     "subscribers_count": 15
 }

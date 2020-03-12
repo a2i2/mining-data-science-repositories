@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/mayan-edms/Mayan-EDMS/releases{/id}",
     "deployments_url": "https://api.github.com/repos/mayan-edms/Mayan-EDMS/deployments",
     "created_at": "2019-05-04T23:54:24Z",
-    "updated_at": "2020-03-05T08:33:09Z",
+    "updated_at": "2020-03-07T10:00:53Z",
     "pushed_at": "2020-03-05T08:33:18Z",
     "git_url": "git://github.com/mayan-edms/Mayan-EDMS.git",
     "ssh_url": "git@github.com:mayan-edms/Mayan-EDMS.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/mayan-edms/Mayan-EDMS",
     "homepage": "https://gitlab.com/mayan-edms/mayan-edms",
     "size": 124590,
-    "stargazers_count": 89,
-    "watchers_count": 89,
+    "stargazers_count": 91,
+    "watchers_count": 91,
     "language": "Python",
     "has_issues": false,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 67,
+    "forks_count": 68,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": null,
         "node_id": "MDc6TGljZW5zZTA="
     },
-    "forks": 67,
+    "forks": 68,
     "open_issues": 1,
-    "watchers": 89,
+    "watchers": 91,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 67,
-    "subscribers_count": 5
+    "network_count": 68,
+    "subscribers_count": 6
 }

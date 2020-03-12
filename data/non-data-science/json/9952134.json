@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/python-visualization/folium/releases{/id}",
     "deployments_url": "https://api.github.com/repos/python-visualization/folium/deployments",
     "created_at": "2013-05-09T04:21:35Z",
-    "updated_at": "2020-03-05T23:19:26Z",
+    "updated_at": "2020-03-11T13:55:15Z",
     "pushed_at": "2020-03-05T12:35:18Z",
     "git_url": "git://github.com/python-visualization/folium.git",
     "ssh_url": "git@github.com:python-visualization/folium.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/python-visualization/folium",
     "homepage": "https://python-visualization.github.io/folium/",
     "size": 94318,
-    "stargazers_count": 4504,
-    "watchers_count": 4504,
+    "stargazers_count": 4520,
+    "watchers_count": 4520,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": true,
-    "forks_count": 1558,
+    "forks_count": 1572,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 1558,
+    "forks": 1572,
     "open_issues": 101,
-    "watchers": 4504,
+    "watchers": 4520,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 1558,
-    "subscribers_count": 166
+    "network_count": 1572,
+    "subscribers_count": 167
 }

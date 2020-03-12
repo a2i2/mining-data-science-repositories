@@ -65,16 +65,16 @@
     "releases_url": "https://api.github.com/repos/concentricsky/badgr-server/releases{/id}",
     "deployments_url": "https://api.github.com/repos/concentricsky/badgr-server/deployments",
     "created_at": "2015-04-10T11:29:28Z",
-    "updated_at": "2020-03-06T00:55:24Z",
-    "pushed_at": "2020-03-05T18:49:09Z",
+    "updated_at": "2020-03-10T19:08:13Z",
+    "pushed_at": "2020-03-10T22:56:59Z",
     "git_url": "git://github.com/concentricsky/badgr-server.git",
     "ssh_url": "git@github.com:concentricsky/badgr-server.git",
     "clone_url": "https://github.com/concentricsky/badgr-server.git",
     "svn_url": "https://github.com/concentricsky/badgr-server",
     "homepage": null,
-    "size": 9831,
-    "stargazers_count": 146,
-    "watchers_count": 146,
+    "size": 9860,
+    "stargazers_count": 147,
+    "watchers_count": 147,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -85,7 +85,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 26,
+    "open_issues_count": 27,
     "license": {
         "key": "agpl-3.0",
         "name": "GNU Affero General Public License v3.0",
@@ -94,8 +94,8 @@
         "node_id": "MDc6TGljZW5zZTE="
     },
     "forks": 77,
-    "open_issues": 26,
-    "watchers": 146,
+    "open_issues": 27,
+    "watchers": 147,
     "default_branch": "develop",
     "permissions": {
         "admin": false,
@@ -124,5 +124,5 @@
         "site_admin": false
     },
     "network_count": 77,
-    "subscribers_count": 39
+    "subscribers_count": 38
 }

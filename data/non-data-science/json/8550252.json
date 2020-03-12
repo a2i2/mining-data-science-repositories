@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/hellysmile/fake-useragent/releases{/id}",
     "deployments_url": "https://api.github.com/repos/hellysmile/fake-useragent/deployments",
     "created_at": "2013-03-04T07:14:29Z",
-    "updated_at": "2020-03-04T09:03:41Z",
+    "updated_at": "2020-03-11T02:03:11Z",
     "pushed_at": "2019-10-19T20:16:59Z",
     "git_url": "git://github.com/hellysmile/fake-useragent.git",
     "ssh_url": "git@github.com:hellysmile/fake-useragent.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/hellysmile/fake-useragent",
     "homepage": "https://pypi.python.org/pypi/fake-useragent",
     "size": 115,
-    "stargazers_count": 1895,
-    "watchers_count": 1895,
+    "stargazers_count": 1900,
+    "watchers_count": 1900,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 293,
+    "forks_count": 294,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/apache-2.0",
         "node_id": "MDc6TGljZW5zZTI="
     },
-    "forks": 293,
+    "forks": 294,
     "open_issues": 29,
-    "watchers": 1895,
+    "watchers": 1900,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 293,
+    "network_count": 294,
     "subscribers_count": 64
 }

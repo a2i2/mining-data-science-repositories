@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/AonCyberLabs/Windows-Exploit-Suggester/releases{/id}",
     "deployments_url": "https://api.github.com/repos/AonCyberLabs/Windows-Exploit-Suggester/deployments",
     "created_at": "2014-07-08T13:16:28Z",
-    "updated_at": "2020-03-05T12:14:41Z",
+    "updated_at": "2020-03-11T11:37:47Z",
     "pushed_at": "2019-12-02T05:05:10Z",
     "git_url": "git://github.com/AonCyberLabs/Windows-Exploit-Suggester.git",
     "ssh_url": "git@github.com:AonCyberLabs/Windows-Exploit-Suggester.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/AonCyberLabs/Windows-Exploit-Suggester",
     "homepage": "",
     "size": 164,
-    "stargazers_count": 2051,
-    "watchers_count": 2051,
+    "stargazers_count": 2060,
+    "watchers_count": 2060,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 657,
     "open_issues": 17,
-    "watchers": 2051,
+    "watchers": 2060,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -124,5 +124,5 @@
         "site_admin": false
     },
     "network_count": 657,
-    "subscribers_count": 160
+    "subscribers_count": 161
 }

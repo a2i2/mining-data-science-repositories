@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/jreese/spotify-gnome/releases{/id}",
     "deployments_url": "https://api.github.com/repos/jreese/spotify-gnome/deployments",
     "created_at": "2011-07-15T12:12:37Z",
-    "updated_at": "2020-03-04T11:36:06Z",
+    "updated_at": "2020-03-09T10:47:02Z",
     "pushed_at": "2016-02-23T22:50:58Z",
     "git_url": "git://github.com/jreese/spotify-gnome.git",
     "ssh_url": "git@github.com:jreese/spotify-gnome.git",

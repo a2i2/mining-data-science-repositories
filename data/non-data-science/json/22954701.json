@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/noirbizarre/flask-restplus/releases{/id}",
     "deployments_url": "https://api.github.com/repos/noirbizarre/flask-restplus/deployments",
     "created_at": "2014-08-14T13:26:03Z",
-    "updated_at": "2020-03-05T22:44:02Z",
+    "updated_at": "2020-03-11T08:48:33Z",
     "pushed_at": "2020-02-22T10:09:38Z",
     "git_url": "git://github.com/noirbizarre/flask-restplus.git",
     "ssh_url": "git@github.com:noirbizarre/flask-restplus.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/noirbizarre/flask-restplus",
     "homepage": "http://flask-restplus.readthedocs.org",
     "size": 1316,
-    "stargazers_count": 2203,
-    "watchers_count": 2203,
+    "stargazers_count": 2205,
+    "watchers_count": 2205,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 444,
+    "forks_count": 445,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": null,
         "node_id": "MDc6TGljZW5zZTA="
     },
-    "forks": 444,
+    "forks": 445,
     "open_issues": 361,
-    "watchers": 2203,
+    "watchers": 2205,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 444,
+    "network_count": 445,
     "subscribers_count": 125
 }

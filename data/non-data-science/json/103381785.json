@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/llSourcell/A-Guide-to-DeepMinds-StarCraft-AI-Environment/releases{/id}",
     "deployments_url": "https://api.github.com/repos/llSourcell/A-Guide-to-DeepMinds-StarCraft-AI-Environment/deployments",
     "created_at": "2017-09-13T09:41:11Z",
-    "updated_at": "2019-12-29T06:52:43Z",
+    "updated_at": "2020-03-08T22:15:29Z",
     "pushed_at": "2018-12-09T13:23:43Z",
     "git_url": "git://github.com/llSourcell/A-Guide-to-DeepMinds-StarCraft-AI-Environment.git",
     "ssh_url": "git@github.com:llSourcell/A-Guide-to-DeepMinds-StarCraft-AI-Environment.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/llSourcell/A-Guide-to-DeepMinds-StarCraft-AI-Environment",
     "homepage": null,
     "size": 4441,
-    "stargazers_count": 192,
-    "watchers_count": 192,
+    "stargazers_count": 193,
+    "watchers_count": 193,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 72,
+    "forks_count": 73,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/apache-2.0",
         "node_id": "MDc6TGljZW5zZTI="
     },
-    "forks": 72,
+    "forks": 73,
     "open_issues": 12,
-    "watchers": 192,
+    "watchers": 193,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 72,
+    "network_count": 73,
     "subscribers_count": 18
 }

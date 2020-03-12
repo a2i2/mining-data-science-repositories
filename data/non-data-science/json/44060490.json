@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/techgaun/github-dorks/releases{/id}",
     "deployments_url": "https://api.github.com/repos/techgaun/github-dorks/deployments",
     "created_at": "2015-10-11T16:44:31Z",
-    "updated_at": "2020-03-04T15:28:10Z",
+    "updated_at": "2020-03-11T01:03:00Z",
     "pushed_at": "2019-09-09T05:04:09Z",
     "git_url": "git://github.com/techgaun/github-dorks.git",
     "ssh_url": "git@github.com:techgaun/github-dorks.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/techgaun/github-dorks",
     "homepage": "",
     "size": 47,
-    "stargazers_count": 870,
-    "watchers_count": 870,
+    "stargazers_count": 877,
+    "watchers_count": 877,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 222,
+    "forks_count": 223,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/apache-2.0",
         "node_id": "MDc6TGljZW5zZTI="
     },
-    "forks": 222,
+    "forks": 223,
     "open_issues": 9,
-    "watchers": 870,
+    "watchers": 877,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 222,
+    "network_count": 223,
     "subscribers_count": 69
 }

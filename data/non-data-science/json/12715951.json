@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/Southpaw-TACTIC/TACTIC/releases{/id}",
     "deployments_url": "https://api.github.com/repos/Southpaw-TACTIC/TACTIC/deployments",
     "created_at": "2013-09-10T00:06:41Z",
-    "updated_at": "2020-03-02T18:10:09Z",
+    "updated_at": "2020-03-07T22:36:01Z",
     "pushed_at": "2020-03-05T15:36:21Z",
     "git_url": "git://github.com/Southpaw-TACTIC/TACTIC.git",
     "ssh_url": "git@github.com:Southpaw-TACTIC/TACTIC.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/Southpaw-TACTIC/TACTIC",
     "homepage": "",
     "size": 174621,
-    "stargazers_count": 216,
-    "watchers_count": 216,
+    "stargazers_count": 217,
+    "watchers_count": 217,
     "language": "Python",
     "has_issues": false,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 103,
     "open_issues": 8,
-    "watchers": 216,
+    "watchers": 217,
     "default_branch": "4.7",
     "permissions": {
         "admin": false,
@@ -124,5 +124,5 @@
         "site_admin": false
     },
     "network_count": 103,
-    "subscribers_count": 64
+    "subscribers_count": 65
 }

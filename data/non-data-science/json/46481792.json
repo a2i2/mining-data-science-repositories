@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/AonCyberLabs/EvilAbigail/releases{/id}",
     "deployments_url": "https://api.github.com/repos/AonCyberLabs/EvilAbigail/deployments",
     "created_at": "2015-11-19T09:27:16Z",
-    "updated_at": "2020-02-05T07:24:00Z",
+    "updated_at": "2020-03-06T08:43:23Z",
     "pushed_at": "2015-12-22T19:35:59Z",
     "git_url": "git://github.com/AonCyberLabs/EvilAbigail.git",
     "ssh_url": "git@github.com:AonCyberLabs/EvilAbigail.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/AonCyberLabs/EvilAbigail",
     "homepage": null,
     "size": 65,
-    "stargazers_count": 357,
-    "watchers_count": 357,
+    "stargazers_count": 358,
+    "watchers_count": 358,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 79,
+    "forks_count": 80,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/gpl-2.0",
         "node_id": "MDc6TGljZW5zZTg="
     },
-    "forks": 79,
+    "forks": 80,
     "open_issues": 1,
-    "watchers": 357,
+    "watchers": 358,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 79,
+    "network_count": 80,
     "subscribers_count": 118
 }

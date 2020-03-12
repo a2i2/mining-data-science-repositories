@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/buildinspace/peru/releases{/id}",
     "deployments_url": "https://api.github.com/repos/buildinspace/peru/deployments",
     "created_at": "2013-10-26T09:14:57Z",
-    "updated_at": "2020-03-03T10:12:23Z",
+    "updated_at": "2020-03-08T10:41:31Z",
     "pushed_at": "2018-12-22T18:45:36Z",
     "git_url": "git://github.com/buildinspace/peru.git",
     "ssh_url": "git@github.com:buildinspace/peru.git",

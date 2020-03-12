@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/NVIDIA/sentiment-discovery/releases{/id}",
     "deployments_url": "https://api.github.com/repos/NVIDIA/sentiment-discovery/deployments",
     "created_at": "2017-11-30T21:50:15Z",
-    "updated_at": "2020-02-26T22:18:42Z",
+    "updated_at": "2020-03-10T03:58:03Z",
     "pushed_at": "2019-06-13T06:15:58Z",
     "git_url": "git://github.com/NVIDIA/sentiment-discovery.git",
     "ssh_url": "git@github.com:NVIDIA/sentiment-discovery.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/NVIDIA/sentiment-discovery",
     "homepage": null,
     "size": 57356,
-    "stargazers_count": 949,
-    "watchers_count": 949,
+    "stargazers_count": 953,
+    "watchers_count": 953,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 172,
+    "forks_count": 173,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": null,
         "node_id": "MDc6TGljZW5zZTA="
     },
-    "forks": 172,
+    "forks": 173,
     "open_issues": 38,
-    "watchers": 949,
+    "watchers": 953,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 172,
+    "network_count": 173,
     "subscribers_count": 38
 }

@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/RobotWebTools/rosbridge_suite/releases{/id}",
     "deployments_url": "https://api.github.com/repos/RobotWebTools/rosbridge_suite/deployments",
     "created_at": "2012-10-16T21:08:31Z",
-    "updated_at": "2020-03-04T06:49:14Z",
+    "updated_at": "2020-03-10T09:12:47Z",
     "pushed_at": "2020-03-05T11:25:33Z",
     "git_url": "git://github.com/RobotWebTools/rosbridge_suite.git",
     "ssh_url": "git@github.com:RobotWebTools/rosbridge_suite.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/RobotWebTools/rosbridge_suite",
     "homepage": "http://robotwebtools.org/",
     "size": 2436,
-    "stargazers_count": 293,
-    "watchers_count": 293,
+    "stargazers_count": 294,
+    "watchers_count": 294,
     "language": "Python",
     "has_issues": true,
     "has_projects": false,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 258,
+    "forks_count": 259,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": null,
         "node_id": "MDc6TGljZW5zZTA="
     },
-    "forks": 258,
+    "forks": 259,
     "open_issues": 63,
-    "watchers": 293,
+    "watchers": 294,
     "default_branch": "develop",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 258,
+    "network_count": 259,
     "subscribers_count": 45
 }

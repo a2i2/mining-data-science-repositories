@@ -65,14 +65,14 @@
     "releases_url": "https://api.github.com/repos/weewx/weewx/releases{/id}",
     "deployments_url": "https://api.github.com/repos/weewx/weewx/deployments",
     "created_at": "2015-02-17T02:32:29Z",
-    "updated_at": "2020-03-05T09:35:13Z",
-    "pushed_at": "2020-03-04T00:26:09Z",
+    "updated_at": "2020-03-08T17:54:25Z",
+    "pushed_at": "2020-03-08T17:54:23Z",
     "git_url": "git://github.com/weewx/weewx.git",
     "ssh_url": "git@github.com:weewx/weewx.git",
     "clone_url": "https://github.com/weewx/weewx.git",
     "svn_url": "https://github.com/weewx/weewx",
     "homepage": "http://weewx.com",
-    "size": 16477,
+    "size": 16482,
     "stargazers_count": 541,
     "watchers_count": 541,
     "language": "Python",
@@ -85,7 +85,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 16,
+    "open_issues_count": 17,
     "license": {
         "key": "gpl-3.0",
         "name": "GNU General Public License v3.0",
@@ -94,7 +94,7 @@
         "node_id": "MDc6TGljZW5zZTk="
     },
     "forks": 195,
-    "open_issues": 16,
+    "open_issues": 17,
     "watchers": 541,
     "default_branch": "master",
     "permissions": {
@@ -124,5 +124,5 @@
         "site_admin": false
     },
     "network_count": 195,
-    "subscribers_count": 82
+    "subscribers_count": 83
 }

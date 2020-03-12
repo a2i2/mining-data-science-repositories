@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/chibisov/drf-extensions/releases{/id}",
     "deployments_url": "https://api.github.com/repos/chibisov/drf-extensions/deployments",
     "created_at": "2013-07-25T07:06:04Z",
-    "updated_at": "2020-03-01T18:03:03Z",
+    "updated_at": "2020-03-09T22:05:33Z",
     "pushed_at": "2020-01-27T10:19:42Z",
     "git_url": "git://github.com/chibisov/drf-extensions.git",
     "ssh_url": "git@github.com:chibisov/drf-extensions.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/chibisov/drf-extensions",
     "homepage": "http://chibisov.github.io/drf-extensions/docs",
     "size": 1282,
-    "stargazers_count": 949,
-    "watchers_count": 949,
+    "stargazers_count": 954,
+    "watchers_count": 954,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": true,
-    "forks_count": 171,
+    "forks_count": 173,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 171,
+    "forks": 173,
     "open_issues": 69,
-    "watchers": 949,
+    "watchers": 954,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 171,
+    "network_count": 173,
     "subscribers_count": 26
 }

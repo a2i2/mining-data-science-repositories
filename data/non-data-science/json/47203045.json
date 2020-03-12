@@ -65,14 +65,14 @@
     "releases_url": "https://api.github.com/repos/DataDog/integrations-core/releases{/id}",
     "deployments_url": "https://api.github.com/repos/DataDog/integrations-core/deployments",
     "created_at": "2015-12-01T16:41:45Z",
-    "updated_at": "2020-03-06T00:08:06Z",
-    "pushed_at": "2020-03-06T00:08:03Z",
+    "updated_at": "2020-03-10T17:03:34Z",
+    "pushed_at": "2020-03-11T08:13:31Z",
     "git_url": "git://github.com/DataDog/integrations-core.git",
     "ssh_url": "git@github.com:DataDog/integrations-core.git",
     "clone_url": "https://github.com/DataDog/integrations-core.git",
     "svn_url": "https://github.com/DataDog/integrations-core",
     "homepage": "",
-    "size": 49906,
+    "size": 49983,
     "stargazers_count": 353,
     "watchers_count": 353,
     "language": "Python",
@@ -81,11 +81,11 @@
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": true,
-    "forks_count": 646,
+    "forks_count": 648,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 84,
+    "open_issues_count": 77,
     "license": {
         "key": "bsd-3-clause",
         "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -93,8 +93,8 @@
         "url": "https://api.github.com/licenses/bsd-3-clause",
         "node_id": "MDc6TGljZW5zZTU="
     },
-    "forks": 646,
-    "open_issues": 84,
+    "forks": 648,
+    "open_issues": 77,
     "watchers": 353,
     "default_branch": "master",
     "permissions": {
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 646,
+    "network_count": 648,
     "subscribers_count": 169
 }

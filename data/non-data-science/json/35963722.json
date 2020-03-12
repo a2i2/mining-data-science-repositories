@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/nickjj/build-a-saas-app-with-flask/releases{/id}",
     "deployments_url": "https://api.github.com/repos/nickjj/build-a-saas-app-with-flask/deployments",
     "created_at": "2015-05-20T17:40:15Z",
-    "updated_at": "2020-03-04T07:53:37Z",
+    "updated_at": "2020-03-10T11:56:03Z",
     "pushed_at": "2020-02-16T19:28:04Z",
     "git_url": "git://github.com/nickjj/build-a-saas-app-with-flask.git",
     "ssh_url": "git@github.com:nickjj/build-a-saas-app-with-flask.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/nickjj/build-a-saas-app-with-flask",
     "homepage": "https://buildasaasappwithflask.com",
     "size": 1567,
-    "stargazers_count": 551,
-    "watchers_count": 551,
+    "stargazers_count": 553,
+    "watchers_count": 553,
     "language": "HTML",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 107,
+    "forks_count": 109,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 107,
+    "forks": 109,
     "open_issues": 0,
-    "watchers": 551,
+    "watchers": 553,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 107,
+    "network_count": 109,
     "subscribers_count": 41
 }

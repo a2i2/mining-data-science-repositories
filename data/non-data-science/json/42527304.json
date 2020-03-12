@@ -85,7 +85,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 45,
+    "open_issues_count": 44,
     "license": {
         "key": "bsd-3-clause",
         "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -94,7 +94,7 @@
         "node_id": "MDc6TGljZW5zZTU="
     },
     "forks": 192,
-    "open_issues": 45,
+    "open_issues": 44,
     "watchers": 385,
     "default_branch": "master",
     "permissions": {
@@ -124,5 +124,5 @@
         "site_admin": false
     },
     "network_count": 192,
-    "subscribers_count": 45
+    "subscribers_count": 46
 }

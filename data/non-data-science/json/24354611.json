@@ -85,7 +85,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 12,
+    "open_issues_count": 13,
     "license": {
         "key": "gpl-3.0",
         "name": "GNU General Public License v3.0",
@@ -94,7 +94,7 @@
         "node_id": "MDc6TGljZW5zZTk="
     },
     "forks": 24,
-    "open_issues": 12,
+    "open_issues": 13,
     "watchers": 124,
     "default_branch": "master",
     "permissions": {
@@ -104,5 +104,5 @@
     },
     "temp_clone_token": "",
     "network_count": 24,
-    "subscribers_count": 14
+    "subscribers_count": 13
 }

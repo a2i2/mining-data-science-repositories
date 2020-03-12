@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/maldevel/IPGeoLocation/releases{/id}",
     "deployments_url": "https://api.github.com/repos/maldevel/IPGeoLocation/deployments",
     "created_at": "2015-12-12T11:30:04Z",
-    "updated_at": "2020-03-05T12:41:08Z",
+    "updated_at": "2020-03-10T21:18:52Z",
     "pushed_at": "2016-12-24T07:38:42Z",
     "git_url": "git://github.com/maldevel/IPGeoLocation.git",
     "ssh_url": "git@github.com:maldevel/IPGeoLocation.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/maldevel/IPGeoLocation",
     "homepage": null,
     "size": 83,
-    "stargazers_count": 308,
-    "watchers_count": 308,
+    "stargazers_count": 310,
+    "watchers_count": 310,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 159,
+    "forks_count": 162,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/gpl-3.0",
         "node_id": "MDc6TGljZW5zZTk="
     },
-    "forks": 159,
+    "forks": 162,
     "open_issues": 9,
-    "watchers": 308,
+    "watchers": 310,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 159,
-    "subscribers_count": 49
+    "network_count": 162,
+    "subscribers_count": 50
 }

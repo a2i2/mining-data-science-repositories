@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/anantshri/svn-extractor/releases{/id}",
     "deployments_url": "https://api.github.com/repos/anantshri/svn-extractor/deployments",
     "created_at": "2013-03-25T06:49:52Z",
-    "updated_at": "2020-03-01T20:14:43Z",
+    "updated_at": "2020-03-07T05:04:42Z",
     "pushed_at": "2019-04-29T09:32:50Z",
     "git_url": "git://github.com/anantshri/svn-extractor.git",
     "ssh_url": "git@github.com:anantshri/svn-extractor.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/anantshri/svn-extractor",
     "homepage": "http://blog.anantshri.info/svn-extractor-for-web-pentesters/",
     "size": 42,
-    "stargazers_count": 191,
-    "watchers_count": 191,
+    "stargazers_count": 192,
+    "watchers_count": 192,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 82,
+    "forks_count": 83,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/gpl-3.0",
         "node_id": "MDc6TGljZW5zZTk="
     },
-    "forks": 82,
+    "forks": 83,
     "open_issues": 4,
-    "watchers": 191,
+    "watchers": 192,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 82,
+    "network_count": 83,
     "subscribers_count": 15
 }

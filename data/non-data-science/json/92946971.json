@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/encode/uvicorn/releases{/id}",
     "deployments_url": "https://api.github.com/repos/encode/uvicorn/deployments",
     "created_at": "2017-05-31T13:13:43Z",
-    "updated_at": "2020-03-06T01:29:48Z",
+    "updated_at": "2020-03-11T14:49:25Z",
     "pushed_at": "2020-02-24T16:56:04Z",
     "git_url": "git://github.com/encode/uvicorn.git",
     "ssh_url": "git@github.com:encode/uvicorn.git",
@@ -73,19 +73,19 @@
     "svn_url": "https://github.com/encode/uvicorn",
     "homepage": "https://www.uvicorn.org/",
     "size": 1929,
-    "stargazers_count": 2270,
-    "watchers_count": 2270,
+    "stargazers_count": 2289,
+    "watchers_count": 2289,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": true,
-    "forks_count": 154,
+    "forks_count": 155,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 75,
+    "open_issues_count": 74,
     "license": {
         "key": "bsd-3-clause",
         "name": "BSD 3-Clause \"New\" or \"Revised\" License",
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/bsd-3-clause",
         "node_id": "MDc6TGljZW5zZTU="
     },
-    "forks": 154,
-    "open_issues": 75,
-    "watchers": 2270,
+    "forks": 155,
+    "open_issues": 74,
+    "watchers": 2289,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 154,
-    "subscribers_count": 67
+    "network_count": 155,
+    "subscribers_count": 68
 }

@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/vim-awesome/vim-awesome/releases{/id}",
     "deployments_url": "https://api.github.com/repos/vim-awesome/vim-awesome/deployments",
     "created_at": "2013-05-27T02:57:40Z",
-    "updated_at": "2020-03-05T10:52:22Z",
+    "updated_at": "2020-03-09T14:03:25Z",
     "pushed_at": "2019-10-14T17:40:49Z",
     "git_url": "git://github.com/vim-awesome/vim-awesome.git",
     "ssh_url": "git@github.com:vim-awesome/vim-awesome.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/vim-awesome/vim-awesome",
     "homepage": "http://vimawesome.com",
     "size": 4215,
-    "stargazers_count": 1599,
-    "watchers_count": 1599,
+    "stargazers_count": 1600,
+    "watchers_count": 1600,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 83,
     "open_issues": 79,
-    "watchers": 1599,
+    "watchers": 1600,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -124,5 +124,5 @@
         "site_admin": false
     },
     "network_count": 83,
-    "subscribers_count": 47
+    "subscribers_count": 46
 }

@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/evhub/coconut/releases{/id}",
     "deployments_url": "https://api.github.com/repos/evhub/coconut/deployments",
     "created_at": "2014-10-04T23:43:11Z",
-    "updated_at": "2020-03-05T08:56:27Z",
+    "updated_at": "2020-03-10T17:25:18Z",
     "pushed_at": "2020-02-28T19:12:10Z",
     "git_url": "git://github.com/evhub/coconut.git",
     "ssh_url": "git@github.com:evhub/coconut.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/evhub/coconut",
     "homepage": "http://coconut-lang.org",
     "size": 5493,
-    "stargazers_count": 2684,
-    "watchers_count": 2684,
+    "stargazers_count": 2686,
+    "watchers_count": 2686,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -85,7 +85,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 74,
+    "open_issues_count": 75,
     "license": {
         "key": "apache-2.0",
         "name": "Apache License 2.0",
@@ -94,8 +94,8 @@
         "node_id": "MDc6TGljZW5zZTI="
     },
     "forks": 90,
-    "open_issues": 74,
-    "watchers": 2684,
+    "open_issues": 75,
+    "watchers": 2686,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -104,5 +104,5 @@
     },
     "temp_clone_token": "",
     "network_count": 90,
-    "subscribers_count": 71
+    "subscribers_count": 70
 }

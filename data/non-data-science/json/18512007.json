@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/Smile-SA/odoo_addons/releases{/id}",
     "deployments_url": "https://api.github.com/repos/Smile-SA/odoo_addons/deployments",
     "created_at": "2014-04-07T09:26:05Z",
-    "updated_at": "2020-02-25T21:34:40Z",
+    "updated_at": "2020-03-11T06:07:46Z",
     "pushed_at": "2020-02-25T21:34:38Z",
     "git_url": "git://github.com/Smile-SA/odoo_addons.git",
     "ssh_url": "git@github.com:Smile-SA/odoo_addons.git",
@@ -73,19 +73,19 @@
     "svn_url": "https://github.com/Smile-SA/odoo_addons",
     "homepage": "",
     "size": 78705,
-    "stargazers_count": 193,
-    "watchers_count": 193,
+    "stargazers_count": 194,
+    "watchers_count": 194,
     "language": "Python",
     "has_issues": true,
     "has_projects": false,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 211,
+    "forks_count": 212,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 46,
+    "open_issues_count": 47,
     "license": {
         "key": "agpl-3.0",
         "name": "GNU Affero General Public License v3.0",
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/agpl-3.0",
         "node_id": "MDc6TGljZW5zZTE="
     },
-    "forks": 211,
-    "open_issues": 46,
-    "watchers": 193,
+    "forks": 212,
+    "open_issues": 47,
+    "watchers": 194,
     "default_branch": "12.0",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 211,
+    "network_count": 212,
     "subscribers_count": 71
 }

@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/source-foundry/Hack/releases{/id}",
     "deployments_url": "https://api.github.com/repos/source-foundry/Hack/deployments",
     "created_at": "2015-06-21T22:47:58Z",
-    "updated_at": "2020-03-05T21:22:13Z",
+    "updated_at": "2020-03-11T03:17:49Z",
     "pushed_at": "2020-02-05T11:34:03Z",
     "git_url": "git://github.com/source-foundry/Hack.git",
     "ssh_url": "git@github.com:source-foundry/Hack.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/source-foundry/Hack",
     "homepage": "http://sourcefoundry.org/hack/",
     "size": 108104,
-    "stargazers_count": 13154,
-    "watchers_count": 13154,
+    "stargazers_count": 13174,
+    "watchers_count": 13174,
     "language": "Shell",
     "has_issues": true,
     "has_projects": false,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": true,
-    "forks_count": 477,
+    "forks_count": 478,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": null,
         "node_id": "MDc6TGljZW5zZTA="
     },
-    "forks": 477,
+    "forks": 478,
     "open_issues": 99,
-    "watchers": 13154,
+    "watchers": 13174,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 477,
-    "subscribers_count": 284
+    "network_count": 478,
+    "subscribers_count": 283
 }

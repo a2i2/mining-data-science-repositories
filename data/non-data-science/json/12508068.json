@@ -65,16 +65,16 @@
     "releases_url": "https://api.github.com/repos/malthe/pq/releases{/id}",
     "deployments_url": "https://api.github.com/repos/malthe/pq/deployments",
     "created_at": "2013-08-31T16:18:40Z",
-    "updated_at": "2020-03-04T14:43:24Z",
-    "pushed_at": "2020-02-28T12:03:59Z",
+    "updated_at": "2020-03-11T13:39:30Z",
+    "pushed_at": "2020-03-08T20:38:31Z",
     "git_url": "git://github.com/malthe/pq.git",
     "ssh_url": "git@github.com:malthe/pq.git",
     "clone_url": "https://github.com/malthe/pq.git",
     "svn_url": "https://github.com/malthe/pq",
     "homepage": null,
-    "size": 172,
-    "stargazers_count": 248,
-    "watchers_count": 248,
+    "size": 195,
+    "stargazers_count": 250,
+    "watchers_count": 250,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -89,7 +89,7 @@
     "license": null,
     "forks": 26,
     "open_issues": 11,
-    "watchers": 248,
+    "watchers": 250,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -98,5 +98,5 @@
     },
     "temp_clone_token": "",
     "network_count": 26,
-    "subscribers_count": 12
+    "subscribers_count": 13
 }

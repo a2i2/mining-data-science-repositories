@@ -65,16 +65,16 @@
     "releases_url": "https://api.github.com/repos/angr/cle/releases{/id}",
     "deployments_url": "https://api.github.com/repos/angr/cle/deployments",
     "created_at": "2015-05-27T09:53:48Z",
-    "updated_at": "2020-03-02T13:59:47Z",
-    "pushed_at": "2020-02-28T08:32:53Z",
+    "updated_at": "2020-03-10T18:39:35Z",
+    "pushed_at": "2020-03-10T13:08:30Z",
     "git_url": "git://github.com/angr/cle.git",
     "ssh_url": "git@github.com:angr/cle.git",
     "clone_url": "https://github.com/angr/cle.git",
     "svn_url": "https://github.com/angr/cle",
     "homepage": null,
-    "size": 4281,
-    "stargazers_count": 210,
-    "watchers_count": 210,
+    "size": 4312,
+    "stargazers_count": 213,
+    "watchers_count": 213,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -85,7 +85,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 36,
+    "open_issues_count": 31,
     "license": {
         "key": "bsd-2-clause",
         "name": "BSD 2-Clause \"Simplified\" License",
@@ -94,8 +94,8 @@
         "node_id": "MDc6TGljZW5zZTQ="
     },
     "forks": 80,
-    "open_issues": 36,
-    "watchers": 210,
+    "open_issues": 31,
+    "watchers": 213,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -124,5 +124,5 @@
         "site_admin": false
     },
     "network_count": 80,
-    "subscribers_count": 33
+    "subscribers_count": 34
 }

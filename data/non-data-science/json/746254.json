@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/pycco-docs/pycco/releases{/id}",
     "deployments_url": "https://api.github.com/repos/pycco-docs/pycco/deployments",
     "created_at": "2010-06-29T07:02:31Z",
-    "updated_at": "2020-02-14T23:01:12Z",
+    "updated_at": "2020-03-09T12:40:03Z",
     "pushed_at": "2019-12-20T19:59:53Z",
     "git_url": "git://github.com/pycco-docs/pycco.git",
     "ssh_url": "git@github.com:pycco-docs/pycco.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/pycco-docs/pycco",
     "homepage": "https://pycco-docs.github.io/pycco/",
     "size": 250,
-    "stargazers_count": 703,
-    "watchers_count": 703,
+    "stargazers_count": 704,
+    "watchers_count": 704,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 135,
     "open_issues": 25,
-    "watchers": 703,
+    "watchers": 704,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -124,5 +124,5 @@
         "site_admin": false
     },
     "network_count": 135,
-    "subscribers_count": 19
+    "subscribers_count": 18
 }

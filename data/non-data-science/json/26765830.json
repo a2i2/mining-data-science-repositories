@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/cjhutto/vaderSentiment/releases{/id}",
     "deployments_url": "https://api.github.com/repos/cjhutto/vaderSentiment/deployments",
     "created_at": "2014-11-17T16:31:45Z",
-    "updated_at": "2020-03-05T09:07:45Z",
+    "updated_at": "2020-03-11T12:59:16Z",
     "pushed_at": "2020-01-29T16:41:49Z",
     "git_url": "git://github.com/cjhutto/vaderSentiment.git",
     "ssh_url": "git@github.com:cjhutto/vaderSentiment.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/cjhutto/vaderSentiment",
     "homepage": "",
     "size": 2863,
-    "stargazers_count": 2171,
-    "watchers_count": 2171,
+    "stargazers_count": 2198,
+    "watchers_count": 2198,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 600,
+    "forks_count": 605,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 600,
+    "forks": 605,
     "open_issues": 24,
-    "watchers": 2171,
+    "watchers": 2198,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 600,
+    "network_count": 605,
     "subscribers_count": 126
 }

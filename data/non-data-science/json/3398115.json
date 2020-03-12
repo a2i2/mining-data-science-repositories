@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/benmatselby/sublime-phpcs/releases{/id}",
     "deployments_url": "https://api.github.com/repos/benmatselby/sublime-phpcs/deployments",
     "created_at": "2012-02-09T15:19:25Z",
-    "updated_at": "2020-02-02T04:28:19Z",
+    "updated_at": "2020-03-10T21:48:40Z",
     "pushed_at": "2020-01-17T08:29:39Z",
     "git_url": "git://github.com/benmatselby/sublime-phpcs.git",
     "ssh_url": "git@github.com:benmatselby/sublime-phpcs.git",

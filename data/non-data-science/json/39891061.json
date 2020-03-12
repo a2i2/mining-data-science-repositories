@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/matthewearl/faceswap/releases{/id}",
     "deployments_url": "https://api.github.com/repos/matthewearl/faceswap/deployments",
     "created_at": "2015-07-29T12:01:26Z",
-    "updated_at": "2020-03-04T17:13:24Z",
+    "updated_at": "2020-03-10T09:54:16Z",
     "pushed_at": "2018-04-03T17:12:57Z",
     "git_url": "git://github.com/matthewearl/faceswap.git",
     "ssh_url": "git@github.com:matthewearl/faceswap.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/matthewearl/faceswap",
     "homepage": null,
     "size": 11,
-    "stargazers_count": 1189,
-    "watchers_count": 1189,
+    "stargazers_count": 1191,
+    "watchers_count": 1191,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 439,
+    "forks_count": 441,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 439,
+    "forks": 441,
     "open_issues": 17,
-    "watchers": 1189,
+    "watchers": 1191,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 439,
+    "network_count": 441,
     "subscribers_count": 58
 }

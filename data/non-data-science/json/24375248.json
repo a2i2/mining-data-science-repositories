@@ -65,16 +65,16 @@
     "releases_url": "https://api.github.com/repos/blockstack/blockstack-core/releases{/id}",
     "deployments_url": "https://api.github.com/repos/blockstack/blockstack-core/deployments",
     "created_at": "2014-09-23T14:40:43Z",
-    "updated_at": "2020-03-05T23:20:06Z",
-    "pushed_at": "2020-03-05T19:20:20Z",
+    "updated_at": "2020-03-10T23:49:31Z",
+    "pushed_at": "2020-03-11T04:43:19Z",
     "git_url": "git://github.com/blockstack/blockstack-core.git",
     "ssh_url": "git@github.com:blockstack/blockstack-core.git",
     "clone_url": "https://github.com/blockstack/blockstack-core.git",
     "svn_url": "https://github.com/blockstack/blockstack-core",
     "homepage": "http://docs.blockstack.org",
-    "size": 57150,
-    "stargazers_count": 1988,
-    "watchers_count": 1988,
+    "size": 57533,
+    "stargazers_count": 1994,
+    "watchers_count": 1994,
     "language": "Rust",
     "has_issues": true,
     "has_projects": true,
@@ -85,7 +85,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 140,
+    "open_issues_count": 142,
     "license": {
         "key": "gpl-3.0",
         "name": "GNU General Public License v3.0",
@@ -94,8 +94,8 @@
         "node_id": "MDc6TGljZW5zZTk="
     },
     "forks": 339,
-    "open_issues": 140,
-    "watchers": 1988,
+    "open_issues": 142,
+    "watchers": 1994,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -124,5 +124,5 @@
         "site_admin": false
     },
     "network_count": 339,
-    "subscribers_count": 171
+    "subscribers_count": 173
 }

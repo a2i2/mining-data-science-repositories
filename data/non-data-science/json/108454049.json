@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/tkipf/pygcn/releases{/id}",
     "deployments_url": "https://api.github.com/repos/tkipf/pygcn/deployments",
     "created_at": "2017-10-26T19:05:04Z",
-    "updated_at": "2020-03-05T12:57:57Z",
+    "updated_at": "2020-03-11T03:58:22Z",
     "pushed_at": "2019-11-10T05:07:08Z",
     "git_url": "git://github.com/tkipf/pygcn.git",
     "ssh_url": "git@github.com:tkipf/pygcn.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/tkipf/pygcn",
     "homepage": null,
     "size": 225,
-    "stargazers_count": 2331,
-    "watchers_count": 2331,
+    "stargazers_count": 2347,
+    "watchers_count": 2347,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 559,
+    "forks_count": 564,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 559,
+    "forks": 564,
     "open_issues": 34,
-    "watchers": 2331,
+    "watchers": 2347,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 559,
+    "network_count": 564,
     "subscribers_count": 44
 }

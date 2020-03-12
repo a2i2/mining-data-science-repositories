@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/SublimeLinter/SublimeLinter/releases{/id}",
     "deployments_url": "https://api.github.com/repos/SublimeLinter/SublimeLinter/deployments",
     "created_at": "2013-10-22T18:27:36Z",
-    "updated_at": "2020-03-05T03:06:37Z",
+    "updated_at": "2020-03-10T12:50:24Z",
     "pushed_at": "2019-11-29T20:02:02Z",
     "git_url": "git://github.com/SublimeLinter/SublimeLinter.git",
     "ssh_url": "git@github.com:SublimeLinter/SublimeLinter.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/SublimeLinter/SublimeLinter",
     "homepage": "http://sublimelinter.com",
     "size": 4496,
-    "stargazers_count": 1845,
-    "watchers_count": 1845,
+    "stargazers_count": 1850,
+    "watchers_count": 1850,
     "language": "Python",
     "has_issues": true,
     "has_projects": false,
@@ -85,7 +85,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 18,
+    "open_issues_count": 21,
     "license": {
         "key": "mit",
         "name": "MIT License",
@@ -94,8 +94,8 @@
         "node_id": "MDc6TGljZW5zZTEz"
     },
     "forks": 268,
-    "open_issues": 18,
-    "watchers": 1845,
+    "open_issues": 21,
+    "watchers": 1850,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -124,5 +124,5 @@
         "site_admin": false
     },
     "network_count": 268,
-    "subscribers_count": 56
+    "subscribers_count": 57
 }

@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/thomasvs/morituri/releases{/id}",
     "deployments_url": "https://api.github.com/repos/thomasvs/morituri/deployments",
     "created_at": "2013-01-07T09:32:44Z",
-    "updated_at": "2020-01-24T13:23:04Z",
+    "updated_at": "2020-03-08T15:24:34Z",
     "pushed_at": "2016-09-12T21:14:00Z",
     "git_url": "git://github.com/thomasvs/morituri.git",
     "ssh_url": "git@github.com:thomasvs/morituri.git",

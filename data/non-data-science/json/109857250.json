@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/facebookresearch/GradientEpisodicMemory/releases{/id}",
     "deployments_url": "https://api.github.com/repos/facebookresearch/GradientEpisodicMemory/deployments",
     "created_at": "2017-11-07T15:53:53Z",
-    "updated_at": "2020-03-02T19:58:18Z",
+    "updated_at": "2020-03-11T01:46:34Z",
     "pushed_at": "2018-10-22T13:06:09Z",
     "git_url": "git://github.com/facebookresearch/GradientEpisodicMemory.git",
     "ssh_url": "git@github.com:facebookresearch/GradientEpisodicMemory.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/facebookresearch/GradientEpisodicMemory",
     "homepage": null,
     "size": 29,
-    "stargazers_count": 227,
-    "watchers_count": 227,
+    "stargazers_count": 228,
+    "watchers_count": 228,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 41,
+    "forks_count": 42,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": null,
         "node_id": "MDc6TGljZW5zZTA="
     },
-    "forks": 41,
+    "forks": 42,
     "open_issues": 2,
-    "watchers": 227,
+    "watchers": 228,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 41,
+    "network_count": 42,
     "subscribers_count": 11
 }

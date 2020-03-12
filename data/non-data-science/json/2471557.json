@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/spadgos/sublime-jsdocs/releases{/id}",
     "deployments_url": "https://api.github.com/repos/spadgos/sublime-jsdocs/deployments",
     "created_at": "2011-09-27T23:30:31Z",
-    "updated_at": "2020-03-02T16:29:27Z",
+    "updated_at": "2020-03-10T07:21:16Z",
     "pushed_at": "2018-05-14T11:03:10Z",
     "git_url": "git://github.com/spadgos/sublime-jsdocs.git",
     "ssh_url": "git@github.com:spadgos/sublime-jsdocs.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/spadgos/sublime-jsdocs",
     "homepage": "",
     "size": 1339,
-    "stargazers_count": 3130,
-    "watchers_count": 3130,
+    "stargazers_count": 3132,
+    "watchers_count": 3132,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": true,
-    "forks_count": 300,
+    "forks_count": 301,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 300,
+    "forks": 301,
     "open_issues": 151,
-    "watchers": 3130,
+    "watchers": 3132,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 300,
+    "network_count": 301,
     "subscribers_count": 87
 }

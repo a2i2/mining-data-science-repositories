@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/SublimeCodeIntel/SublimeCodeIntel/releases{/id}",
     "deployments_url": "https://api.github.com/repos/SublimeCodeIntel/SublimeCodeIntel/deployments",
     "created_at": "2011-05-31T00:53:31Z",
-    "updated_at": "2020-03-05T12:42:09Z",
+    "updated_at": "2020-03-09T16:47:53Z",
     "pushed_at": "2019-10-07T11:41:56Z",
     "git_url": "git://github.com/SublimeCodeIntel/SublimeCodeIntel.git",
     "ssh_url": "git@github.com:SublimeCodeIntel/SublimeCodeIntel.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/SublimeCodeIntel/SublimeCodeIntel",
     "homepage": "https://www.sublimecodeintel.com",
     "size": 55157,
-    "stargazers_count": 5013,
-    "watchers_count": 5013,
+    "stargazers_count": 5015,
+    "watchers_count": 5015,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 539,
+    "forks_count": 540,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": null,
         "node_id": "MDc6TGljZW5zZTA="
     },
-    "forks": 539,
+    "forks": 540,
     "open_issues": 343,
-    "watchers": 5013,
+    "watchers": 5015,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 539,
+    "network_count": 540,
     "subscribers_count": 172
 }

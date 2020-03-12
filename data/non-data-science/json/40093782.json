@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/10se1ucgo/DisableWinTracking/releases{/id}",
     "deployments_url": "https://api.github.com/repos/10se1ucgo/DisableWinTracking/deployments",
     "created_at": "2015-08-02T21:44:34Z",
-    "updated_at": "2020-03-05T19:24:04Z",
+    "updated_at": "2020-03-11T04:41:58Z",
     "pushed_at": "2019-04-26T14:44:46Z",
     "git_url": "git://github.com/10se1ucgo/DisableWinTracking.git",
     "ssh_url": "git@github.com:10se1ucgo/DisableWinTracking.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/10se1ucgo/DisableWinTracking",
     "homepage": "",
     "size": 261,
-    "stargazers_count": 4876,
-    "watchers_count": 4876,
+    "stargazers_count": 4877,
+    "watchers_count": 4877,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 331,
     "open_issues": 12,
-    "watchers": 4876,
+    "watchers": 4877,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -104,5 +104,5 @@
     },
     "temp_clone_token": "",
     "network_count": 331,
-    "subscribers_count": 310
+    "subscribers_count": 311
 }

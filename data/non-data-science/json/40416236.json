@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/minimaxir/big-list-of-naughty-strings/releases{/id}",
     "deployments_url": "https://api.github.com/repos/minimaxir/big-list-of-naughty-strings/deployments",
     "created_at": "2015-08-08T20:57:20Z",
-    "updated_at": "2020-03-06T00:00:04Z",
+    "updated_at": "2020-03-11T09:58:17Z",
     "pushed_at": "2020-02-27T15:31:12Z",
     "git_url": "git://github.com/minimaxir/big-list-of-naughty-strings.git",
     "ssh_url": "git@github.com:minimaxir/big-list-of-naughty-strings.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/minimaxir/big-list-of-naughty-strings",
     "homepage": null,
     "size": 399,
-    "stargazers_count": 34980,
-    "watchers_count": 34980,
+    "stargazers_count": 35002,
+    "watchers_count": 35002,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 1541,
+    "forks_count": 1544,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 1541,
+    "forks": 1544,
     "open_issues": 61,
-    "watchers": 34980,
+    "watchers": 35002,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 1541,
-    "subscribers_count": 810
+    "network_count": 1544,
+    "subscribers_count": 812
 }

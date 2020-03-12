@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/pynamodb/PynamoDB/releases{/id}",
     "deployments_url": "https://api.github.com/repos/pynamodb/PynamoDB/deployments",
     "created_at": "2014-01-20T02:18:35Z",
-    "updated_at": "2020-03-05T16:18:13Z",
+    "updated_at": "2020-03-08T18:15:20Z",
     "pushed_at": "2020-02-25T05:29:22Z",
     "git_url": "git://github.com/pynamodb/PynamoDB.git",
     "ssh_url": "git@github.com:pynamodb/PynamoDB.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/pynamodb/PynamoDB",
     "homepage": "http://pynamodb.readthedocs.io",
     "size": 1973,
-    "stargazers_count": 1153,
-    "watchers_count": 1153,
+    "stargazers_count": 1160,
+    "watchers_count": 1160,
     "language": "Python",
     "has_issues": true,
     "has_projects": false,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 295,
+    "forks_count": 294,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 295,
+    "forks": 294,
     "open_issues": 171,
-    "watchers": 1153,
+    "watchers": 1160,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 295,
+    "network_count": 294,
     "subscribers_count": 43
 }

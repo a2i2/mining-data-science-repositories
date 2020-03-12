@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/vilemduha/blendercam/releases{/id}",
     "deployments_url": "https://api.github.com/repos/vilemduha/blendercam/deployments",
     "created_at": "2015-03-13T07:32:59Z",
-    "updated_at": "2020-02-26T14:53:54Z",
+    "updated_at": "2020-03-10T12:08:27Z",
     "pushed_at": "2020-01-09T21:57:08Z",
     "git_url": "git://github.com/vilemduha/blendercam.git",
     "ssh_url": "git@github.com:vilemduha/blendercam.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/vilemduha/blendercam",
     "homepage": null,
     "size": 3162,
-    "stargazers_count": 156,
-    "watchers_count": 156,
+    "stargazers_count": 160,
+    "watchers_count": 160,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 55,
     "open_issues": 38,
-    "watchers": 156,
+    "watchers": 160,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -104,5 +104,5 @@
     },
     "temp_clone_token": "",
     "network_count": 55,
-    "subscribers_count": 46
+    "subscribers_count": 47
 }

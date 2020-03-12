@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/jupyter/jupyter/releases{/id}",
     "deployments_url": "https://api.github.com/repos/jupyter/jupyter/deployments",
     "created_at": "2015-06-04T21:05:00Z",
-    "updated_at": "2020-03-05T22:44:35Z",
+    "updated_at": "2020-03-11T00:56:59Z",
     "pushed_at": "2019-11-22T17:45:03Z",
     "git_url": "git://github.com/jupyter/jupyter.git",
     "ssh_url": "git@github.com:jupyter/jupyter.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/jupyter/jupyter",
     "homepage": "https://jupyter.readthedocs.io/",
     "size": 5101,
-    "stargazers_count": 9550,
-    "watchers_count": 9550,
+    "stargazers_count": 9589,
+    "watchers_count": 9589,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 2248,
+    "forks_count": 2260,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/bsd-3-clause",
         "node_id": "MDc6TGljZW5zZTU="
     },
-    "forks": 2248,
+    "forks": 2260,
     "open_issues": 162,
-    "watchers": 9550,
+    "watchers": 9589,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 2248,
-    "subscribers_count": 620
+    "network_count": 2260,
+    "subscribers_count": 623
 }

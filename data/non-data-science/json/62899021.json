@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/openwisp/django-x509/releases{/id}",
     "deployments_url": "https://api.github.com/repos/openwisp/django-x509/deployments",
     "created_at": "2016-07-08T15:35:04Z",
-    "updated_at": "2020-03-05T10:08:23Z",
+    "updated_at": "2020-03-10T18:25:18Z",
     "pushed_at": "2020-02-26T21:57:06Z",
     "git_url": "git://github.com/openwisp/django-x509.git",
     "ssh_url": "git@github.com:openwisp/django-x509.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/openwisp/django-x509",
     "homepage": "http://openwisp.org",
     "size": 272,
-    "stargazers_count": 324,
-    "watchers_count": 324,
+    "stargazers_count": 322,
+    "watchers_count": 322,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 47,
     "open_issues": 2,
-    "watchers": 324,
+    "watchers": 322,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -124,5 +124,5 @@
         "site_admin": false
     },
     "network_count": 47,
-    "subscribers_count": 18
+    "subscribers_count": 19
 }

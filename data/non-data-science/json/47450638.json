@@ -65,16 +65,16 @@
     "releases_url": "https://api.github.com/repos/apple/swift-integration-tests/releases{/id}",
     "deployments_url": "https://api.github.com/repos/apple/swift-integration-tests/deployments",
     "created_at": "2015-12-05T09:49:53Z",
-    "updated_at": "2019-11-18T15:50:31Z",
-    "pushed_at": "2020-03-05T09:19:23Z",
+    "updated_at": "2020-03-11T06:07:04Z",
+    "pushed_at": "2020-03-10T21:20:40Z",
     "git_url": "git://github.com/apple/swift-integration-tests.git",
     "ssh_url": "git@github.com:apple/swift-integration-tests.git",
     "clone_url": "https://github.com/apple/swift-integration-tests.git",
     "svn_url": "https://github.com/apple/swift-integration-tests",
     "homepage": "",
-    "size": 173,
-    "stargazers_count": 75,
-    "watchers_count": 75,
+    "size": 175,
+    "stargazers_count": 77,
+    "watchers_count": 77,
     "language": "Python",
     "has_issues": false,
     "has_projects": true,
@@ -89,7 +89,7 @@
     "license": null,
     "forks": 51,
     "open_issues": 3,
-    "watchers": 75,
+    "watchers": 77,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -118,5 +118,5 @@
         "site_admin": false
     },
     "network_count": 51,
-    "subscribers_count": 82
+    "subscribers_count": 83
 }

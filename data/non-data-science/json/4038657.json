@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/aziz/PlainTasks/releases{/id}",
     "deployments_url": "https://api.github.com/repos/aziz/PlainTasks/deployments",
     "created_at": "2012-04-16T07:43:52Z",
-    "updated_at": "2020-03-02T08:07:16Z",
+    "updated_at": "2020-03-11T06:47:16Z",
     "pushed_at": "2019-09-03T09:46:28Z",
     "git_url": "git://github.com/aziz/PlainTasks.git",
     "ssh_url": "git@github.com:aziz/PlainTasks.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/aziz/PlainTasks",
     "homepage": "",
     "size": 624,
-    "stargazers_count": 3132,
-    "watchers_count": 3132,
+    "stargazers_count": 3136,
+    "watchers_count": 3136,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 298,
+    "forks_count": 297,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 298,
+    "forks": 297,
     "open_issues": 75,
-    "watchers": 3132,
+    "watchers": 3136,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 298,
+    "network_count": 297,
     "subscribers_count": 109
 }

@@ -81,11 +81,11 @@
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 65,
+    "forks_count": 64,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 40,
+    "open_issues_count": 25,
     "license": {
         "key": "mit",
         "name": "MIT License",
@@ -93,8 +93,8 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 65,
-    "open_issues": 40,
+    "forks": 64,
+    "open_issues": 25,
     "watchers": 492,
     "default_branch": "master",
     "permissions": {
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 65,
+    "network_count": 64,
     "subscribers_count": 15
 }

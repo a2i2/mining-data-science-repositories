@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/javipalanca/spade/releases{/id}",
     "deployments_url": "https://api.github.com/repos/javipalanca/spade/deployments",
     "created_at": "2012-11-23T15:29:14Z",
-    "updated_at": "2020-02-18T20:28:22Z",
+    "updated_at": "2020-03-10T10:12:03Z",
     "pushed_at": "2020-02-20T11:38:39Z",
     "git_url": "git://github.com/javipalanca/spade.git",
     "ssh_url": "git@github.com:javipalanca/spade.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/javipalanca/spade",
     "homepage": null,
     "size": 103303,
-    "stargazers_count": 145,
-    "watchers_count": 145,
+    "stargazers_count": 147,
+    "watchers_count": 147,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": true,
-    "forks_count": 61,
+    "forks_count": 62,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 61,
+    "forks": 62,
     "open_issues": 10,
-    "watchers": 145,
+    "watchers": 147,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 61,
+    "network_count": 62,
     "subscribers_count": 24
 }

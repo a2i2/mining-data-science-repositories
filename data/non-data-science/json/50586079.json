@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/Nanoseb/ncTelegram/releases{/id}",
     "deployments_url": "https://api.github.com/repos/Nanoseb/ncTelegram/deployments",
     "created_at": "2016-01-28T13:51:13Z",
-    "updated_at": "2020-02-23T11:35:22Z",
+    "updated_at": "2020-03-11T07:38:50Z",
     "pushed_at": "2018-11-05T19:23:00Z",
     "git_url": "git://github.com/Nanoseb/ncTelegram.git",
     "ssh_url": "git@github.com:Nanoseb/ncTelegram.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/Nanoseb/ncTelegram",
     "homepage": null,
     "size": 206,
-    "stargazers_count": 254,
-    "watchers_count": 254,
+    "stargazers_count": 255,
+    "watchers_count": 255,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 30,
+    "forks_count": 31,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/gpl-3.0",
         "node_id": "MDc6TGljZW5zZTk="
     },
-    "forks": 30,
+    "forks": 31,
     "open_issues": 22,
-    "watchers": 254,
+    "watchers": 255,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 30,
+    "network_count": 31,
     "subscribers_count": 14
 }

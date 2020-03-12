@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/anishathalye/git-remote-dropbox/releases{/id}",
     "deployments_url": "https://api.github.com/repos/anishathalye/git-remote-dropbox/deployments",
     "created_at": "2015-08-11T03:37:19Z",
-    "updated_at": "2020-03-04T11:22:31Z",
+    "updated_at": "2020-03-10T05:34:37Z",
     "pushed_at": "2020-01-28T05:51:40Z",
     "git_url": "git://github.com/anishathalye/git-remote-dropbox.git",
     "ssh_url": "git@github.com:anishathalye/git-remote-dropbox.git",
@@ -73,8 +73,8 @@
     "svn_url": "https://github.com/anishathalye/git-remote-dropbox",
     "homepage": "http://www.anishathalye.com/2015/08/19/git-remote-dropbox/",
     "size": 103,
-    "stargazers_count": 2596,
-    "watchers_count": 2596,
+    "stargazers_count": 2600,
+    "watchers_count": 2600,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
@@ -95,7 +95,7 @@
     },
     "forks": 126,
     "open_issues": 8,
-    "watchers": 2596,
+    "watchers": 2600,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -104,5 +104,5 @@
     },
     "temp_clone_token": "",
     "network_count": 126,
-    "subscribers_count": 58
+    "subscribers_count": 59
 }

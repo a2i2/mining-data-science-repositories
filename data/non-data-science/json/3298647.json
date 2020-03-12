@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/veeresht/CommPy/releases{/id}",
     "deployments_url": "https://api.github.com/repos/veeresht/CommPy/deployments",
     "created_at": "2012-01-29T17:57:27Z",
-    "updated_at": "2020-03-05T11:23:43Z",
+    "updated_at": "2020-03-10T07:45:08Z",
     "pushed_at": "2020-03-04T16:21:59Z",
     "git_url": "git://github.com/veeresht/CommPy.git",
     "ssh_url": "git@github.com:veeresht/CommPy.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/veeresht/CommPy",
     "homepage": "http://veeresht.github.com/CommPy",
     "size": 1388,
-    "stargazers_count": 190,
-    "watchers_count": 190,
+    "stargazers_count": 191,
+    "watchers_count": 191,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": true,
-    "forks_count": 74,
+    "forks_count": 75,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/bsd-3-clause",
         "node_id": "MDc6TGljZW5zZTU="
     },
-    "forks": 74,
+    "forks": 75,
     "open_issues": 7,
-    "watchers": 190,
+    "watchers": 191,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 74,
+    "network_count": 75,
     "subscribers_count": 28
 }

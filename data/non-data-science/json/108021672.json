@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/facebookresearch/MUSE/releases{/id}",
     "deployments_url": "https://api.github.com/repos/facebookresearch/MUSE/deployments",
     "created_at": "2017-10-23T18:20:39Z",
-    "updated_at": "2020-03-05T05:47:47Z",
+    "updated_at": "2020-03-10T15:20:28Z",
     "pushed_at": "2019-11-11T19:01:12Z",
     "git_url": "git://github.com/facebookresearch/MUSE.git",
     "ssh_url": "git@github.com:facebookresearch/MUSE.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/facebookresearch/MUSE",
     "homepage": "",
     "size": 210,
-    "stargazers_count": 2343,
-    "watchers_count": 2343,
+    "stargazers_count": 2352,
+    "watchers_count": 2352,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": false,
-    "forks_count": 405,
+    "forks_count": 409,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": null,
         "node_id": "MDc6TGljZW5zZTA="
     },
-    "forks": 405,
+    "forks": 409,
     "open_issues": 47,
-    "watchers": 2343,
+    "watchers": 2352,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 405,
-    "subscribers_count": 97
+    "network_count": 409,
+    "subscribers_count": 98
 }

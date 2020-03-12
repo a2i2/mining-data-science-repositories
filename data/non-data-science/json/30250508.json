@@ -66,7 +66,7 @@
     "deployments_url": "https://api.github.com/repos/heywbj/django-rest-framework-recursive/deployments",
     "created_at": "2015-02-03T15:48:40Z",
     "updated_at": "2020-02-17T01:29:28Z",
-    "pushed_at": "2018-10-07T08:01:05Z",
+    "pushed_at": "2020-03-09T18:52:16Z",
     "git_url": "git://github.com/heywbj/django-rest-framework-recursive.git",
     "ssh_url": "git@github.com:heywbj/django-rest-framework-recursive.git",
     "clone_url": "https://github.com/heywbj/django-rest-framework-recursive.git",
@@ -81,11 +81,11 @@
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 26,
+    "forks_count": 27,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 2,
+    "open_issues_count": 3,
     "license": {
         "key": "isc",
         "name": "ISC License",
@@ -93,8 +93,8 @@
         "url": "https://api.github.com/licenses/isc",
         "node_id": "MDc6TGljZW5zZTEw"
     },
-    "forks": 26,
-    "open_issues": 2,
+    "forks": 27,
+    "open_issues": 3,
     "watchers": 225,
     "default_branch": "master",
     "permissions": {
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 26,
+    "network_count": 27,
     "subscribers_count": 7
 }

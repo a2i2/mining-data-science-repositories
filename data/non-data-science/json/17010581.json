@@ -66,13 +66,13 @@
     "deployments_url": "https://api.github.com/repos/plaid/plaid-python/deployments",
     "created_at": "2014-02-20T05:41:38Z",
     "updated_at": "2020-02-21T01:00:21Z",
-    "pushed_at": "2020-03-05T23:59:49Z",
+    "pushed_at": "2020-03-06T23:30:59Z",
     "git_url": "git://github.com/plaid/plaid-python.git",
     "ssh_url": "git@github.com:plaid/plaid-python.git",
     "clone_url": "https://github.com/plaid/plaid-python.git",
     "svn_url": "https://github.com/plaid/plaid-python",
     "homepage": "https://plaid.com/docs",
-    "size": 425,
+    "size": 428,
     "stargazers_count": 162,
     "watchers_count": 162,
     "language": "Python",
@@ -81,11 +81,11 @@
     "has_downloads": true,
     "has_wiki": false,
     "has_pages": true,
-    "forks_count": 89,
+    "forks_count": 90,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 26,
+    "open_issues_count": 27,
     "license": {
         "key": "mit",
         "name": "MIT License",
@@ -93,8 +93,8 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 89,
-    "open_issues": 26,
+    "forks": 90,
+    "open_issues": 27,
     "watchers": 162,
     "default_branch": "master",
     "permissions": {
@@ -123,6 +123,6 @@
         "type": "Organization",
         "site_admin": false
     },
-    "network_count": 89,
-    "subscribers_count": 51
+    "network_count": 90,
+    "subscribers_count": 52
 }

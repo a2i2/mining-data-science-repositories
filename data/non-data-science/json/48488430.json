@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/shidenggui/easyquotation/releases{/id}",
     "deployments_url": "https://api.github.com/repos/shidenggui/easyquotation/deployments",
     "created_at": "2015-12-23T12:04:33Z",
-    "updated_at": "2020-03-05T18:18:20Z",
+    "updated_at": "2020-03-11T03:07:16Z",
     "pushed_at": "2020-01-02T08:51:48Z",
     "git_url": "git://github.com/shidenggui/easyquotation.git",
     "ssh_url": "git@github.com:shidenggui/easyquotation.git",
@@ -73,19 +73,19 @@
     "svn_url": "https://github.com/shidenggui/easyquotation",
     "homepage": "",
     "size": 177,
-    "stargazers_count": 1942,
-    "watchers_count": 1942,
+    "stargazers_count": 1957,
+    "watchers_count": 1957,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 791,
+    "forks_count": 795,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 9,
+    "open_issues_count": 11,
     "license": {
         "key": "mit",
         "name": "MIT License",
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/mit",
         "node_id": "MDc6TGljZW5zZTEz"
     },
-    "forks": 791,
-    "open_issues": 9,
-    "watchers": 1942,
+    "forks": 795,
+    "open_issues": 11,
+    "watchers": 1957,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 791,
-    "subscribers_count": 242
+    "network_count": 795,
+    "subscribers_count": 241
 }

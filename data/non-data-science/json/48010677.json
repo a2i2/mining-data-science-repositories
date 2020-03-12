@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/aboul3la/Sublist3r/releases{/id}",
     "deployments_url": "https://api.github.com/repos/aboul3la/Sublist3r/deployments",
     "created_at": "2015-12-15T00:55:25Z",
-    "updated_at": "2020-03-05T15:25:06Z",
+    "updated_at": "2020-03-10T12:50:43Z",
     "pushed_at": "2020-03-02T23:41:59Z",
     "git_url": "git://github.com/aboul3la/Sublist3r.git",
     "ssh_url": "git@github.com:aboul3la/Sublist3r.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/aboul3la/Sublist3r",
     "homepage": null,
     "size": 1127,
-    "stargazers_count": 4436,
-    "watchers_count": 4436,
+    "stargazers_count": 4449,
+    "watchers_count": 4449,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 1121,
+    "forks_count": 1128,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": "https://api.github.com/licenses/gpl-2.0",
         "node_id": "MDc6TGljZW5zZTg="
     },
-    "forks": 1121,
+    "forks": 1128,
     "open_issues": 114,
-    "watchers": 4436,
+    "watchers": 4449,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 1121,
+    "network_count": 1128,
     "subscribers_count": 180
 }

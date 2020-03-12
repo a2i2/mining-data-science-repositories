@@ -65,7 +65,7 @@
     "releases_url": "https://api.github.com/repos/ammaraskar/pyCraft/releases{/id}",
     "deployments_url": "https://api.github.com/repos/ammaraskar/pyCraft/deployments",
     "created_at": "2012-04-05T02:55:42Z",
-    "updated_at": "2020-03-04T01:27:41Z",
+    "updated_at": "2020-03-10T21:53:33Z",
     "pushed_at": "2020-02-25T13:45:13Z",
     "git_url": "git://github.com/ammaraskar/pyCraft.git",
     "ssh_url": "git@github.com:ammaraskar/pyCraft.git",
@@ -73,15 +73,15 @@
     "svn_url": "https://github.com/ammaraskar/pyCraft",
     "homepage": "",
     "size": 625,
-    "stargazers_count": 408,
-    "watchers_count": 408,
+    "stargazers_count": 410,
+    "watchers_count": 410,
     "language": "Python",
     "has_issues": true,
     "has_projects": true,
     "has_downloads": true,
     "has_wiki": true,
     "has_pages": false,
-    "forks_count": 121,
+    "forks_count": 122,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -93,9 +93,9 @@
         "url": null,
         "node_id": "MDc6TGljZW5zZTA="
     },
-    "forks": 121,
+    "forks": 122,
     "open_issues": 35,
-    "watchers": 408,
+    "watchers": 410,
     "default_branch": "master",
     "permissions": {
         "admin": false,
@@ -103,6 +103,6 @@
         "pull": true
     },
     "temp_clone_token": "",
-    "network_count": 121,
+    "network_count": 122,
     "subscribers_count": 45
 }
