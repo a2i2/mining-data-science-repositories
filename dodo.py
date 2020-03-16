@@ -95,7 +95,7 @@ def task_fetch_data_science_projects():
 def task_clone_data_science_projects():
     """Run the explore task for the project"""
     return {
-        'actions': ["docker run --volume \"%s/\":/app %s python3 ./%s/task_clone_data_science_projects.py %s" % (CONFIG["volume_path"], IMAGE, PACKAGE_PATH, "%(args)s")],
+        'actions': ["docker run --volume \"%s/\":/app %s python3 ./%s/task_clone_data_science_repos.py %s" % (CONFIG["volume_path"], IMAGE, PACKAGE_PATH, "%(args)s")],
         'params': PARAMS
     }
 
