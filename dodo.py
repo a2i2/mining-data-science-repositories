@@ -86,7 +86,7 @@ def task_analyse_2to3():
 
 
 def task_fetch_data_science_projects():
-    """Run the explore task for the project"""
+    """Fetch project meta-data from GitHub"""
     return {
         'actions': ["docker run --volume \"%s/\":/app %s python3 ./%s/task_fetch_data_science_projects.py %s" % (CONFIG["volume_path"], IMAGE, PACKAGE_PATH, "%(args)s")],
         'params': PARAMS
