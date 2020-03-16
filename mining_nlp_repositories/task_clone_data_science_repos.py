@@ -17,7 +17,7 @@ def clone_repo(clone_dir, clone_url):
 def process_json(path_to_json_response):
     data = read_json_response(path_to_json_response)
     if data['id'] != 159175746 and data['id'] != 82329862 and data['id'] != 31302456 and data['id'] != 68827685 and data['id'] != 121175320 and data['id'] != 136026789:
-        clone_dir = '/Users/akshatbajaj/Desktop/esolutions/mining-nlp-repos/cloned-repos/boa5/' + str(data['id'])
+        clone_dir = '/data/boa/cloned-repos' + str(data['id'])
         clone_repo( clone_dir, data['html_url'])
         time.sleep(1)
 
