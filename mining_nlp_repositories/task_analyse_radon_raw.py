@@ -5,6 +5,7 @@ from surround import Config
 import pandas as pd
 import logging
 import json
+import sys
 
 logging.basicConfig(filename='../output/debug.log',level=logging.DEBUG)
 
@@ -87,7 +88,7 @@ def process(repo, repo_subdir, path, filepath, filepath_rel, py_version="python3
     modinfo = ModuleInfo.from_radon(repo, path, filepath_rel, result_stdout, result_stderr)
     return modinfo
 
-def analyse_radon(repo_dir, output_dir, py_version):
+def analyse_radon(repo_dir, output_dir, py_version, repo_id_list=None):
     # Information Extraction:
     # mapping of repo, path -> ModuleInfo
     modules = {}
@@ -96,6 +97,13 @@ def analyse_radon(repo_dir, output_dir, py_version):
     # mapping of repo, path -> type
 
     for dirpath, dirnames, filenames in os.walk(repo_dir):
+        if dirpath == repo_dir:
+            if repo_id_list is not None:
+                dirnames2 = [d for d in dirnames if d in set(repo_id_list)]
+                # os.walk allows *in-place* modification of dirnames
+                del dirnames[:] # clear the existing directory list
+                dirnames += dirnames2 # update with only the desired directories
+
         for filename in filenames:
             if filename.endswith(".py"):
                 logging.info([dirpath, filename])
@@ -119,5 +127,17 @@ def analyse_radon(repo_dir, output_dir, py_version):
 if __name__ == "__main__":
     input_directory = os.path.join("../", input_path)
     output_directory = os.path.join("../", output_path)
-    analyse_radon(input_directory, output_directory, "python2")
-    analyse_radon(input_directory, output_directory, "python3")
+
+    try:
+        repo_list_path = sys.argv[1]
+    except IndexError:
+        repo_list_path = None
+
+    if repo_list_path:
+        repo_list_path = os.path.join("../", repo_list_path)
+        repo_id_list = list(pd.read_csv(repo_list_path)["id"].astype(str))
+    else:
+        repo_id_list = None
+
+    analyse_radon(input_directory, output_directory, "python2", repo_id_list)
+    analyse_radon(input_directory, output_directory, "python3", repo_id_list)

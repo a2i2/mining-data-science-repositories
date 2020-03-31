@@ -4,6 +4,7 @@ import collections
 from surround import Config
 import pandas as pd
 import logging
+import sys
 from py2or3_wrapper import to_py_str, test_py
 
 logging.basicConfig(filename='../output/debug.log',level=logging.DEBUG)
@@ -31,7 +32,7 @@ def process(repo, path, filepath):
     verinfo = VerInfo(repo, path, result)
     return verinfo
 
-def analyse_version(repo_dir, output_dir):
+def analyse_version(repo_dir, output_dir, repo_id_list=None):
     # Information Extraction:
     # mapping of repo, path -> VerInfo
     modules = {}
@@ -40,6 +41,13 @@ def analyse_version(repo_dir, output_dir):
     # mapping of repo, path -> type
 
     for dirpath, dirnames, filenames in os.walk(repo_dir):
+        if dirpath == repo_dir:
+            if repo_id_list is not None:
+                dirnames2 = [d for d in dirnames if d in set(repo_id_list)]
+                # os.walk allows *in-place* modification of dirnames
+                del dirnames[:] # clear the existing directory list
+                dirnames += dirnames2 # update with only the desired directories
+
         for filename in filenames:
             if filename.endswith(".py"):
                 logging.info([dirpath, filename])
@@ -61,4 +69,16 @@ def analyse_version(repo_dir, output_dir):
 if __name__ == "__main__":
     input_directory = os.path.join("../", input_path)
     output_directory = os.path.join("../", output_path)
-    analyse_version(input_directory, output_directory)
+
+    try:
+        repo_list_path = sys.argv[1]
+    except IndexError:
+        repo_list_path = None
+
+    if repo_list_path:
+        repo_list_path = os.path.join("../", repo_list_path)
+        repo_id_list = list(pd.read_csv(repo_list_path)["id"].astype(str))
+    else:
+        repo_id_list = None
+
+    analyse_version(input_directory, output_directory, repo_id_list)
