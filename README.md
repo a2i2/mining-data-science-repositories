@@ -6,17 +6,19 @@ Research on mining NLP repositories.
 
 **Clone this repository**
 
-#Install Docker
+# Install Docker
 If docker is not present 
 
 Link to install ( [docker install] https://docs.docker.com/v17.12/install/#supported-platforms )
 
 # Datasets
-We have two directories input and output folders.
+We have three directories: input_drive, input, and output folders.
 
-The research datasets needs to be put into the input folder.
+The research datasets needs to be put into the input_drive folder.
 
 This will be mounted at runtime.
+
+The symlink_input task will symlink repos found within the input_drive to the input folder.
 
 # GitHub Access Token
 
@@ -26,24 +28,33 @@ Go to https://github.com/settings/tokens/new to generate a new token with the pe
 
 * To list all tasks 
 
-    `doit list`
+    `surround run list`
     
 * Build the docker image
 
-    `doit build`
+    `surround run build`
     
 * Fetch project meta-data from GitHub (requires GitHub Access Token)
 
-    `doit fetch_data_science_projects`
+    `surround run fetch_data_science_projects`
 
-* Extract metrics (requires repos in `input` directory):
+* Populate input directory with symlinks (requires repos in `input_drive` directory):
 
-    `doit analyse_imports`
-    `doit analyse_2to3`
-    `doit analyse_pylint`
-    `doit analyse_radon_cc`
+    `surround run symlink_input`
+
+* Extract metrics (requires `input` directory to be populated):
+
+    ```
+    surround run analyse_imports
+    surround run analyse_2to3
+    surround run analyse_pylint
+    surround run analyse_radon_cc
+    ```
+    
+    Each of the analyse tasks support an optional argument to limit the list of repositories analysed, e.g. `surround run analyse_pylint input/repos-ids.csv` (useful for splitting up large jobs). If not provided, all repos will be analysed.
+    
 
 * Remove the docker image
     
-    `doit remove`
+    `surround run remove`
 

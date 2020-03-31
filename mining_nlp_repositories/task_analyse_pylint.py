@@ -115,24 +115,20 @@ def analyse_pylint(repo_dir, output_dir, py_version, repo_id_list=None):
     # mapping of repo, path -> ModuleInfo
     modules = {}
 
-    for dirpath, dirnames, filenames in os.walk(repo_dir):
-        if dirpath == repo_dir:
-            if repo_id_list is not None:
-                dirnames2 = [d for d in dirnames if d in set(repo_id_list)]
-                # os.walk allows *in-place* modification of dirnames
-                del dirnames[:] # clear the existing directory list
-                dirnames += dirnames2 # update with only the desired directories
+    if repo_id_list is None:
+        repo_id_list = os.listdir(repo_dir)
 
-        for filename in filenames:
-            if filename.endswith(".py"):
-                logging.info([dirpath, filename])
-                filepath = os.path.join(dirpath, filename)
-                path = os.path.normpath(os.path.relpath(filepath, repo_dir))
-                repo = path.split(os.path.sep)[0]
-                repo_subdir = os.path.join(repo_dir, repo)
-                filepath_rel = os.path.normpath(os.path.relpath(filepath, repo_subdir))
-                modinfo = process(repo, repo_subdir, path, filepath, filepath_rel, py_version, PY_ENV[py_version])
-                modules[(repo, path)] = modinfo
+    for repo in repo_id_list:
+        repo_subdir = os.path.join(repo_dir, repo)
+        for dirpath, dirnames, filenames in os.walk(repo_subdir):
+            for filename in filenames:
+                if filename.endswith(".py"):
+                    logging.info([dirpath, filename])
+                    filepath = os.path.join(dirpath, filename)
+                    path = os.path.normpath(os.path.relpath(filepath, repo_dir))
+                    filepath_rel = os.path.normpath(os.path.relpath(filepath, repo_subdir))
+                    modinfo = process(repo, repo_subdir, path, filepath, filepath_rel, py_version, PY_ENV[py_version])
+                    modules[(repo, path)] = modinfo
 
     rows = []
     for (repo, path), module in modules.items():
