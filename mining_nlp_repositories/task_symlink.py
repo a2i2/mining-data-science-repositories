@@ -33,7 +33,10 @@ def create_symlinks(repo_dir, subdir, symlink_dir):
         repo_path = os.path.join(subdir_path, dir)
         if os.path.isdir(repo_path):
             symlink_name = os.path.join(symlink_dir, dir)
-            os.symlink(repo_path, symlink_name)
+            try:
+                os.symlink(repo_path, symlink_name)
+            except FileExistsError as e:
+                logging.warn(e)
 
 if __name__ == "__main__":
     input_drive_directory = os.path.join("../", input_drive_path)
