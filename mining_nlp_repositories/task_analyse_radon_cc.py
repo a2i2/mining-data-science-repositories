@@ -7,8 +7,6 @@ import logging
 import json
 import sys
 
-logging.basicConfig(filename='../output/debug.log',level=logging.DEBUG)
-
 config = Config()
 config.read_config_files(['config.yaml'])
 input_path = config['input_path']
@@ -132,9 +130,9 @@ def analyse_radon(repo_dir, output_dir, py_version, repo_id_list=None):
 
 if __name__ == "__main__":
     input_directory = os.path.join("../", input_path)
-    output_directory = os.path.join("../", output_path)
 
     try:
+        # limit to list of repositories
         repo_list_path = sys.argv[1]
     except IndexError:
         repo_list_path = None
@@ -144,6 +142,15 @@ if __name__ == "__main__":
         repo_id_list = list(pd.read_csv(repo_list_path)["id"].astype(str))
     else:
         repo_id_list = None
+
+    try:
+        # custom output_path
+        output_path = sys.argv[2]
+    except IndexError:
+        pass # leave output_path as is
+
+    output_directory = os.path.join("../", output_path)
+    logging.basicConfig(filename=os.path.join(output_directory, 'debug.log'),level=logging.DEBUG)
 
     analyse_radon(input_directory, output_directory, "python2", repo_id_list)
     analyse_radon(input_directory, output_directory, "python3", repo_id_list)
