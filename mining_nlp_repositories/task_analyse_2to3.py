@@ -32,7 +32,14 @@ class ModuleInfo:
                 # TODO: Deal with edge case where line itself begins with --
                 headers += 1
                 continue
+            if line.startswith("+++"):
+                # Diff header
+                # TODO: Deal with edge case where line itself begins with ++
+                continue
             if line.startswith("-"):
+                diffcount += 1
+                continue
+            if line.startswith("+"):
                 diffcount += 1
                 continue
 
