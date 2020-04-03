@@ -96,8 +96,7 @@ def process(repo, repo_subdir, path, filepath, filepath_rel, py_version="python3
     logging.info(repo_subdir)
     # set working dir to root of project so that imports resolve correctly
     # (doesn't make any difference unless run for whole project at the module level)
-    result = subprocess.run([os.path.join(py_env, py_version),
-                             "-m", "pylint",
+    result = subprocess.run([os.path.join(py_env, "pylint"),
                              "--output-format", "json",
                              "--rcfile", PYLINT_RC_FILE + py_version,
                              filepath_rel],

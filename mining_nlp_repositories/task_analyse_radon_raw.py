@@ -76,8 +76,8 @@ class ModuleInfo:
         return [self.to_row()]
 
 def process(repo, repo_subdir, path, filepath, filepath_rel, py_version="python3", py_env=""):
-    result = subprocess.run([os.path.join(py_env, py_version),
-                             "-m", "radon", "raw", "-j",
+    result = subprocess.run([os.path.join(py_env, "radon"),
+                             "raw", "-j",
                              filepath_rel],
         cwd=repo_subdir,
         stdout=subprocess.PIPE, stderr=subprocess.PIPE)
