@@ -51,6 +51,13 @@ def task_analyse_pylint():
         'params': PARAMS
     }
 
+def task_analyse_loc():
+    """Run the analyse (non-blank) loc task for the project"""
+    return {
+        'actions': ["docker run -w /app/%s %s %s python3 task_analyse_loc.py %s" % (PACKAGE_PATH, DOCKER_VOLUME_PATH_STRING, IMAGE, "%(args)s")],
+        'params': PARAMS
+    }
+
 
 def task_analyse_radon_raw():
     """Run the analyse radon raw task for the project"""
