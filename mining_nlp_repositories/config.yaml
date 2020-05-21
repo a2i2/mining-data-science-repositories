@@ -3,3 +3,4 @@ company: a2i2
 version: latest
 input_path: input
 output_path: output
+input_drive_path: input_drive

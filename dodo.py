@@ -9,7 +9,8 @@ PACKAGE_PATH = os.path.basename(CONFIG["package_path"])
 IMAGE = "%s/%s:%s" % (CONFIG["company"], CONFIG["image"], CONFIG["version"])
 DOCKER_VOLUME_PATH = ["--volume", "%s/input:/app/input" % CONFIG["volume_path"],
                       "--volume", "%s/output:/app/output" % CONFIG["volume_path"],
-                      "--volume", "{0}/{1}:/app/{1}".format(CONFIG["volume_path"], PACKAGE_PATH)]
+                      "--volume", "%s/input_drive:/app/input_drive:ro" % CONFIG["volume_path"],
+                      "--volume", "{0}/{1}:/app/{1}:ro".format(CONFIG["volume_path"], PACKAGE_PATH)]
 DOCKER_VOLUME_PATH_STRING = ' '.join(shlex.quote(arg) for arg in DOCKER_VOLUME_PATH)
 
 PARAMS = [
@@ -36,6 +37,12 @@ def task_remove():
         'params': PARAMS
     }
 
+def task_symlink_input():
+    """Create input directory with symlinks to input_drive"""
+    return {
+        'actions': ["docker run -w /app/%s %s %s python3 task_symlink.py %s" % (PACKAGE_PATH, DOCKER_VOLUME_PATH_STRING, IMAGE, "%(args)s")],
+        'params': PARAMS
+    }
 
 def task_analyse_pylint():
     """Run the analyse pylint task for the project"""

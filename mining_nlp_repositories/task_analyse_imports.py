@@ -4,8 +4,7 @@ import collections
 from surround import Config
 import pandas as pd
 import logging
-
-logging.basicConfig(filename='../output/debug.log',level=logging.DEBUG)
+import sys
 
 config = Config()
 config.read_config_files(['config.yaml'])
@@ -84,7 +83,7 @@ def process(repo, path, filepath, py_version="python3", py_env=""):
     modinfo.log(result_stderr)
     return modinfo
 
-def analyse_imports(repo_dir, output_dir, py_version):
+def analyse_imports(repo_dir, output_dir, py_version, repo_id_list=None):
     # Information Extraction:
     # mapping of repo, path -> ModuleInfo
     modules = {}
@@ -92,15 +91,19 @@ def analyse_imports(repo_dir, output_dir, py_version):
     # Post Analysis:
     # mapping of repo, path -> type
 
-    for dirpath, dirnames, filenames in os.walk(repo_dir):
-        for filename in filenames:
-            if filename.endswith(".py"):
-                logging.info([dirpath, filename])
-                filepath = os.path.join(dirpath, filename)
-                path = os.path.normpath(os.path.relpath(filepath, repo_dir))
-                repo = path.split(os.path.sep)[0]
-                modinfo = process(repo, path, filepath, py_version, PY_ENV[py_version])
-                modules[(repo, path)] = modinfo
+    if repo_id_list is None:
+        repo_id_list = os.listdir(repo_dir)
+
+    for repo in repo_id_list:
+        repo_subdir = os.path.join(repo_dir, repo)
+        for dirpath, dirnames, filenames in os.walk(repo_subdir):
+            for filename in filenames:
+                if filename.endswith(".py"):
+                    logging.info([dirpath, filename])
+                    filepath = os.path.join(dirpath, filename)
+                    path = os.path.normpath(os.path.relpath(filepath, repo_dir))
+                    modinfo = process(repo, path, filepath, py_version, PY_ENV[py_version])
+                    modules[(repo, path)] = modinfo
 
     rows = []
     for (repo, path), module in modules.items():
@@ -113,6 +116,27 @@ def analyse_imports(repo_dir, output_dir, py_version):
 
 if __name__ == "__main__":
     input_directory = os.path.join("../", input_path)
+
+    try:
+        # limit to list of repositories
+        repo_list_path = sys.argv[1]
+    except IndexError:
+        repo_list_path = None
+
+    if repo_list_path:
+        repo_list_path = os.path.join("../", repo_list_path)
+        repo_id_list = list(pd.read_csv(repo_list_path)["id"].astype(str))
+    else:
+        repo_id_list = None
+
+    try:
+        # custom output_path
+        output_path = sys.argv[2]
+    except IndexError:
+        pass # leave output_path as is
+
     output_directory = os.path.join("../", output_path)
-    analyse_imports(input_directory, output_directory, "python3")
-    analyse_imports(input_directory, output_directory, "python2")
+    logging.basicConfig(filename=os.path.join(output_directory, 'debug.log'),level=logging.DEBUG)
+
+    analyse_imports(input_directory, output_directory, "python3", repo_id_list)
+    analyse_imports(input_directory, output_directory, "python2", repo_id_list)
