@@ -86,8 +86,8 @@ class ModuleInfo:
 
 
 def process(repo, repo_subdir, path, filepath, filepath_rel, py_version="python3", py_env=""):
-    result = subprocess.run([os.path.join(py_env, py_version),
-                             "-m", "radon", "cc", "-j",
+    result = subprocess.run([os.path.join(py_env, "radon"),
+                             "cc", "-j",
                              filepath_rel],
         cwd=repo_subdir,
         stdout=subprocess.PIPE, stderr=subprocess.PIPE)

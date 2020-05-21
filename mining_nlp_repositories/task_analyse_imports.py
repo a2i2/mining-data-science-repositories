@@ -73,8 +73,7 @@ class ModuleInfo:
         return result
 
 def process(repo, path, filepath, py_version="python3", py_env=""):
-    result = subprocess.run([os.path.join(py_env, py_version),
-                             "-m", "findimports",
+    result = subprocess.run([os.path.join(py_env, "findimports"),
                              filepath],
         stdout=subprocess.PIPE, stderr=subprocess.PIPE)
     result_stdout = result.stdout.decode('utf-8')
