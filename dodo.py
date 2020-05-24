@@ -59,6 +59,14 @@ def task_analyse_loc():
     }
 
 
+def task_analyse_git():
+    """Run the analyse git task for the project"""
+    return {
+        'actions': ["docker run -w /app/%s %s %s python3 task_analyse_git.py %s" % (PACKAGE_PATH, DOCKER_VOLUME_PATH_STRING, IMAGE, "%(args)s")],
+        'params': PARAMS
+    }
+
+
 def task_analyse_radon_raw():
     """Run the analyse radon raw task for the project"""
     return {
