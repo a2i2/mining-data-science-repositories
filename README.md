@@ -76,6 +76,7 @@ Go to https://github.com/settings/tokens/new to generate a new token with the pe
     surround run analyse_pylint
     surround run analyse_radon_cc
     surround run analyse_loc
+    surround run analyse_git
     ```
 
     Each of the analyse tasks support an optional argument to limit the list of repositories analysed, e.g. `surround run analyse_pylint input/repos-ids.csv` (useful for splitting up large jobs). If not provided, all repos will be analysed.
@@ -90,7 +91,8 @@ Go to https://github.com/settings/tokens/new to generate a new token with the pe
     # mkdir -p output/ds-t4; nohup time doit --backend sqlite3 analyse_radon_raw --args "input_drive/selected/repo_ids_full_ds.csv output/ds-t4" > output/ds-t4/nohup.out &
     mkdir -p output/ds-t5; nohup time doit --backend sqlite3 analyse_version --args "input_drive/selected/repo_ids_full_ds.csv output/ds-t5" > output/ds-t5/nohup.out &
     mkdir -p output/ds-t6; nohup time doit --backend sqlite3 analyse_loc --args "input_drive/selected/repo_ids_full_ds.csv output/ds-t6" > output/ds-t6/nohup.out &
-
+    mkdir -p output/ds-t7; nohup time doit --backend sqlite3 analyse_git --args "input_drive/selected/repo_ids_full_ds.csv output/ds-t7" > output/ds-t7/nohup.out &
+    
     mkdir -p output/nonds-t1; nohup time doit --backend sqlite3 analyse_2to3 --args "input_drive/selected/repo_ids_full_nonds.csv output/nonds-t1" > output/nonds-t1/nohup.out &
     mkdir -p output/nonds-t2; nohup time doit --backend sqlite3 analyse_imports --args "input_drive/selected/repo_ids_full_nonds.csv output/nonds-t2" > output/nonds-t2/nohup.out &
     mkdir -p output/nonds-t3; nohup time doit --backend sqlite3 analyse_radon_cc --args "input_drive/selected/repo_ids_full_nonds.csv output/nonds-t3" > output/nonds-t3/nohup.out &
@@ -98,6 +100,7 @@ Go to https://github.com/settings/tokens/new to generate a new token with the pe
     # mkdir -p output/nonds-t4; nohup time doit --backend sqlite3 analyse_radon_raw --args "input_drive/selected/repo_ids_full_nonds.csv output/nonds-t4" > output/nonds-t4/nohup.out &
     mkdir -p output/nonds-t5; nohup time doit --backend sqlite3 analyse_version --args "input_drive/selected/repo_ids_full_nonds.csv output/nonds-t5" > output/nonds-t5/nohup.out & 
     mkdir -p output/nonds-t6; nohup time doit --backend sqlite3 analyse_loc --args "input_drive/selected/repo_ids_full_nonds.csv output/nonds-t6" > output/nonds-t6/nohup.out &
+    mkdir -p output/nonds-t7; nohup time doit --backend sqlite3 analyse_git --args "input_drive/selected/repo_ids_full_nonds.csv output/nonds-t7" > output/nonds-t7/nohup.out &
 
     mkdir -p output/ds-chunk11; nohup time doit --backend sqlite3 analyse_pylint --args "input_drive/selected/repo_ids_ds_chunk_000001-000800.csv output/ds-chunk11" > output/ds-chunk11/nohup.out &
     # Revised: Hangs indefinitely on repo 858127:
@@ -108,6 +111,7 @@ Go to https://github.com/settings/tokens/new to generate a new token with the pe
     mkdir -p output/nonds-chunk12; nohup time doit --backend sqlite3 analyse_pylint --args "input_drive/selected/repo_ids_nonds_chunk_000801-001600.csv output/nonds-chunk12" > output/nonds-chunk12/nohup.out &
     mkdir -p output/nonds-chunk13; nohup time doit --backend sqlite3 analyse_pylint --args "input_drive/selected/repo_ids_nonds_chunk_001601-002400.csv output/nonds-chunk13" > output/nonds-chunk13/nohup.out &
     mkdir -p output/nonds-chunk14; nohup time doit --backend sqlite3 analyse_pylint --args "input_drive/selected/repo_ids_nonds_chunk_002401-002511.csv output/nonds-chunk14" > output/nonds-chunk14/nohup.out &
+
     ```
 
     Each command takes between 1 hour (LOC over DS repos) to 52 hours (Pylint over chunk of 800 repos), and may consume up to 8GB of memory each. (We assigned ~4 concurrent tasks to each node)
@@ -121,6 +125,7 @@ Go to https://github.com/settings/tokens/new to generate a new token with the pe
    merge_chunks.ipynb
    merge_chunks-loc.ipynb
    merge_chunks-version.ipynb
+   merge_chunks-git.ipynb
    ```
 
    Analyse project imports and Python version (intermediate results, will be written to `output/notebooks_out`):
