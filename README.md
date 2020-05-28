@@ -4,7 +4,9 @@ Research on mining Data Science repositories.
 
 # Steps to Run
 
-**Clone this repository**
+**Figshare:** Extract contents of `results.tar.gz` to `output` directory, then jump to _Analyse results (in Jupyter)_ section.
+
+**From scratch:** Clone this repository then follow steps below to identify, clone, and analyse the repositories.
 
 # Install Docker
 If docker is not present 
@@ -20,7 +22,7 @@ We have four directories: `data`, `input_drive`, `input`, and `output`:
 
 * The `symlink_input` task will create symlinks within the `input` folder to the `input_drive`.
 
-* The `output` directory holds metrics and the final analysis results (Under 5 GB when compressed, so can be shared easily).
+* The `output` directory holds metrics and the final analysis results (2 GB when compressed, shared on Figshare).
 
 # GitHub Access Token
 
@@ -116,9 +118,9 @@ Go to https://github.com/settings/tokens/new to generate a new token with the pe
 
     Each command takes between 1 hour (LOC over DS repos) to 52 hours (Pylint over chunk of 800 repos), and may consume up to 8GB of memory each. (We assigned ~4 concurrent tasks to each node)
 
-* Analyse results (in Jupyter):
+# Analyse results (in Jupyter):
 
-   Merge the chunks back together (results will be written to `output/merged`):
+* Merge the chunks back together (results will be written to `output/merged`):
    ```
    merge_chunks-cc.ipynb
    merge_chunks-imports.ipynb
@@ -128,13 +130,13 @@ Go to https://github.com/settings/tokens/new to generate a new token with the pe
    merge_chunks-git.ipynb
    ```
 
-   Analyse project imports and Python version (intermediate results, will be written to `output/notebooks_out`):
+* Analyse project imports and Python version (intermediate results, will be written to `output/notebooks_out`):
    ```
    analyse_imports.ipynb
    analyse_py_ver.ipynb
    ```
 
-   Refine the final selection of DS and non-DS repos to control for the distribution of stars, age, etc.:
+* Refine the final selection of DS and non-DS repos to control for the distribution of stars, age, etc.:
    ```
    distributions-sel.ipynb
    ```
@@ -144,9 +146,15 @@ Go to https://github.com/settings/tokens/new to generate a new token with the pe
    ml-distribution.ipynb
    ```
 
-   Tables and figures for the paper will be exported to `output/notebooks_out`
+* Tables and figures for the paper will be exported to `output/notebooks_out`
 
 * Remove the docker image
 
     `surround run remove`
+
+# Known Bugs
+
+* The GitHub API pages results, thus the number of contributors is limited to 30, so this should be interpreted as 30+. This does not affect the figure in the paper (as the axis is limited to 30)
+* The old project name was `mining_nlp_repositories`, as we initially trailed the analysis on a corpus of NLP projects. The new project name `Mining Data Science Repositories` reflects the broader scope of the project to include all types of DS repositories (but the source code still contains references to the old project name).
+
 
