@@ -4,7 +4,7 @@ Research on mining Data Science repositories.
 
 # Steps to Run
 
-**Figshare:** Extract contents of `results.tar.gz` to `output` directory, then jump to _Analyse results (in Jupyter)_ section.
+**Figshare:** Extract contents of [results.tar.gz](https://doi.org/10.6084/m9.figshare.12377237.v2) to `output` directory, then jump to _Analyse results (in Jupyter)_ section.
 
 **From scratch:** Clone this repository then follow steps below to identify, clone, and analyse the repositories.
 
